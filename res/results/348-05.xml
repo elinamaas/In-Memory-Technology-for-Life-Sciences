@@ -141,18 +141,6 @@ Othel  Vidal, M.D.
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2071-11-17" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="49" end="53" text="Urso" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P2" start="1270" end="1282" text="SPRAY NAS QD" TYPE="ORGANIZATION/OTHER" comment=""></LOCATION>
-		<OTHER id="P3" start="1326" end="1331" text="44MCG" TYPE="MGRS" comment=""></OTHER>
-		<OTHER id="P4" start="1347" end="1358" text="Puff(s) INH" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P5" start="2121" end="2140" text="Portland Sanatorium" TYPE="FACILITY/BUILDGROUNDS" comment=""></OTHER>
-		<LOCATION id="P6" start="2430" end="2441" text="Vital Signs" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P7" start="2531" end="2534" text="SAT" TYPE="DATE" comment=""></DATE>
-		<NAME id="P8" start="2698" end="2706" text="Abd-soft" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P9" start="2779" end="2783" text="2 DM" TYPE="CURRENCY" comment=""></OTHER>
-		<OTHER id="P10" start="2937" end="2944" text="S.  Use" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P11" start="3270" end="3282" text="Othel  Vidal" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

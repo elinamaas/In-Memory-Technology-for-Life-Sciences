@@ -159,45 +159,6 @@ Amanda Qualls, M.D.
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2092-10-26" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P1" start="288" end="292" text="Mack" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P2" start="288" end="292" text="Mack" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P3" start="294" end="300" text="Rose C" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P4" start="302" end="310" text="06129040" TYPE="IDNUM" comment=""></ID>
-		<NAME id="P5" start="328" end="341" text="Amanda Qualls" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P6" start="356" end="370" text="Craig Faulkner" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P7" start="392" end="411" text="Dr. Kevin Katz
-Date" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P8" start="424" end="434" text="10/26/2092" TYPE="DATE" comment=""></DATE>
-		<DATE id="P9" start="977" end="981" text="2083" TYPE="DATE" comment=""></DATE>
-		<NAME id="P10" start="1778" end="1786" text="Achilles" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P11" start="2013" end="2019" text="R. SFA" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P12" start="3171" end="3177" text="R. SFA" TYPE="PROP_MISC" comment=""></OTHER>
-		<DATE id="P13" start="4522" end="4526" text="2083" TYPE="DATE" comment=""></DATE>
-		<DATE id="P14" start="4558" end="4562" text="2083" TYPE="DATE" comment=""></DATE>
-		<NAME id="P15" start="5131" end="5139" text="Achilles" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P16" start="5732" end="5736" text="2083" TYPE="DATE" comment=""></DATE>
-		<DATE id="P17" start="5895" end="5899" text="2090" TYPE="DATE" comment=""></DATE>
-		<DATE id="P18" start="5951" end="5955" text="2073" TYPE="DATE" comment=""></DATE>
-		<DATE id="P19" start="6060" end="6064" text="2088" TYPE="DATE" comment=""></DATE>
-		<NAME id="P20" start="7425" end="7429" text="EtOH" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P21" start="7497" end="7524" text="sister&amp;#8212;gestational DM" TYPE="CURRENCY" comment=""></OTHER>
-		<LOCATION id="P22" start="7710" end="7719" text="NAD
-HEENT" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P23" start="7915" end="7922" text="SEM
-Abd" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P24" start="7949" end="7957" text="HSM
-Extr" TYPE="PROP_MISC" comment=""></OTHER>
-		<DATE id="P25" start="7975" end="7980" text="1+ PT" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P26" start="8866" end="8874" text="K/uL
-PTT" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P27" start="9332" end="9343" text="U/L
-AST/GOT" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P28" start="10912" end="10918" text="L. SFA" TYPE="PROP_MISC" comment=""></OTHER>
-		<DATE id="P29" start="11080" end="11087" text="8/16/92" TYPE="DATE" comment=""></DATE>
-		<NAME id="P30" start="12528" end="12542" text="Craig Faulkner" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P31" start="12593" end="12604" text="Zane Querry" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P32" start="12741" end="12754" text="Amanda Qualls" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

@@ -109,20 +109,6 @@ Dictated by:  PERRY UPSHAW, M.D.       PU38
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2083-08-26" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="87" end="93" text="OROZCO" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P2" start="94" end="98" text="KYLE" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P3" start="101" end="112" text="560-40-78-5" TYPE="IDNUM" comment=""></ID>
-		<CONTACT id="P4" start="101" end="112" text="560-40-78-5" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P5" start="145" end="153" text="08/26/83" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P6" start="905" end="917" text="IV Nafcillin" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P7" start="2093" end="2105" text="IV Nafcillin" TYPE="PROP_MISC" comment=""></OTHER>
-		<LOCATION id="P8" start="2312" end="2332" text="Emergency Department" TYPE="ORGANIZATION/GOVERNMENT" comment=""></LOCATION>
-		<DATE id="P9" start="2442" end="2448" text="3 p.m." TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P10" start="2616" end="2636" text="Emergency Department" TYPE="ORGANIZATION/GOVERNMENT" comment=""></LOCATION>
-		<NAME id="P11" start="2747" end="2759" text="PERRY UPSHAW" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P12" start="2898" end="2910" text="PERRY UPSHAW" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P13" start="2956" end="2975" text="Attending Physician" TYPE="PROP_MISC" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

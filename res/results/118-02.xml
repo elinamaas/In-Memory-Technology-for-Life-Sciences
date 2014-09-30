@@ -123,25 +123,6 @@ Gianna Irish, M.D.
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2117-07-12" TYPE="DATE" comment=""></DATE>
-		<DATE id="P1" start="51" end="58" text="7/16/17" TYPE="DATE" comment=""></DATE>
-		<NAME id="P2" start="98" end="111" text="Anthony Usrey" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P3" start="118" end="127" text="644-48-77" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P4" start="244" end="251" text="7/12/17" TYPE="DATE" comment=""></DATE>
-		<NAME id="P5" start="254" end="272" text="Heather O. Shelton" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P6" start="642" end="656" text="Anticipate NPO" TYPE="PROP_MISC" comment=""></OTHER>
-		<LOCATION id="P7" start="994" end="1007" text="PERTINENT LAB" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<OTHER id="P8" start="1265" end="1276" text="IBW     ABW" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P9" start="1317" end="1332" text="Body Mass Index" TYPE="PROP_MISC" comment=""></OTHER>
-		<DATE id="P10" start="1486" end="1490" text="2075" TYPE="DATE" comment=""></DATE>
-		<CONTACT id="P11" start="1548" end="1556" text="83 - 125" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P12" start="1955" end="1959" text="1044" TYPE="DATE" comment=""></DATE>
-		<DATE id="P13" start="2003" end="2007" text="2075" TYPE="DATE" comment=""></DATE>
-		<NAME id="P14" start="2133" end="2140" text="HICKMAN" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P15" start="2180" end="2206" text="PORTCATH            Triple" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P16" start="2241" end="2256" text="Charles Zylstra" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P17" start="2274" end="2285" text="Iman Anders" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P18" start="2394" end="2400" text="Gianna" TYPE="PATIENT" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

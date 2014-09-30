@@ -95,23 +95,6 @@ eScription document:9-8829102 BFFocus
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2095-01-31" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="75" end="81" text="MILTON" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P2" start="96" end="101" text="Foust" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P3" start="119" end="139" text="Emergency Department" TYPE="ORGANIZATION/GOVERNMENT" comment=""></LOCATION>
-		<DATE id="P4" start="144" end="154" text="01/31/2095" TYPE="DATE" comment=""></DATE>
-		<NAME id="P5" start="185" end="191" text="Ferrer" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P6" start="964" end="984" text="Emergency Department" TYPE="ORGANIZATION/GOVERNMENT" comment=""></LOCATION>
-		<NAME id="P7" start="1890" end="1896" text="Melton" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P8" start="2069" end="2077" text="SULLIVAN" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P9" start="2079" end="2090" text="MILTON M.D." TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P10" start="2095" end="2103" text="01/31/95" TYPE="DATE" comment=""></DATE>
-		<DATE id="P11" start="2108" end="2116" text="01/31/95" TYPE="DATE" comment=""></DATE>
-		<NAME id="P12" start="2131" end="2139" text="SULLIVAN" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P13" start="2141" end="2159" text="MILTON
-
-eScription" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<OTHER id="P14" start="2214" end="2233" text="Attending Physician" TYPE="PROP_MISC" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

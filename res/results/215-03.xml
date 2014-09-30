@@ -237,35 +237,6 @@ Pager # 32591
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2129-01-09" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P1" start="65" end="73" text="Valdivia" TYPE="LOCALITY" comment=""></OTHER>
-		<NAME id="P2" start="75" end="81" text="Elijah" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P3" start="100" end="109" text="845 52 82" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P4" start="131" end="145" text="9 January 2129" TYPE="DATE" comment=""></DATE>
-		<NAME id="P5" start="168" end="181" text="Quentin Lemus" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P6" start="211" end="215" text="1718" TYPE="DATE" comment=""></DATE>
-		<NAME id="P7" start="241" end="254" text="Leon Fontenot" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P8" start="262" end="276" text="Elkhorn Valley" TYPE="GEO_FEATURE/LAND" comment=""></OTHER>
-		<OTHER id="P9" start="356" end="371" text="Present Illness" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P10" start="678" end="693" text="Queenie Yeargan" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P11" start="697" end="705" text="01/03/29" TYPE="DATE" comment=""></DATE>
-		<NAME id="P12" start="736" end="742" text="Haynes" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P13" start="1028" end="1036" text="01/05/29" TYPE="DATE" comment=""></DATE>
-		<NAME id="P14" start="1061" end="1067" text="Haynes" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P15" start="1203" end="1216" text="Quentin Lemus" TYPE="DOCTOR" comment=""></NAME>
-		<CONTACT id="P16" start="1263" end="1277" text="80  107/62  18" TYPE="PHONE" comment=""></CONTACT>
-		<NAME id="P17" start="1671" end="1675" text="LIMA" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P18" start="1671" end="1675" text="LIMA" TYPE="LOCALITY" comment=""></OTHER>
-		<OTHER id="P19" start="1696" end="1709" text="Radial Artery" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P20" start="1881" end="1888" text="Mild MR" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P21" start="1890" end="1892" text="LA" TYPE="LOCALITY" comment=""></OTHER>
-		<LOCATION id="P22" start="2167" end="2176" text="Air Force" TYPE="ORGANIZATION/GOVERNMENT" comment=""></LOCATION>
-		<OTHER id="P23" start="2483" end="2490" text="manager" TYPE="TITLE" comment=""></OTHER>
-		<LOCATION id="P24" start="2780" end="2798" text="91 BP 148/77 RR 22" TYPE="ADDRESS1" comment=""></LOCATION>
-		<CONTACT id="P25" start="3515" end="3522" text="165	186" TYPE="PHONE" comment=""></CONTACT>
-		<OTHER id="P26" start="4047" end="4054" text="CAD CHF" TYPE="PROP_MISC" comment=""></OTHER>
-		<LOCATION id="P27" start="4644" end="4653" text="Cartia XT" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P28" start="5207" end="5221" text="Quincey Harmon" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

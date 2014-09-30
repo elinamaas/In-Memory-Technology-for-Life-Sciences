@@ -42,14 +42,6 @@ DD:2-15-09
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2107-10-24" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P1" start="28" end="49" text="TOOLE COUNTY HOSPITAL" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<LOCATION id="P2" start="61" end="81" text="871 Westerdale Drive" TYPE="ADDRESS1" comment=""></LOCATION>
-		<NAME id="P3" start="108" end="114" text="Werner" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P4" start="116" end="134" text="Nancy
-West Liberty" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P5" start="167" end="174" text="2-05-09" TYPE="DATE" comment=""></DATE>
-		<NAME id="P6" start="1022" end="1037" text="Paul D. Quaglia" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

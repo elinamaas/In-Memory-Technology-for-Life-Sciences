@@ -297,38 +297,6 @@ Olivia Spence, M.D.DD: 05/08/91DT: 05/12/91DV: 05/08/91
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2091-05-08" TYPE="DATE" comment=""></DATE>
-		<DATE id="P1" start="46" end="58" text="May 08, 2091" TYPE="DATE" comment=""></DATE>
-		<NAME id="P2" start="75" end="88" text="Billy Vanpelt" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P3" start="96" end="129" text="Orlando Regional Lucerne Hospital" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<LOCATION id="P4" start="131" end="152" text="60 Kessler Farm Drive" TYPE="ADDRESS1" comment=""></LOCATION>
-		<OTHER id="P5" start="154" end="164" text="White Hall" TYPE="FACILITY/BUILDGROUNDS" comment=""></OTHER>
-		<LOCATION id="P6" start="166" end="174" text="MN 76715" TYPE="ADDRESS2" comment=""></LOCATION>
-		<NAME id="P7" start="230" end="237" text="Vanpelt" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P8" start="276" end="291" text="Nicholas-Xavier" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P9" start="419" end="422" text="Apr" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P10" start="491" end="498" text="Eritrea" TYPE="COUNTRY" comment=""></LOCATION>
-		<DATE id="P11" start="687" end="698" text="Apr of 2091" TYPE="DATE" comment=""></DATE>
-		<DATE id="P12" start="1406" end="1418" text="Apr 15, 2091" TYPE="DATE" comment=""></DATE>
-		<DATE id="P13" start="1722" end="1734" text="Apr 13, 2091" TYPE="DATE" comment=""></DATE>
-		<DATE id="P14" start="1932" end="1944" text="Apr 20, 2091" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P15" start="1953" end="1957" text="LIMA" TYPE="LOCALITY" comment=""></OTHER>
-		<NAME id="P16" start="1953" end="1957" text="LIMA" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P17" start="2199" end="2203" text="Fred" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P18" start="2219" end="2231" text="May 08, 2091" TYPE="DATE" comment=""></DATE>
-		<DATE id="P19" start="2376" end="2381" text="April" TYPE="DATE" comment=""></DATE>
-		<DATE id="P20" start="2388" end="2392" text="2091" TYPE="DATE" comment=""></DATE>
-		<DATE id="P21" start="2525" end="2544" text="10 in the 
-
-morning" TYPE="DATE" comment=""></DATE>
-		<DATE id="P22" start="2549" end="2565" text="5 in the evening" TYPE="DATE" comment=""></DATE>
-		<NAME id="P23" start="4228" end="4243" text="Nicholas-Xaviar" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P24" start="4983" end="4987" text="Fred" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P25" start="5003" end="5015" text="May 08, 2091" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P26" start="5090" end="5099" text="Toprol XL" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P27" start="5328" end="5340" text="Steve Franks" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P28" start="5425" end="5438" text="Olivia Spence" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P29" start="5472" end="5480" text="05/08/91" TYPE="DATE" comment=""></DATE>
 
 	</TAGS>
 </deIdi2b2>

@@ -118,33 +118,6 @@ Document Status: Final
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2118-04-15" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P1" start="45" end="65" text="PARK NICOLLET CLINIC" TYPE="FACILITY/BUILDGROUNDS" comment=""></OTHER>
-		<DATE id="P2" start="888" end="895" text="1/11/18" TYPE="DATE" comment=""></DATE>
-		<DATE id="P3" start="1465" end="1472" text="2/10/18" TYPE="DATE" comment=""></DATE>
-		<DATE id="P4" start="1484" end="1491" text="2/11/18" TYPE="DATE" comment=""></DATE>
-		<DATE id="P5" start="1607" end="1614" text="2/17/18" TYPE="DATE" comment=""></DATE>
-		<NAME id="P6" start="1697" end="1702" text="Elrod" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P7" start="1706" end="1713" text="2/17/18" TYPE="DATE" comment=""></DATE>
-		<DATE id="P8" start="2300" end="2307" text="2/22/18" TYPE="DATE" comment=""></DATE>
-		<DATE id="P9" start="3093" end="3100" text="3/22/18" TYPE="DATE" comment=""></DATE>
-		<NAME id="P10" start="3134" end="3138" text="dyas" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P11" start="3511" end="3524" text="Infant-Nickel" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P12" start="3859" end="3869" text="03/13/2117" TYPE="DATE" comment=""></DATE>
-		<DATE id="P13" start="4022" end="4029" text="2/19/18" TYPE="DATE" comment=""></DATE>
-		<DATE id="P14" start="4141" end="4148" text="2/20/18" TYPE="DATE" comment=""></DATE>
-		<DATE id="P15" start="4344" end="4354" text="03/11/2117" TYPE="DATE" comment=""></DATE>
-		<NAME id="P16" start="4627" end="4631" text="HITT" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P17" start="4627" end="4631" text="HITT" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P18" start="5474" end="5483" text="Normal S1" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P19" start="6661" end="6674" text="Infant-Nickel" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P20" start="7177" end="7182" text="Elrod" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P21" start="7698" end="7704" text="Werner" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P22" start="8184" end="8191" text="Calhoun" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P23" start="8262" end="8280" text="Jonathan Forrester" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P24" start="8282" end="8288" text="Fellow" TYPE="TITLE" comment=""></OTHER>
-		<NAME id="P25" start="8331" end="8349" text="Jonathan Forrester" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P26" start="8351" end="8357" text="Fellow" TYPE="TITLE" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

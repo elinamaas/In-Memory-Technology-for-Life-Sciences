@@ -240,23 +240,6 @@ cc:Dr. Veronica Frey
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2086-01-17" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="28" end="40" text="Xavier Oshea" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P2" start="60" end="67" text="1/17/86" TYPE="DATE" comment=""></DATE>
-		<NAME id="P3" start="110" end="123" text="Veronica Frey" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P4" start="225" end="240" text="Present Illness" TYPE="PROP_MISC" comment=""></OTHER>
-		<DATE id="P5" start="260" end="264" text="2082" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P6" start="621" end="636" text="Medical History" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P7" start="755" end="771" text="Surgical History" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<OTHER id="P8" start="1319" end="1326" text="English" TYPE="PEOPLE" comment=""></OTHER>
-		<NAME id="P9" start="1441" end="1445" text="EtOH" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P10" start="2249" end="2260" text="Vital Signs" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<OTHER id="P11" start="2756" end="2772" text="Seminal Vesicles" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P12" start="3425" end="3439" text="Taj E. Landers" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P13" start="3454" end="3483" text="Martinsville General Hospital" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<LOCATION id="P14" start="3485" end="3503" text="Norfolk University" TYPE="ORGANIZATION/EDUCATIONAL" comment=""></LOCATION>
-		<CONTACT id="P15" start="3505" end="3517" text="131-631-4189" TYPE="PHONE" comment=""></CONTACT>
-		<NAME id="P16" start="3528" end="3541" text="Veronica Frey" TYPE="PATIENT" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

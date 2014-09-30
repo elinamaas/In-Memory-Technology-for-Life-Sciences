@@ -63,23 +63,6 @@ rin:KZ:9636:DD:11-24-78:DT:11-25-78:DV:11-22-78
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2078-11-22" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P1" start="28" end="64" text="PONTIAC INTERNAL MEDICINE ASSOCIATES" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P2" start="74" end="81" text="Sherman" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P3" start="74" end="81" text="Sherman" TYPE="LOCALITY" comment=""></OTHER>
-		<NAME id="P4" start="83" end="89" text="Andrew" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P5" start="107" end="122" text="Present Illness" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P6" start="190" end="207" text="Internal Medicine" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P7" start="291" end="305" text="Emergency Room" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P8" start="469" end="483" text="Emergency Room" TYPE="PROP_MISC" comment=""></OTHER>
-		<LOCATION id="P9" start="520" end="536" text="Humbert Hospital" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<LOCATION id="P10" start="811" end="827" text="Humbert Hospital" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<OTHER id="P11" start="883" end="897" text="Emergency Room" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P12" start="901" end="914" text="Pontiac State" TYPE="REGION/MAJOR" comment=""></OTHER>
-		<OTHER id="P13" start="955" end="972" text="Internal Medicine" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P14" start="1025" end="1039" text="Emergency Room" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P15" start="1487" end="1501" text="Emergency Room" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P16" start="2581" end="2595" text="Michael Holman" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

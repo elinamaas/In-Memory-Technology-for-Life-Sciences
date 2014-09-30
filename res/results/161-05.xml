@@ -147,26 +147,6 @@ CCU JAR, Pager 09171
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2073-12-05" TYPE="DATE" comment=""></DATE>
-		<CONTACT id="P1" start="101" end="108" text="1344351" TYPE="PHONE" comment=""></CONTACT>
-		<ID id="P2" start="101" end="108" text="1344351" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P3" start="131" end="139" text="12/03/73" TYPE="DATE" comment=""></DATE>
-		<DATE id="P4" start="160" end="168" text="12/05/73" TYPE="DATE" comment=""></DATE>
-		<NAME id="P5" start="197" end="202" text="Burke" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P6" start="1333" end="1359" text="PTA
-
-	school administrator" TYPE="TITLE" comment=""></OTHER>
-		<LOCATION id="P7" start="1453" end="1466" text="Coumadin, ASA" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P8" start="1702" end="1710" text="12/05/73" TYPE="DATE" comment=""></DATE>
-		<DATE id="P9" start="1911" end="1919" text="12/03/73" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P10" start="1938" end="1945" text="3-V CAD" TYPE="CURRENCY" comment=""></OTHER>
-		<DATE id="P11" start="2077" end="2085" text="12/04/73" TYPE="DATE" comment=""></DATE>
-		<DATE id="P12" start="2287" end="2295" text="12/05/73" TYPE="DATE" comment=""></DATE>
-		<DATE id="P13" start="2545" end="2553" text="12/05/73" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P14" start="2577" end="2579" text="LA" TYPE="LOCALITY" comment=""></OTHER>
-		<OTHER id="P15" start="2868" end="2884" text="ACE-I.  Goal TBB" TYPE="PROP_MISC" comment=""></OTHER>
-		<DATE id="P16" start="3241" end="3249" text="12/05/73" TYPE="DATE" comment=""></DATE>
-		<NAME id="P17" start="3475" end="3486" text="John Yeatts" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

@@ -159,25 +159,6 @@ Signed electronically by   Steven  Vega MD  on  Feb 3, 2071
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2071-01-30" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P1" start="40" end="66" text="BETHESDA MEMORIAL HOSPITAL" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<NAME id="P2" start="70" end="90" text="Xavier T Huerta M.D." TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P3" start="93" end="114" text="BMH Health Associates" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P4" start="116" end="135" text="583 Appaloosa Place" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P5" start="150" end="158" text="NY 91987" TYPE="ADDRESS2" comment=""></LOCATION>
-		<NAME id="P6" start="171" end="177" text="Huerta" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P7" start="240" end="251" text="Irving Vera" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P8" start="304" end="314" text="Ilya Light" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P9" start="476" end="480" text="2069" TYPE="DATE" comment=""></DATE>
-		<DATE id="P10" start="498" end="502" text="2069" TYPE="DATE" comment=""></DATE>
-		<DATE id="P11" start="746" end="756" text="02/22/2069" TYPE="DATE" comment=""></DATE>
-		<DATE id="P12" start="898" end="908" text="03/16/2069" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P13" start="941" end="945" text="METS" TYPE="ORGANIZATION/SPORTS" comment=""></LOCATION>
-		<DATE id="P14" start="2910" end="2920" text="06/18/2070" TYPE="DATE" comment=""></DATE>
-		<DATE id="P15" start="3312" end="3316" text="2069" TYPE="DATE" comment=""></DATE>
-		<NAME id="P16" start="4379" end="4393" text="Steven Vega MD" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P17" start="4424" end="4439" text="Steven  Vega MD" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P18" start="4445" end="4456" text="Feb 3, 2071" TYPE="DATE" comment=""></DATE>
 
 	</TAGS>
 </deIdi2b2>

@@ -106,25 +106,6 @@ DV: 07/28/70
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2070-07-28" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P1" start="89" end="98" text="FRANKFORT" TYPE="LOCALITY" comment=""></OTHER>
-		<LOCATION id="P2" start="140" end="156" text="28 Bailey Street" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P3" start="185" end="228" text="2nd Floor
-                    North Webster" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P4" start="230" end="239" text="SD  48493" TYPE="ADDRESS2" comment=""></LOCATION>
-		<NAME id="P5" start="254" end="261" text="Jessica" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P6" start="267" end="278" text="748-80-38-0" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P7" start="279" end="287" text="07/28/70" TYPE="DATE" comment=""></DATE>
-		<NAME id="P8" start="290" end="297" text="Jessica" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P9" start="2217" end="2224" text="Jessica" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P10" start="2230" end="2241" text="748-80-38-0" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P11" start="2242" end="2250" text="07/28/70" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P12" start="3110" end="3134" text="Frankfort State Hospital" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<NAME id="P13" start="3364" end="3375" text="Sibley Care" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P14" start="3912" end="3925" text="Ruby C. Ayala" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P15" start="3938" end="3946" text="07/28/70" TYPE="DATE" comment=""></DATE>
-		<DATE id="P16" start="3951" end="3959" text="07/31/70" TYPE="DATE" comment=""></DATE>
-		<DATE id="P17" start="3964" end="3972" text="07/28/70" TYPE="DATE" comment=""></DATE>
 
 	</TAGS>
 </deIdi2b2>

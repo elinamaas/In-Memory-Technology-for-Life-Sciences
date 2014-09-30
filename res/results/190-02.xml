@@ -49,26 +49,6 @@ DV:1-3-87
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2086-12-30" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P1" start="28" end="35" text="ORLANDO" TYPE="LOCALITY" comment=""></OTHER>
-		<NAME id="P2" start="28" end="35" text="ORLANDO" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P3" start="93" end="97" text="FRED" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P4" start="145" end="153" text="65856594" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P5" start="200" end="206" text="1-3-87" TYPE="DATE" comment=""></DATE>
-		<NAME id="P6" start="217" end="223" text="Xavier" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P7" start="464" end="479" text="Surgical Clinic" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<OTHER id="P8" start="464" end="479" text="Surgical Clinic" TYPE="FACILITY/BUILDGROUNDS" comment=""></OTHER>
-		<DATE id="P9" start="525" end="533" text="12-27-86" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P10" start="711" end="726" text="Surgical Clinic" TYPE="FACILITY/BUILDGROUNDS" comment=""></OTHER>
-		<LOCATION id="P11" start="711" end="726" text="Surgical Clinic" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<DATE id="P12" start="840" end="848" text="Thursday" TYPE="DATE" comment=""></DATE>
-		<DATE id="P13" start="850" end="864" text="December 
-30th" TYPE="DATE" comment=""></DATE>
-		<DATE id="P14" start="1020" end="1024" text="noon" TYPE="DATE" comment=""></DATE>
-		<DATE id="P15" start="1315" end="1323" text="Thursday" TYPE="DATE" comment=""></DATE>
-		<DATE id="P16" start="1414" end="1422" text="Thursday" TYPE="DATE" comment=""></DATE>
-		<DATE id="P17" start="1424" end="1435" text="January 6th" TYPE="DATE" comment=""></DATE>
-		<NAME id="P18" start="1606" end="1612" text="Ximena" TYPE="PATIENT" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

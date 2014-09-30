@@ -45,22 +45,6 @@ DV: 07/08/60
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2060-07-08" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="31" end="35" text="HESS" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P2" start="31" end="35" text="HESS" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P3" start="37" end="45" text="CLARENCE" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P4" start="46" end="54" text="64365595" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P5" start="55" end="65" text="07/08/2060" TYPE="DATE" comment=""></DATE>
-		<DATE id="P6" start="173" end="181" text="December" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P7" start="485" end="513" text="Barney Convalescent Hospital" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<DATE id="P8" start="1496" end="1506" text="12/24/2060" TYPE="DATE" comment=""></DATE>
-		<NAME id="P9" start="1914" end="1923" text="Ohara and" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P10" start="1943" end="1953" text="Sutherland" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P11" start="2176" end="2183" text="Swanson" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P12" start="2195" end="2205" text="eScription" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P13" start="2240" end="2248" text="07/08/60" TYPE="DATE" comment=""></DATE>
-		<DATE id="P14" start="2253" end="2261" text="07/09/60" TYPE="DATE" comment=""></DATE>
-		<DATE id="P15" start="2266" end="2274" text="07/08/60" TYPE="DATE" comment=""></DATE>
 
 	</TAGS>
 </deIdi2b2>

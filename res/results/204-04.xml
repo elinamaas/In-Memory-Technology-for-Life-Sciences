@@ -127,35 +127,6 @@ Document Status: Final
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2136-09-09" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P1" start="45" end="66" text="PERDUE MEDICAL CENTER" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<OTHER id="P2" start="104" end="114" text="Admit Note" TYPE="PROP_MISC" comment=""></OTHER>
-		<DATE id="P3" start="161" end="164" text="Jan" TYPE="DATE" comment=""></DATE>
-		<NAME id="P4" start="172" end="186" text="Kevin Mcdaniel" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P5" start="267" end="273" text="Nov 34" TYPE="DATE" comment=""></DATE>
-		<DATE id="P6" start="293" end="301" text="11/08/34" TYPE="DATE" comment=""></DATE>
-		<DATE id="P7" start="583" end="591" text="11/08/34" TYPE="DATE" comment=""></DATE>
-		<DATE id="P8" start="639" end="646" text="2/23/35" TYPE="DATE" comment=""></DATE>
-		<DATE id="P9" start="648" end="652" text="7:10" TYPE="DATE" comment=""></DATE>
-		<NAME id="P10" start="1309" end="1314" text="brady" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P11" start="1884" end="1887" text="DM2" TYPE="CURRENCY" comment=""></OTHER>
-		<DATE id="P12" start="1936" end="1943" text="June 36" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P13" start="2145" end="2160" text="Known Allergies" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P14" start="2225" end="2236" text="Avra Valley" TYPE="GEO_FEATURE/LAND" comment=""></OTHER>
-		<OTHER id="P15" start="2273" end="2280" text="officer" TYPE="TITLE" comment=""></OTHER>
-		<DATE id="P16" start="2325" end="2329" text="2134" TYPE="DATE" comment=""></DATE>
-		<NAME id="P17" start="2744" end="2749" text="brady" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P18" start="2798" end="2805" text="4/05/36" TYPE="DATE" comment=""></DATE>
-		<CONTACT id="P19" start="2935" end="2944" text="09/36 138" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P20" start="3061" end="3069" text="09/09/36" TYPE="DATE" comment=""></DATE>
-		<DATE id="P21" start="3181" end="3189" text="09/09/36" TYPE="DATE" comment=""></DATE>
-		<CONTACT id="P22" start="3235" end="3264" text="27       25       85       42" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P23" start="3310" end="3318" text="09/09/36" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P24" start="3357" end="3378" text="PT       PT-INR   PTT" TYPE="GEO_FEATURE/LAND" comment=""></OTHER>
-		<DATE id="P25" start="3385" end="3393" text="09/09/36" TYPE="DATE" comment=""></DATE>
-		<CONTACT id="P26" start="3466" end="3489" text="36 87       31       57" TYPE="PHONE" comment=""></CONTACT>
-		<NAME id="P27" start="4260" end="4271" text="Brennen May" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P28" start="4305" end="4316" text="Brennen May" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

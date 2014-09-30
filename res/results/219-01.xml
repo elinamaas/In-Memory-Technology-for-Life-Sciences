@@ -131,50 +131,6 @@ Casper, NV 33182
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2070-01-05" TYPE="DATE" comment=""></DATE>
-		<DATE id="P1" start="38" end="53" text="January 5, 2070" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P2" start="73" end="102" text="M.D. 
-Notre Dame Nursing Home" TYPE="FACILITY/BUILDGROUNDS" comment=""></OTHER>
-		<LOCATION id="P3" start="104" end="119" text="4379 New Street" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P4" start="121" end="138" text="Hyannis, NV 21113" TYPE="ADDRESS2" comment=""></LOCATION>
-		<NAME id="P5" start="146" end="159" text="William Potts" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P6" start="170" end="181" text="109-16-75-8" TYPE="PHONE" comment=""></CONTACT>
-		<ID id="P7" start="170" end="181" text="109-16-75-8" TYPE="IDNUM" comment=""></ID>
-		<NAME id="P8" start="189" end="193" text="Matt" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P9" start="230" end="235" text="Potts" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P10" start="1059" end="1064" text="Potts" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P11" start="1237" end="1242" text="Potts" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P12" start="1393" end="1398" text="Bruce" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P13" start="1768" end="1773" text="Potts" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P14" start="1806" end="1811" text="Potts" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P15" start="1995" end="2000" text="Potts" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P16" start="2105" end="2118" text="William Potts" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P17" start="2124" end="2151" text="109-16-75-8              -2" TYPE="PHONE" comment=""></CONTACT>
-		<ID id="P18" start="2124" end="2135" text="109-16-75-8" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P19" start="2159" end="2174" text="January 5, 2070" TYPE="DATE" comment=""></DATE>
-		<NAME id="P20" start="2292" end="2297" text="Potts" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P21" start="3260" end="3265" text="Potts" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P22" start="3471" end="3483" text="Screen Actor" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P23" start="3631" end="3636" text="Potts" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P24" start="3692" end="3702" text="Earl Jacob" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P25" start="3814" end="3819" text="Potts" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P26" start="3952" end="3957" text="Potts" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P27" start="4195" end="4200" text="Potts" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P28" start="4309" end="4320" text="Olivia Xing" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P29" start="4351" end="4367" text="81 Clergy Street" TYPE="ADDRESS1" comment=""></LOCATION>
-		<NAME id="P30" start="4392" end="4397" text="Potts" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P31" start="4403" end="4430" text="109-16-75-8              -3" TYPE="PHONE" comment=""></CONTACT>
-		<ID id="P32" start="4403" end="4414" text="109-16-75-8" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P33" start="4438" end="4453" text="January 5, 2070" TYPE="DATE" comment=""></DATE>
-		<DATE id="P34" start="4462" end="4470" text="01/05/70" TYPE="DATE" comment=""></DATE>
-		<DATE id="P35" start="4475" end="4483" text="01/06/70" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P36" start="4499" end="4502" text="cc:" TYPE="NAME_DESIGNATOR" comment=""></OTHER>
-		<OTHER id="P37" start="4503" end="4507" text="Earl" TYPE="TITLE" comment=""></OTHER>
-		<NAME id="P38" start="4508" end="4513" text="Jacob" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P39" start="4520" end="4560" text="Cardiac Surgery
-Laurel Regional Hospital" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<LOCATION id="P40" start="4561" end="4577" text="96 Clergy Street" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P41" start="4578" end="4594" text="Casper, NV 33182" TYPE="ADDRESS2" comment=""></LOCATION>
 
 	</TAGS>
 </deIdi2b2>

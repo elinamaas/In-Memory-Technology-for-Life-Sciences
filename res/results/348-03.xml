@@ -103,12 +103,6 @@ Inez Yelverton, NP
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2068-09-26" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="128" end="133" text="Janes" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P2" start="137" end="145" text="10/04/68" TYPE="DATE" comment=""></DATE>
-		<NAME id="P3" start="468" end="475" text="Allegra" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P4" start="683" end="695" text="SPRAY NAS QD" TYPE="ORGANIZATION/OTHER" comment=""></LOCATION>
-		<NAME id="P5" start="1534" end="1548" text="Inez Yelverton" TYPE="PATIENT" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

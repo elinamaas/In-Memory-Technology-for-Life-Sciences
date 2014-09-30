@@ -129,26 +129,6 @@ Dr. Harry Tolliver, FPC cardiology unit.
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2132-10-01" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P1" start="46" end="60" text="Overall Health" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P2" start="201" end="207" text="Slater" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P3" start="317" end="324" text="6/25/32" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P4" start="489" end="505" text="Gilmore Hospital" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<NAME id="P5" start="737" end="743" text="Easton" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P6" start="737" end="743" text="Easton" TYPE="LOCALITY" comment=""></OTHER>
-		<LOCATION id="P7" start="1409" end="1424" text="Medical History" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P8" start="1618" end="1625" text="10/1/32" TYPE="DATE" comment=""></DATE>
-		<DATE id="P9" start="1680" end="1687" text="10/1/32" TYPE="DATE" comment=""></DATE>
-		<DATE id="P10" start="1729" end="1736" text="10/1/32" TYPE="DATE" comment=""></DATE>
-		<DATE id="P11" start="1783" end="1790" text="10/1/32" TYPE="DATE" comment=""></DATE>
-		<DATE id="P12" start="1843" end="1850" text="10/1/32" TYPE="DATE" comment=""></DATE>
-		<DATE id="P13" start="1963" end="1967" text="June" TYPE="DATE" comment=""></DATE>
-		<NAME id="P14" start="1995" end="1999" text="EtOH" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P15" start="2771" end="2777" text="nl FNF" TYPE="ORGANIZATION/SPORTS" comment=""></LOCATION>
-		<NAME id="P16" start="2916" end="2922" text="Slater" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P17" start="3347" end="3353" text="Holter" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P18" start="3549" end="3563" text="Harry Tolliver" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P19" start="3783" end="3797" text="Harry Tolliver" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

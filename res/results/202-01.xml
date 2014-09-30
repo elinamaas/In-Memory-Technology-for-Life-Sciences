@@ -65,23 +65,6 @@ cc:	Robert-Joseph Paige, MD, 558 Paxton Terrace, Peculiar, NE 54583
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2155-05-17" TYPE="DATE" comment=""></DATE>
-		<DATE id="P1" start="36" end="47" text="17 May 2155" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P2" start="53" end="70" text="Brandon Ponce, MD" TYPE="ADDRESS2" comment=""></LOCATION>
-		<LOCATION id="P3" start="72" end="91" text="974 Parkhurst Drive" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P4" start="103" end="111" text="NE 54583" TYPE="ADDRESS2" comment=""></LOCATION>
-		<NAME id="P5" start="119" end="133" text="Jarome DEJESUS" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P6" start="140" end="151" text="280-44-07-1" TYPE="PHONE" comment=""></CONTACT>
-		<ID id="P7" start="140" end="151" text="280-44-07-1" TYPE="IDNUM" comment=""></ID>
-		<NAME id="P8" start="164" end="169" text="Ponce" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P9" start="211" end="218" text="Dejesus" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P10" start="287" end="294" text="CAD S/P" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P11" start="561" end="573" text="Yoseph Flint" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P12" start="1506" end="1511" text="Paige" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P13" start="1645" end="1663" text="Barbara A. Rhoades" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P14" start="1699" end="1704" text="Paige" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P15" start="1714" end="1728" text="Paxton Terrace" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P16" start="1740" end="1748" text="NE 54583" TYPE="ADDRESS2" comment=""></LOCATION>
 
 	</TAGS>
 </deIdi2b2>

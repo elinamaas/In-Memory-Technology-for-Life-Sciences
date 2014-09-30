@@ -345,59 +345,6 @@ Carole B. Holland, M.D.
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2097-08-18" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P1" start="30" end="55" text="MSH Adult Medicine Office" TYPE="ORGANIZATION/GOVERNMENT" comment=""></LOCATION>
-		<NAME id="P2" start="98" end="107" text="Whitehead" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P3" start="137" end="144" text="SP CABG" TYPE="PROP_MISC" comment=""></OTHER>
-		<DATE id="P4" start="492" end="498" text="August" TYPE="DATE" comment=""></DATE>
-		<DATE id="P5" start="1008" end="1012" text="2095" TYPE="DATE" comment=""></DATE>
-		<NAME id="P6" start="1251" end="1256" text="MIN X" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P7" start="1626" end="1633" text="7/18/94" TYPE="DATE" comment=""></DATE>
-		<DATE id="P8" start="1707" end="1711" text="2095" TYPE="DATE" comment=""></DATE>
-		<NAME id="P9" start="1812" end="1819" text="Solomon" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P10" start="1902" end="1909" text="Solomon" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P11" start="2342" end="2359" text="RAMUS INTERMEDIUS" TYPE="PROP_MISC" comment=""></OTHER>
-		<CONTACT id="P12" start="2751" end="2758" text="5998283" TYPE="PHONE" comment=""></CONTACT>
-		<ID id="P13" start="2751" end="2758" text="5998283" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P14" start="2832" end="2842" text="08/06/2097" TYPE="DATE" comment=""></DATE>
-		<DATE id="P15" start="2843" end="2851" text="10:00 AM" TYPE="DATE" comment=""></DATE>
-		<ID id="P16" start="2879" end="2886" text="9899518" TYPE="IDNUM" comment=""></ID>
-		<CONTACT id="P17" start="2879" end="2886" text="9899518" TYPE="PHONE" comment=""></CONTACT>
-		<NAME id="P18" start="3066" end="3070" text="EPPS" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P19" start="3704" end="3720" text="Kidney Date/Time" TYPE="PROP_MISC" comment=""></OTHER>
-		<DATE id="P20" start="3722" end="3732" text="07/23/2097" TYPE="DATE" comment=""></DATE>
-		<DATE id="P21" start="3733" end="3741" text="12:41 PM" TYPE="DATE" comment=""></DATE>
-		<DATE id="P22" start="4292" end="4302" text="08/04/2097" TYPE="DATE" comment=""></DATE>
-		<DATE id="P23" start="4303" end="4313" text="08/02/2097" TYPE="DATE" comment=""></DATE>
-		<DATE id="P24" start="4314" end="4324" text="07/31/2097" TYPE="DATE" comment=""></DATE>
-		<DATE id="P25" start="4325" end="4335" text="07/24/2097" TYPE="DATE" comment=""></DATE>
-		<CONTACT id="P26" start="4348" end="4384" text="138                              140" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P27" start="4747" end="4757" text="07/23/2097" TYPE="DATE" comment=""></DATE>
-		<DATE id="P28" start="4758" end="4768" text="07/23/2097" TYPE="DATE" comment=""></DATE>
-		<DATE id="P29" start="4769" end="4779" text="07/22/2097" TYPE="DATE" comment=""></DATE>
-		<DATE id="P30" start="4780" end="4790" text="07/22/2097" TYPE="DATE" comment=""></DATE>
-		<DATE id="P31" start="4791" end="4801" text="07/18/2097" TYPE="DATE" comment=""></DATE>
-		<CONTACT id="P32" start="4814" end="4861" text="140        142                   136        141" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P33" start="5294" end="5304" text="02/11/2097" TYPE="DATE" comment=""></DATE>
-		<DATE id="P34" start="5305" end="5315" text="01/25/2097" TYPE="DATE" comment=""></DATE>
-		<DATE id="P35" start="5316" end="5326" text="11/12/2096" TYPE="DATE" comment=""></DATE>
-		<DATE id="P36" start="5327" end="5337" text="11/11/2096" TYPE="DATE" comment=""></DATE>
-		<DATE id="P37" start="5338" end="5348" text="02/23/2096" TYPE="DATE" comment=""></DATE>
-		<CONTACT id="P38" start="5361" end="5408" text="137                   143        137        142" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P39" start="5836" end="5846" text="02/08/2096" TYPE="DATE" comment=""></DATE>
-		<DATE id="P40" start="5847" end="5857" text="11/28/2095" TYPE="DATE" comment=""></DATE>
-		<DATE id="P41" start="5858" end="5868" text="11/18/2095" TYPE="DATE" comment=""></DATE>
-		<DATE id="P42" start="5869" end="5879" text="11/14/2095" TYPE="DATE" comment=""></DATE>
-		<DATE id="P43" start="5880" end="5890" text="10/30/2095" TYPE="DATE" comment=""></DATE>
-		<CONTACT id="P44" start="5903" end="5950" text="136        142        142        141        137" TYPE="PHONE" comment=""></CONTACT>
-		<CONTACT id="P45" start="6115" end="6139" text="23         25         23" TYPE="PHONE" comment=""></CONTACT>
-		<CONTACT id="P46" start="6305" end="6351" text="87         96         98         90         94" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P47" start="6375" end="6385" text="07/23/2097" TYPE="DATE" comment=""></DATE>
-		<DATE id="P48" start="6971" end="6975" text="2095" TYPE="DATE" comment=""></DATE>
-		<DATE id="P49" start="7116" end="7122" text="August" TYPE="DATE" comment=""></DATE>
-		<NAME id="P50" start="8017" end="8026" text="Whitehead" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P51" start="8055" end="8064" text="Whitehead" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P52" start="8161" end="8178" text="Carole B. Holland" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

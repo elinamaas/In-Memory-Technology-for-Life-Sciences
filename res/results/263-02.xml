@@ -105,20 +105,6 @@ Dictated by:  FREDA F. PELLETIER, M.D.     FP00
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2079-09-28" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="49" end="56" text="DOUGLAS" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P2" start="49" end="56" text="DOUGLAS" TYPE="LOCALITY" comment=""></OTHER>
-		<NAME id="P3" start="82" end="86" text="DODD" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P4" start="87" end="93" text="STEVEN" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P5" start="96" end="107" text="350-93-05-3" TYPE="PHONE" comment=""></CONTACT>
-		<ID id="P6" start="96" end="107" text="350-93-05-3" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P7" start="141" end="149" text="09/28/79" TYPE="DATE" comment=""></DATE>
-		<DATE id="P8" start="604" end="607" text="May" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P9" start="1454" end="1465" text="VITAL SIGNS" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P10" start="2148" end="2153" text="Spohn" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P11" start="2552" end="2570" text="FREDA F. PELLETIER" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P12" start="2702" end="2720" text="FREDA F. PELLETIER" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P13" start="2764" end="2783" text="Attending Physician" TYPE="PROP_MISC" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

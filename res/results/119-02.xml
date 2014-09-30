@@ -75,12 +75,6 @@ WVG/xin/quilici
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2089-08-24" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="42" end="48" text="Curtis" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P2" start="64" end="71" text="7682941" TYPE="IDNUM" comment=""></ID>
-		<CONTACT id="P3" start="64" end="71" text="7682941" TYPE="PHONE" comment=""></CONTACT>
-		<NAME id="P4" start="1115" end="1120" text="Gomes" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P5" start="1287" end="1304" text="William V. Geiger" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

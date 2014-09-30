@@ -291,39 +291,6 @@ Jordan, FL  83712
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2071-08-21" TYPE="DATE" comment=""></DATE>
-		<DATE id="P1" start="52" end="67" text="August 21, 2071" TYPE="DATE" comment=""></DATE>
-		<NAME id="P2" start="78" end="90" text="Aiden Geiger" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P3" start="99" end="127" text="Friendship Villa Care Center" TYPE="FACILITY/BUILDGROUNDS" comment=""></OTHER>
-		<LOCATION id="P4" start="129" end="146" text="58 Hyannis Street" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P5" start="148" end="170" text="Sioux City,  FL  76546" TYPE="ADDRESS2" comment=""></LOCATION>
-		<NAME id="P6" start="180" end="200" text="Vivian Lea Jorgenson" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P7" start="235" end="241" text="Geiger" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P8" start="285" end="310" text="Victoria Carina Jorgenson" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P9" start="369" end="387" text="September 17, 2071" TYPE="DATE" comment=""></DATE>
-		<DATE id="P10" start="555" end="560" text="April" TYPE="DATE" comment=""></DATE>
-		<DATE id="P11" start="564" end="567" text="May" TYPE="DATE" comment=""></DATE>
-		<DATE id="P12" start="771" end="780" text="September" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P13" start="931" end="949" text="Lake Park Hospital" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<DATE id="P14" start="1227" end="1231" text="June" TYPE="DATE" comment=""></DATE>
-		<DATE id="P15" start="1236" end="1240" text="2071" TYPE="DATE" comment=""></DATE>
-		<NAME id="P16" start="1891" end="1900" text="Jorgenson" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P17" start="1902" end="1912" text="Vivian Lea" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P18" start="1959" end="1974" text="August 21, 2071" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P19" start="2526" end="2540" text="Baking Company" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P20" start="3781" end="3794" text="Ms. Jorgenson" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P21" start="4192" end="4201" text="Jorgenson" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P22" start="4203" end="4213" text="Vivian Lea" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P23" start="4260" end="4275" text="August 21, 2071" TYPE="DATE" comment=""></DATE>
-		<DATE id="P24" start="4417" end="4421" text="2067" TYPE="DATE" comment=""></DATE>
-		<DATE id="P25" start="5262" end="5265" text="may" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P26" start="5448" end="5457" text="physician" TYPE="TITLE" comment=""></OTHER>
-		<NAME id="P27" start="5463" end="5470" text="Charles" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P28" start="5676" end="5680" text="Voss" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P29" start="5709" end="5715" text="Pamela" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P30" start="5753" end="5760" text="Charles" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P31" start="5783" end="5792" text="FL  83712" TYPE="ADDRESS2" comment=""></LOCATION>
-		<OTHER id="P32" start="5832" end="5851" text="Attending Physician" TYPE="PROP_MISC" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

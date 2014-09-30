@@ -137,22 +137,6 @@ Document Status: Final
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2081-09-15" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P1" start="47" end="71" text="FORT WASHINGTON HOSPITAL" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<NAME id="P2" start="117" end="123" text="Dunham" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P3" start="268" end="274" text="Dunham" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P4" start="308" end="312" text="LIMA" TYPE="LOCALITY" comment=""></OTHER>
-		<NAME id="P5" start="308" end="312" text="LIMA" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P6" start="331" end="353" text="LAD-Mid Saphenous Vein" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P7" start="387" end="401" text="Saphenous Vein" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P8" start="436" end="459" text="Coronary Endarterectomy" TYPE="PROP_MISC" comment=""></OTHER>
-		<DATE id="P9" start="1040" end="1044" text="2076" TYPE="DATE" comment=""></DATE>
-		<DATE id="P10" start="2181" end="2185" text="2078" TYPE="DATE" comment=""></DATE>
-		<DATE id="P11" start="2637" end="2641" text="2075" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P12" start="2708" end="2739" text="Applied Industrial Technologies" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P13" start="3006" end="3010" text="ETOH" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P14" start="4379" end="4394" text="Sherrill Gaines" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P15" start="4442" end="4457" text="Sherrill Gaines" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

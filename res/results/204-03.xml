@@ -113,35 +113,6 @@ Document Status: Final
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2135-12-15" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P1" start="45" end="66" text="PERDUE MEDICAL CENTER" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<DATE id="P2" start="201" end="214" text="November 2134" TYPE="DATE" comment=""></DATE>
-		<DATE id="P3" start="441" end="449" text="12/16/34" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P4" start="897" end="902" text="LV EF" TYPE="PROP_MISC" comment=""></OTHER>
-		<DATE id="P5" start="1210" end="1218" text="12/07/34" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P6" start="1253" end="1257" text="METS" TYPE="ORGANIZATION/SPORTS" comment=""></LOCATION>
-		<DATE id="P7" start="1648" end="1653" text="March" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P8" start="1786" end="1790" text="METS" TYPE="ORGANIZATION/SPORTS" comment=""></LOCATION>
-		<OTHER id="P9" start="2590" end="2596" text="SL TNG" TYPE="PROP_MISC" comment=""></OTHER>
-		<DATE id="P10" start="3058" end="3063" text="March" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P11" start="3883" end="3898" text="Known Allergies" TYPE="PROP_MISC" comment=""></OTHER>
-		<LOCATION id="P12" start="3953" end="3965" text="ASA 
-Lipitor" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<OTHER id="P13" start="4008" end="4023" text="Niaspan 
-Plavix" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P14" start="4039" end="4048" text="Toprol XL" TYPE="PROP_MISC" comment=""></OTHER>
-		<DATE id="P15" start="4636" end="4648" text="16-June-2135" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P16" start="5547" end="5556" text="Toprol XL" TYPE="PROP_MISC" comment=""></OTHER>
-		<DATE id="P17" start="5809" end="5814" text="March" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P18" start="7057" end="7066" text="Toprol XL" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P19" start="7260" end="7266" text="SR  po" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P20" start="7323" end="7333" text="12/15/2135" TYPE="DATE" comment=""></DATE>
-		<DATE id="P21" start="7363" end="7373" text="12/16/2134" TYPE="DATE" comment=""></DATE>
-		<DATE id="P22" start="7379" end="7389" text="12/19/2135" TYPE="DATE" comment=""></DATE>
-		<DATE id="P23" start="7430" end="7440" text="12/16/2134" TYPE="DATE" comment=""></DATE>
-		<DATE id="P24" start="7486" end="7489" text="Jan" TYPE="DATE" comment=""></DATE>
-		<NAME id="P25" start="7490" end="7495" text="Ivory" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P26" start="7750" end="7759" text="Jan Ivory" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

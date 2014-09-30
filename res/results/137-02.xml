@@ -101,25 +101,6 @@ DV: 12/12/68
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2068-12-12" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P1" start="34" end="67" text="Eudowood Services Physician Group" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P2" start="72" end="104" text="Williams Ct              M OSCAR" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P3" start="106" end="112" text="JOHNNY" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P4" start="153" end="161" text="76324418" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P5" start="195" end="205" text="12/12/2068" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P6" start="794" end="806" text="Jay Hospital" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<LOCATION id="P7" start="910" end="930" text="Littleton, Wisconsin" TYPE="ADDRESS2" comment=""></LOCATION>
-		<NAME id="P8" start="1203" end="1208" text="Garza" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P9" start="1480" end="1485" text="Garza" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P10" start="3001" end="3028" text="Rappahannock Medical Clinic" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<NAME id="P11" start="3339" end="3344" text="Garza" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P12" start="3597" end="3606" text="Jefferson" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P13" start="3930" end="3941" text="Todd Brandt" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P14" start="3958" end="3968" text="eScription" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<OTHER id="P15" start="3988" end="3998" text="CSSten Tel" TYPE="PROP_MISC" comment=""></OTHER>
-		<DATE id="P16" start="4009" end="4017" text="12/12/68" TYPE="DATE" comment=""></DATE>
-		<DATE id="P17" start="4022" end="4030" text="12/12/68" TYPE="DATE" comment=""></DATE>
-		<DATE id="P18" start="4035" end="4043" text="12/12/68" TYPE="DATE" comment=""></DATE>
 
 	</TAGS>
 </deIdi2b2>

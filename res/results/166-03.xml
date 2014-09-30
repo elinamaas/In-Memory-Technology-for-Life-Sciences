@@ -159,33 +159,6 @@ PGY-2, Internal Medicine
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2095-12-02" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="272" end="277" text="Meyer" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P2" start="290" end="297" text="2771447" TYPE="PHONE" comment=""></CONTACT>
-		<ID id="P3" start="290" end="297" text="2771447" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P4" start="315" end="324" text="12/2/2095" TYPE="DATE" comment=""></DATE>
-		<NAME id="P5" start="334" end="352" text="Patricia Whittaker" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P6" start="368" end="374" text="Jolley" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P7" start="588" end="599" text="Oscar Meyer" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P8" start="1919" end="1930" text="Prostate CA" TYPE="PROP_MISC" comment=""></OTHER>
-		<DATE id="P9" start="1935" end="1944" text="July 2095" TYPE="DATE" comment=""></DATE>
-		<DATE id="P10" start="2047" end="2051" text="2064" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P11" start="2303" end="2311" text="MG   prn" TYPE="ORGANIZATION/MEDIA" comment=""></LOCATION>
-		<DATE id="P12" start="2323" end="2333" text="11/29 p.m." TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P13" start="2634" end="2642" text="Audiovox" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P14" start="2707" end="2711" text="EtOH" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P15" start="2850" end="2856" text="TA  HR" TYPE="PROP_MISC" comment=""></OTHER>
-		<LOCATION id="P16" start="2877" end="2882" text="RR 18" TYPE="ADDRESS1" comment=""></LOCATION>
-		<OTHER id="P17" start="2896" end="2902" text="NC
-Gen" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P18" start="4950" end="4967" text="Kinase Isoenzymes" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P19" start="5021" end="5037" text="Isoenzymes Index" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P20" start="5173" end="5188" text="Creatine Kinase" TYPE="PROP_MISC" comment=""></OTHER>
-		<LOCATION id="P21" start="6208" end="6217" text="a.m.  ASA" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P22" start="6469" end="6477" text="Thursday" TYPE="DATE" comment=""></DATE>
-		<NAME id="P23" start="6984" end="7002" text="Patricia Whittaker" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P24" start="7009" end="7041" text="PGY-2, Internal Medicine 
-#63765" TYPE="ADDRESS1" comment=""></LOCATION>
 
 	</TAGS>
 </deIdi2b2>

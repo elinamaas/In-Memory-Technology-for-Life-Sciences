@@ -58,43 +58,6 @@ DV: 07/17/57
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2157-07-17" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="31" end="38" text="DEJESUS" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P2" start="40" end="46" text="JAROME" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P3" start="47" end="55" text="28044071" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P4" start="56" end="66" text="07/17/2157" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P5" start="82" end="114" text="M.D.
-Broome Developmental Center" TYPE="ORGANIZATION/OTHER" comment=""></LOCATION>
-		<LOCATION id="P6" start="115" end="142" text="84 Parkhurst Drive
-Peculiar" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P7" start="144" end="153" text="NE  54583" TYPE="ADDRESS2" comment=""></LOCATION>
-		<NAME id="P8" start="164" end="168" text="Berg" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P9" start="219" end="233" text="Jarome Dejesus" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P10" start="263" end="284" text="Erie County Infirmary" TYPE="FACILITY/BUILDGROUNDS" comment=""></OTHER>
-		<NAME id="P11" start="387" end="394" text="Dejesus" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P12" start="862" end="888" text="Southwest Colorado Medical" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P13" start="892" end="902" text="07/13/2157" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P14" start="1051" end="1072" text="Erie County Infirmary" TYPE="FACILITY/BUILDGROUNDS" comment=""></OTHER>
-		<DATE id="P15" start="1097" end="1107" text="07/16/2157" TYPE="DATE" comment=""></DATE>
-		<NAME id="P16" start="1113" end="1125" text="Yoseph Flint" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P17" start="1457" end="1464" text="Dejesus" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P18" start="1504" end="1526" text="Cardiovascular Service" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<OTHER id="P19" start="2615" end="2624" text="physician" TYPE="TITLE" comment=""></OTHER>
-		<NAME id="P20" start="2630" end="2635" text="Paige" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P21" start="3017" end="3036" text="Robert-Joseph Paige" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P22" start="3313" end="3330" text="Irving R. Ramirez" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P23" start="3393" end="3405" text="Henry Phelps" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P24" start="3407" end="3423" text="PA
-
-
-
-eScription" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P25" start="3510" end="3537" text="886 Paxton Terrace
-Peculiar" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P26" start="3539" end="3547" text="NE 19649" TYPE="ADDRESS2" comment=""></LOCATION>
-		<DATE id="P27" start="3554" end="3562" text="07/17/57" TYPE="DATE" comment=""></DATE>
-		<DATE id="P28" start="3567" end="3575" text="07/17/57" TYPE="DATE" comment=""></DATE>
-		<DATE id="P29" start="3580" end="3588" text="07/17/57" TYPE="DATE" comment=""></DATE>
 
 	</TAGS>
 </deIdi2b2>

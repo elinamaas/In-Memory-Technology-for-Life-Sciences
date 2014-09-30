@@ -143,20 +143,6 @@ eScription document:6-1950972 BFFocus
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2093-08-09" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="139" end="146" text="Edwards" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P2" start="596" end="601" text="Foley" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P3" start="3160" end="3169" text="physician" TYPE="TITLE" comment=""></OTHER>
-		<NAME id="P4" start="3175" end="3180" text="Earle" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P5" start="3502" end="3507" text="BOYER" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P6" start="3509" end="3516" text="DAWN MD" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P7" start="3521" end="3529" text="08/09/93" TYPE="DATE" comment=""></DATE>
-		<DATE id="P8" start="3534" end="3542" text="08/10/93" TYPE="DATE" comment=""></DATE>
-		<NAME id="P9" start="3557" end="3562" text="BOYER" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P10" start="3564" end="3580" text="DAWN
-
-eScription" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<OTHER id="P11" start="3635" end="3654" text="Attending Physician" TYPE="PROP_MISC" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

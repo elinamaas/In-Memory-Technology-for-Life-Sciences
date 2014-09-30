@@ -112,26 +112,6 @@ NU:UJ:4653/DD:7-8-81/DT:7-13-81/DV:7-8-81
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2081-07-07" TYPE="DATE" comment=""></DATE>
-		<DATE id="P1" start="28" end="40" text="July 8, 2081" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P2" start="61" end="87" text="M.D.
-Integra Health Center" TYPE="ORGANIZATION/OTHER" comment=""></LOCATION>
-		<LOCATION id="P3" start="88" end="106" text="487 Jackson Street" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P4" start="118" end="126" text="ME 21614" TYPE="ADDRESS2" comment=""></LOCATION>
-		<ID id="P5" start="156" end="164" text="53023691" TYPE="IDNUM" comment=""></ID>
-		<NAME id="P6" start="176" end="184" text="Xayarath" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P7" start="201" end="220" text="Mr. Earnest
-Branche" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P8" start="291" end="298" text="Branche" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P9" start="480" end="495" text="Medical
-Service" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P10" start="1355" end="1362" text="Branche" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P11" start="1824" end="1835" text="Earnest
-MRN" TYPE="PROP_MISC" comment=""></OTHER>
-		<ID id="P12" start="1837" end="1845" text="53023691" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P13" start="1846" end="1852" text="7-8-81" TYPE="DATE" comment=""></DATE>
-		<NAME id="P14" start="1909" end="1925" text="Luis J. Nicholas" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P15" start="2002" end="2021" text="Attending Physician" TYPE="PROP_MISC" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

@@ -105,15 +105,6 @@ Sampson, MS,RD,LDN
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2076-09-28" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P1" start="28" end="44" text="Nutrition Clinic" TYPE="FACILITY/BUILDGROUNDS" comment=""></OTHER>
-		<DATE id="P2" start="64" end="71" text="9/28/76" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P3" start="94" end="98" text="2 DM" TYPE="CURRENCY" comment=""></OTHER>
-		<DATE id="P4" start="417" end="420" text="Sat" TYPE="DATE" comment=""></DATE>
-		<NAME id="P5" start="432" end="436" text="Chol" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P6" start="548" end="552" text="2 DM" TYPE="CURRENCY" comment=""></OTHER>
-		<NAME id="P7" start="648" end="654" text="atkins" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P8" start="1543" end="1554" text="Sampson, MS" TYPE="PATIENT" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

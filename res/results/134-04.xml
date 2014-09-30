@@ -207,42 +207,6 @@ PGY-2
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2095-12-11" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="269" end="282" text="Amador Jarvis" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P2" start="289" end="296" text="0907307" TYPE="IDNUM" comment=""></ID>
-		<CONTACT id="P3" start="289" end="296" text="0907307" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P4" start="316" end="324" text="12/11/95" TYPE="DATE" comment=""></DATE>
-		<NAME id="P5" start="330" end="344" text="Larry Oates MD" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P6" start="364" end="369" text="Ickes" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P7" start="379" end="395" text="Orvell Oliver MD" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P8" start="426" end="429" text="DM2" TYPE="CURRENCY" comment=""></OTHER>
-		<OTHER id="P9" start="528" end="531" text="DM2" TYPE="CURRENCY" comment=""></OTHER>
-		<OTHER id="P10" start="1903" end="1906" text="DM2" TYPE="CURRENCY" comment=""></OTHER>
-		<OTHER id="P11" start="1957" end="1972" text="Gout
-Depression" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P12" start="2570" end="2574" text="ETOH" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P13" start="2671" end="2680" text="AAox3 NAD" TYPE="CURRENCY" comment=""></OTHER>
-		<NAME id="P14" start="2847" end="2854" text="LAN
-Cor" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P15" start="2856" end="2862" text="RRR S1" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P16" start="3180" end="3188" text="12/11/95" TYPE="DATE" comment=""></DATE>
-		<DATE id="P17" start="3205" end="3210" text="11:50" TYPE="DATE" comment=""></DATE>
-		<DATE id="P18" start="3801" end="3809" text="12/11/95" TYPE="DATE" comment=""></DATE>
-		<DATE id="P19" start="3826" end="3831" text="11:53" TYPE="DATE" comment=""></DATE>
-		<DATE id="P20" start="4098" end="4106" text="12/11/95" TYPE="DATE" comment=""></DATE>
-		<DATE id="P21" start="4123" end="4128" text="12:03" TYPE="DATE" comment=""></DATE>
-		<DATE id="P22" start="4314" end="4322" text="12/11/95" TYPE="DATE" comment=""></DATE>
-		<DATE id="P23" start="4339" end="4344" text="11:50" TYPE="DATE" comment=""></DATE>
-		<DATE id="P24" start="6391" end="6399" text="12/11/95" TYPE="DATE" comment=""></DATE>
-		<DATE id="P25" start="6416" end="6421" text="11:50" TYPE="DATE" comment=""></DATE>
-		<DATE id="P26" start="6751" end="6755" text="2085" TYPE="DATE" comment=""></DATE>
-		<NAME id="P27" start="6763" end="6768" text="brady" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P28" start="6770" end="6775" text="nl PR" TYPE="ORGANIZATION/SPORTS" comment=""></LOCATION>
-		<OTHER id="P29" start="7050" end="7053" text="DM2" TYPE="CURRENCY" comment=""></OTHER>
-		<OTHER id="P30" start="7350" end="7359" text="CABG
-Pump" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P31" start="7817" end="7820" text="DM2" TYPE="CURRENCY" comment=""></OTHER>
-		<NAME id="P32" start="8011" end="8028" text="Larry Q. Oates MD" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

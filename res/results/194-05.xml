@@ -84,12 +84,6 @@ Document Status: Final
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2097-05-21" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P1" start="45" end="64" text="SOUTH OAKS HOSPITAL" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<NAME id="P2" start="147" end="155" text="Crawford" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P3" start="806" end="812" text="Powers" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P4" start="2322" end="2339" text="Xavier K. Youmans" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P5" start="2386" end="2403" text="Xavier K. Youmans" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

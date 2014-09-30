@@ -201,38 +201,6 @@ DV: 05/18/83
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2083-05-18" TYPE="DATE" comment=""></DATE>
-		<DATE id="P1" start="52" end="64" text="May 18, 2083" TYPE="DATE" comment=""></DATE>
-		<NAME id="P2" start="68" end="81" text="Yesenia Olive" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P3" start="89" end="104" text="26 Jeremy Place" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P4" start="106" end="124" text="Antioch, KY  71287" TYPE="ADDRESS2" comment=""></LOCATION>
-		<NAME id="P5" start="133" end="139" text="Gerald" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P6" start="141" end="147" text="Marion" TYPE="LOCALITY" comment=""></OTHER>
-		<NAME id="P7" start="141" end="147" text="Marion" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P8" start="155" end="163" text="48967301" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P9" start="171" end="179" text="05/18/83" TYPE="DATE" comment=""></DATE>
-		<NAME id="P10" start="192" end="197" text="Olive" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P11" start="230" end="243" text="Marion Gerald" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P12" start="257" end="263" text="May 18" TYPE="DATE" comment=""></DATE>
-		<DATE id="P13" start="414" end="418" text="2065" TYPE="DATE" comment=""></DATE>
-		<NAME id="P14" start="899" end="903" text="Zink" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P15" start="907" end="918" text="Barr Clinic" TYPE="FACILITY/BUILDGROUNDS" comment=""></OTHER>
-		<NAME id="P16" start="1190" end="1197" text="Raynaud" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P17" start="2160" end="2167" text="Allegra" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P18" start="2299" end="2312" text="Elizabethtown" TYPE="LOCALITY" comment=""></OTHER>
-		<OTHER id="P19" start="2332" end="2373" text="midwife and director of Iowa Birth Clinic" TYPE="TITLE" comment=""></OTHER>
-		<OTHER id="P20" start="2395" end="2415" text="Broadcast Technician" TYPE="TITLE" comment=""></OTHER>
-		<NAME id="P21" start="2473" end="2486" text="Yesenia Olive" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P22" start="2499" end="2505" text="Gerald" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P23" start="2507" end="2513" text="Marion" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P24" start="2507" end="2513" text="Marion" TYPE="LOCALITY" comment=""></OTHER>
-		<ID id="P25" start="2521" end="2529" text="48967301" TYPE="IDNUM" comment=""></ID>
-		<NAME id="P26" start="3774" end="3788" text="Miguel H. Ames" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P27" start="3799" end="3802" text="cc:" TYPE="NAME_DESIGNATOR" comment=""></OTHER>
-		<NAME id="P28" start="3803" end="3813" text="Gerald Yan" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P29" start="3840" end="3848" text="05/18/83" TYPE="DATE" comment=""></DATE>
-		<DATE id="P30" start="3855" end="3863" text="05/21/83" TYPE="DATE" comment=""></DATE>
-		<DATE id="P31" start="3870" end="3878" text="05/18/83" TYPE="DATE" comment=""></DATE>
 
 	</TAGS>
 </deIdi2b2>

@@ -349,30 +349,6 @@ Araujo, Ursula X,NP
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2091-08-02" TYPE="DATE" comment=""></DATE>
-		<DATE id="P1" start="174" end="189" text="August 06, 2091" TYPE="DATE" comment=""></DATE>
-		<NAME id="P2" start="199" end="211" text="Carter Horne" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P3" start="617" end="632" text="Medical History" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P4" start="678" end="682" text="ETOH" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P5" start="732" end="748" text="Surgical History" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P6" start="781" end="811" text="Vanderbilt University Hospital" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<OTHER id="P7" start="845" end="859" text="Bleeding Ulcer" TYPE="PROP_MISC" comment=""></OTHER>
-		<DATE id="P8" start="882" end="886" text="2061" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P9" start="999" end="1010" text="ASA ENTERIC" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P10" start="1088" end="1095" text="7/29/91" TYPE="DATE" comment=""></DATE>
-		<CONTACT id="P11" start="1439" end="1443" text="1- 2" TYPE="PHONE" comment=""></CONTACT>
-		<NAME id="P12" start="1504" end="1508" text="ETOH" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P13" start="1619" end="1644" text="Air Pilot for S3 Graphics" TYPE="TITLE" comment=""></OTHER>
-		<NAME id="P14" start="2555" end="2559" text="TIAs" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P15" start="4283" end="4302" text="ASA Physical Status" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P16" start="4370" end="4377" text="8/06/91" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P17" start="4490" end="4497" text="MI.  BP" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<CONTACT id="P18" start="4562" end="4571" text="140 - 150" TYPE="PHONE" comment=""></CONTACT>
-		<LOCATION id="P19" start="4764" end="4779" text="Pain Management" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P20" start="5000" end="5008" text="midnight" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P21" start="5024" end="5031" text="Surgeon" TYPE="TITLE" comment=""></OTHER>
-		<NAME id="P22" start="5525" end="5531" text="Araujo" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P23" start="5533" end="5541" text="Ursula X" TYPE="PATIENT" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

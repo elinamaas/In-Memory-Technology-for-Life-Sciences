@@ -151,25 +151,6 @@ eScription document:7-11192535 BFFocus
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2079-08-04" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="82" end="89" text="GABRIAL" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P2" start="1077" end="1081" text="2061" TYPE="DATE" comment=""></DATE>
-		<DATE id="P3" start="1092" end="1096" text="2066" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P4" start="1183" end="1213" text="Senior Manager of Broadcasting" TYPE="TITLE" comment=""></OTHER>
-		<LOCATION id="P5" start="2249" end="2269" text="EMERGENCY DEPARTMENT" TYPE="ORGANIZATION/GOVERNMENT" comment=""></LOCATION>
-		<LOCATION id="P6" start="2249" end="2269" text="EMERGENCY DEPARTMENT" TYPE="ORGANIZATION/EDUCATIONAL" comment=""></LOCATION>
-		<LOCATION id="P7" start="3084" end="3100" text="Medicine Service" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<OTHER id="P8" start="3249" end="3266" text="Internal Medicine" TYPE="PROP_MISC" comment=""></OTHER>
-		<DATE id="P9" start="3389" end="3398" text="8:30 p.m." TYPE="DATE" comment=""></DATE>
-		<NAME id="P10" start="3868" end="3876" text="FAULKNER" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P11" start="3878" end="3888" text="GABRIAL MD" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P12" start="3893" end="3901" text="08/05/79" TYPE="DATE" comment=""></DATE>
-		<DATE id="P13" start="3906" end="3914" text="08/05/79" TYPE="DATE" comment=""></DATE>
-		<NAME id="P14" start="3929" end="3937" text="FAULKNER" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P15" start="3939" end="3958" text="GABRIAL
-
-eScription" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<OTHER id="P16" start="4014" end="4033" text="Attending Physician" TYPE="PROP_MISC" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

@@ -233,21 +233,6 @@ Team 2 Intern
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2123-03-02" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="65" end="79" text="Isabella Valle" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P2" start="80" end="87" text="4698877" TYPE="PHONE" comment=""></CONTACT>
-		<ID id="P3" start="80" end="87" text="4698877" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P4" start="108" end="117" text="3/01/2123" TYPE="DATE" comment=""></DATE>
-		<NAME id="P5" start="134" end="141" text="L. Uren" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P6" start="729" end="734" text="Foley" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P7" start="1711" end="1715" text="1250" TYPE="DATE" comment=""></DATE>
-		<NAME id="P8" start="1818" end="1822" text="etoh" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P9" start="3023" end="3041" text="WARFARIN ANTI-COAG" TYPE="PROP_MISC" comment=""></OTHER>
-		<LOCATION id="P10" start="3155" end="3183" text="Diff Method             Auto" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<CONTACT id="P11" start="4078" end="4110" text="136                      135-145" TYPE="PHONE" comment=""></CONTACT>
-		<CONTACT id="P12" start="4915" end="4943" text="50-100                   0-2" TYPE="PHONE" comment=""></CONTACT>
-		<CONTACT id="P13" start="5125" end="5153" text="3-5                      0-5" TYPE="PHONE" comment=""></CONTACT>
-		<NAME id="P14" start="6733" end="6746" text="Bradley Burch" TYPE="PATIENT" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

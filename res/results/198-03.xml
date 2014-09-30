@@ -156,29 +156,6 @@ Document Status: Final
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2078-11-08" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P1" start="45" end="70" text="OAKLAND ASSOCIATES CENTER" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P2" start="481" end="486" text="R ABI" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P3" start="514" end="519" text="L ABI" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P4" start="1698" end="1705" text="bil IIA" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P5" start="2141" end="2149" text="ETT MIBI" TYPE="PROP_MISC" comment=""></OTHER>
-		<DATE id="P6" start="2159" end="2167" text="10/31/78" TYPE="DATE" comment=""></DATE>
-		<NAME id="P7" start="2440" end="2446" text="Barton" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P8" start="2605" end="2617" text="Cardiac Cath" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P9" start="3033" end="3037" text="2 DM" TYPE="CURRENCY" comment=""></OTHER>
-		<DATE id="P10" start="3163" end="3168" text="April" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P11" start="3449" end="3454" text="No IV" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P12" start="3808" end="3823" text="SL TNG 
-Chantix" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P13" start="4223" end="4236" text="Chantix 
-Quit" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P14" start="4243" end="4247" text="ETOH" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P15" start="4325" end="4337" text="Wilkes-Barre" TYPE="LOCALITY" comment=""></OTHER>
-		<LOCATION id="P16" start="5054" end="5061" text="1.1, NA" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P17" start="5494" end="5512" text="Yvette Ferraro, RN" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P18" start="5546" end="5564" text="Yvette Ferraro, RN" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P19" start="5566" end="5584" text="NP
-Document Status" TYPE="PROP_MISC" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

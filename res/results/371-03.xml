@@ -60,20 +60,6 @@ Virginia M Townsend,N.P.,M.S.
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2079-06-18" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P1" start="181" end="187" text="Korean" TYPE="LANGUAGE" comment=""></OTHER>
-		<OTHER id="P2" start="192" end="199" text="English" TYPE="LANGUAGE" comment=""></OTHER>
-		<LOCATION id="P3" start="470" end="492" text="FH Uncoded Information" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P4" start="744" end="752" text="11/15/77" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P5" start="908" end="917" text="GM PV BIW" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P6" start="937" end="945" text="11/15/77" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P7" start="1131" end="1146" text="40MG CAPSULE DR" TYPE="ADDRESS1" comment=""></LOCATION>
-		<NAME id="P8" start="1601" end="1609" text="PO TID x" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P9" start="2222" end="2226" text="amts" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P10" start="2674" end="2688" text="64reg  Wt #220" TYPE="ADDRESS1" comment=""></LOCATION>
-		<OTHER id="P11" start="2739" end="2748" text="JVD
-Lungs" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P12" start="3618" end="3637" text="Virginia M Townsend" TYPE="PATIENT" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

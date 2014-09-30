@@ -353,56 +353,6 @@ Pager #45074
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2091-07-28" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P1" start="28" end="34" text="Intern" TYPE="TITLE" comment=""></OTHER>
-		<NAME id="P2" start="50" end="58" text="Mitchell" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P3" start="60" end="65" text="Katie" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P4" start="72" end="79" text="6146161" TYPE="IDNUM" comment=""></ID>
-		<CONTACT id="P5" start="72" end="79" text="6146161" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P6" start="100" end="113" text="July 24, 2091" TYPE="DATE" comment=""></DATE>
-		<DATE id="P7" start="133" end="145" text="Jul 28, 2091" TYPE="DATE" comment=""></DATE>
-		<NAME id="P8" start="154" end="168" text="Geoffrey Lucas" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P9" start="176" end="189" text="Evelyn Conway" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P10" start="191" end="198" text="Raymond" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P11" start="209" end="216" text="Janssen" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P12" start="241" end="253" text="Ms. Mitchell" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P13" start="352" end="356" text="2085" TYPE="DATE" comment=""></DATE>
-		<DATE id="P14" start="653" end="660" text="7/10/91" TYPE="DATE" comment=""></DATE>
-		<NAME id="P15" start="1571" end="1596" text="ASA, Lopressor and Ativan" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P16" start="1719" end="1731" text="IV Lopressor" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P17" start="1758" end="1766" text="IV Lasix" TYPE="PROP_MISC" comment=""></OTHER>
-		<DATE id="P18" start="2176" end="2183" text="7/24/91" TYPE="DATE" comment=""></DATE>
-		<DATE id="P19" start="2304" end="2311" text="7/24/91" TYPE="DATE" comment=""></DATE>
-		<DATE id="P20" start="2544" end="2551" text="7/25/91" TYPE="DATE" comment=""></DATE>
-		<NAME id="P21" start="2635" end="2642" text="Janssen" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P22" start="2695" end="2703" text="Saturday" TYPE="DATE" comment=""></DATE>
-		<DATE id="P23" start="2704" end="2711" text="7/28/91" TYPE="DATE" comment=""></DATE>
-		<DATE id="P24" start="2716" end="2723" text="7/26/91" TYPE="DATE" comment=""></DATE>
-		<DATE id="P25" start="2840" end="2847" text="7/27/91" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P26" start="3027" end="3031" text="6LNC" TYPE="MGRS" comment=""></OTHER>
-		<LOCATION id="P27" start="3324" end="3328" text="PFTs" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P28" start="3332" end="3339" text="7/17/91" TYPE="DATE" comment=""></DATE>
-		<NAME id="P29" start="3375" end="3383" text="St. Jude" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P30" start="3393" end="3397" text="2085" TYPE="DATE" comment=""></DATE>
-		<DATE id="P31" start="3426" end="3430" text="2085" TYPE="DATE" comment=""></DATE>
-		<DATE id="P32" start="3439" end="3443" text="2090" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P33" start="3507" end="3509" text="LA" TYPE="LOCALITY" comment=""></OTHER>
-		<DATE id="P34" start="3641" end="3648" text="7/10/91" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P35" start="4067" end="4077" text="Enemas prn" TYPE="ORGANIZATION/MEDIA" comment=""></LOCATION>
-		<NAME id="P36" start="4801" end="4805" text="EtOH" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P37" start="5367" end="5400" text="140                       135-145" TYPE="PHONE" comment=""></CONTACT>
-		<OTHER id="P38" start="5852" end="5865" text="Urea Nitrogen" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P39" start="6018" end="6022" text="5LNC" TYPE="MGRS" comment=""></OTHER>
-		<CONTACT id="P40" start="6754" end="6787" text="232                       150-350" TYPE="PHONE" comment=""></CONTACT>
-		<CONTACT id="P41" start="6827" end="6859" text="86                        80-100" TYPE="PHONE" comment=""></CONTACT>
-		<OTHER id="P42" start="7232" end="7250" text="WARFARIN ANTI-COAG" TYPE="PROP_MISC" comment=""></OTHER>
-		<DATE id="P43" start="7586" end="7596" text="09/09/2090" TYPE="DATE" comment=""></DATE>
-		<NAME id="P44" start="8141" end="8153" text="Ms. Mitchell" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P45" start="8675" end="8678" text="may" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P46" start="8861" end="8869" text="IV Lasix" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P47" start="9036" end="9048" text="IV Lopressor" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P48" start="9116" end="9123" text="Janssen" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P49" start="9384" end="9396" text="Henry Norton" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

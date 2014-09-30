@@ -322,42 +322,6 @@ signed:  ___________________________________________________________
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2066-05-23" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P1" start="28" end="63" text="Hinds General Hospital
-Preadmission" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<NAME id="P2" start="144" end="153" text="Jablonski" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P3" start="161" end="174" text="Patricia Wynn" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P4" start="182" end="200" text="Frances Strickland" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P5" start="210" end="222" text="Mark C. Xian" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P6" start="230" end="246" text="Medical Director" TYPE="TITLE" comment=""></OTHER>
-		<DATE id="P7" start="248" end="260" text="May 22, 2066" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P8" start="264" end="285" text="Medical Record Number" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<CONTACT id="P9" start="288" end="295" text="2650173" TYPE="PHONE" comment=""></CONTACT>
-		<ID id="P10" start="288" end="295" text="2650173" TYPE="IDNUM" comment=""></ID>
-		<NAME id="P11" start="297" end="305" text="Cummings" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P12" start="307" end="314" text="Melissa" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P13" start="439" end="451" text="May 31, 2066" TYPE="DATE" comment=""></DATE>
-		<NAME id="P14" start="459" end="473" text="Patrick Frantz" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P15" start="496" end="511" text="Present Illness" TYPE="PROP_MISC" comment=""></OTHER>
-		<DATE id="P16" start="609" end="616" text="5/07/66" TYPE="DATE" comment=""></DATE>
-		<DATE id="P17" start="1932" end="1939" text="5/20/66" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P18" start="2036" end="2051" text="Medical History" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P19" start="2321" end="2337" text="Surgical History" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<CONTACT id="P20" start="2797" end="2805" text="75/25 22" TYPE="PHONE" comment=""></CONTACT>
-		<LOCATION id="P21" start="2966" end="2971" text="Bayer" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P22" start="3053" end="3060" text="5/23/66" TYPE="DATE" comment=""></DATE>
-		<DATE id="P23" start="3087" end="3094" text="5/23/66" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P24" start="4162" end="4173" text="Vital Signs" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P25" start="5071" end="5093" text="ASA Physical Status II" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P26" start="5483" end="5487" text="2063" TYPE="DATE" comment=""></DATE>
-		<NAME id="P27" start="5674" end="5691" text="Emma-Wendy Alcala" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P28" start="5866" end="5872" text="Alcala" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P29" start="6120" end="6135" text="Pain Management" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P30" start="6630" end="6638" text="midnight" TYPE="DATE" comment=""></DATE>
-		<NAME id="P31" start="6748" end="6764" text="Patricia C. Wynn" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P32" start="6788" end="6804" text="Medical Director" TYPE="TITLE" comment=""></OTHER>
-		<NAME id="P33" start="6805" end="6809" text="Note" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P34" start="7037" end="7044" text="Surgeon" TYPE="TITLE" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

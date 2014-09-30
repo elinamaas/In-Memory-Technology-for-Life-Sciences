@@ -143,20 +143,6 @@ Bethany Kristin Downs, M.D.
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2094-03-06" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="97" end="102" text="FOUST" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P2" start="201" end="211" text="03/06/2094" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P3" start="467" end="482" text="Medical History" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<OTHER id="P4" start="782" end="787" text="Fleet" TYPE="LOCALITY" comment=""></OTHER>
-		<NAME id="P5" start="916" end="927" text="Tania Foust" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P6" start="949" end="963" text="Willie Spencer" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P7" start="989" end="997" text="UC Davis" TYPE="ORGANIZATION/EDUCATIONAL" comment=""></LOCATION>
-		<LOCATION id="P8" start="1062" end="1069" text="Hungary" TYPE="COUNTRY" comment=""></LOCATION>
-		<DATE id="P9" start="1077" end="1081" text="2060" TYPE="DATE" comment=""></DATE>
-		<NAME id="P10" start="1099" end="1103" text="etoh" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P11" start="1223" end="1234" text="Vital Signs" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P12" start="1858" end="1867" text="Normal S1" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P13" start="2517" end="2538" text="Bethany Kristin Downs" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

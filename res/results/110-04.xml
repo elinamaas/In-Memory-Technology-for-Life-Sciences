@@ -181,16 +181,6 @@ Owen M Gallagher, M.D.
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2080-10-01" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="96" end="100" text="yo M" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P2" start="194" end="200" text="Monday" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P3" start="1109" end="1122" text="CARPAL TUNNEL" TYPE="FACILITY/PATH" comment=""></OTHER>
-		<LOCATION id="P4" start="1954" end="1965" text="Vital Signs" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P5" start="2023" end="2026" text="SAT" TYPE="DATE" comment=""></DATE>
-		<NAME id="P6" start="3559" end="3570" text="Xavier Rush" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P7" start="3829" end="3835" text="Thorne" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P8" start="3872" end="3877" text="Perez" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P9" start="4064" end="4080" text="Owen M Gallagher" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

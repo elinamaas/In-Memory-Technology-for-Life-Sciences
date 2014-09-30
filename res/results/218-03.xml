@@ -171,20 +171,6 @@ Document Status: Final
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2096-03-16" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P1" start="62" end="84" text="MISSOULA CLINIC CENTER" TYPE="ORGANIZATION/OTHER" comment=""></LOCATION>
-		<OTHER id="P2" start="136" end="140" text="2 DM" TYPE="CURRENCY" comment=""></OTHER>
-		<LOCATION id="P3" start="841" end="860" text="2082, LAD PTCA 2082" TYPE="ADDRESS1" comment=""></LOCATION>
-		<DATE id="P4" start="889" end="893" text="2082" TYPE="DATE" comment=""></DATE>
-		<DATE id="P5" start="900" end="904" text="2087" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P6" start="975" end="983" text="TnT 1.35" TYPE="WEAPON/EXPLODING" comment=""></OTHER>
-		<NAME id="P7" start="1184" end="1193" text="Etheridge" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P8" start="3019" end="3026" text="Youmans" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P9" start="3050" end="3057" text="Youmans" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P10" start="3137" end="3142" text="BP OK" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P11" start="3322" end="3326" text="2087" TYPE="DATE" comment=""></DATE>
-		<NAME id="P12" start="3364" end="3381" text="William Eggleston" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P13" start="3428" end="3445" text="William Eggleston" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

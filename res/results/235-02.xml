@@ -143,12 +143,6 @@ Assessment and Plan
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2083-03-08" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="579" end="585" text="Rivers" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P2" start="871" end="885" text="S/P COLPOSCOPY" TYPE="PROP_MISC" comment=""></OTHER>
-		<LOCATION id="P3" start="1894" end="1901" text="RRR, NL" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P4" start="2030" end="2039" text="NL MS, NL" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P5" start="2339" end="2347" text="Thursday" TYPE="DATE" comment=""></DATE>
 
 	</TAGS>
 </deIdi2b2>

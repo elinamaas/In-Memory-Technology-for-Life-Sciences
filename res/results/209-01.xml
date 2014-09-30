@@ -56,30 +56,6 @@ AL:0138:855
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2089-04-13" TYPE="DATE" comment=""></DATE>
-		<DATE id="P1" start="34" end="48" text="April 13, 2089" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P2" start="72" end="102" text="M.D.  
-Carrizoza Health Center" TYPE="ORGANIZATION/OTHER" comment=""></LOCATION>
-		<LOCATION id="P3" start="122" end="146" text="Clifton Forge, WI  11674" TYPE="ADDRESS2" comment=""></LOCATION>
-		<NAME id="P4" start="155" end="162" text="Parrish" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P5" start="164" end="175" text="Christopher" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P6" start="184" end="193" text="553-15-48" TYPE="PHONE" comment=""></CONTACT>
-		<NAME id="P7" start="206" end="210" text="Kirk" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P8" start="259" end="278" text="Christopher Parrish" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P9" start="363" end="376" text="Sutton Family" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P10" start="385" end="402" text="December 29, 2088" TYPE="DATE" comment=""></DATE>
-		<NAME id="P11" start="1099" end="1105" text="Holter" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P12" start="2198" end="2202" text="2060" TYPE="DATE" comment=""></DATE>
-		<DATE id="P13" start="2234" end="2238" text="2083" TYPE="DATE" comment=""></DATE>
-		<DATE id="P14" start="2265" end="2269" text="2087" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P15" start="3037" end="3057" text="Marble Slab Creamery" TYPE="FACILITY/BUILDGROUNDS" comment=""></OTHER>
-		<NAME id="P16" start="4432" end="4439" text="Parrish" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P17" start="5557" end="5571" text="Stroke Service" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P18" start="5575" end="5588" text="Sutton Family" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P19" start="6206" end="6214" text="Dopplers" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P20" start="6345" end="6357" text="Laith Greene" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P21" start="6365" end="6398" text="Sutton Family Care Stroke Service" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P22" start="6506" end="6522" text="Johnathan Kiefer" TYPE="PATIENT" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

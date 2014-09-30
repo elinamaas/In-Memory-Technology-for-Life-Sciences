@@ -207,40 +207,6 @@ Ret 1 mo.  PT/INR, lipids, AST, HbA1C.  Continue above meds.
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2069-03-26" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P1" start="96" end="105" text="incontrol" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P2" start="320" end="329" text="Ily Light" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P3" start="623" end="627" text="2 DM" TYPE="CURRENCY" comment=""></OTHER>
-		<NAME id="P4" start="1476" end="1486" text="Ilya Light" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P5" start="1510" end="1525" text="Medical History" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P6" start="1536" end="1540" text="2064" TYPE="DATE" comment=""></DATE>
-		<NAME id="P7" start="1549" end="1557" text="Quint, L" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P8" start="1601" end="1608" text="Umstead" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P9" start="1660" end="1666" text="Alcala" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P10" start="1675" end="1680" text="Adams" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P11" start="1683" end="1687" text="2064" TYPE="DATE" comment=""></DATE>
-		<DATE id="P12" start="1717" end="1725" text="10/31/64" TYPE="DATE" comment=""></DATE>
-		<NAME id="P13" start="1777" end="1786" text="Quint and" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P14" start="1840" end="1858" text="Health Maintenance" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P15" start="1882" end="1892" text="02/23/2069" TYPE="DATE" comment=""></DATE>
-		<DATE id="P16" start="1937" end="1947" text="03/22/2068" TYPE="DATE" comment=""></DATE>
-		<DATE id="P17" start="2044" end="2054" text="03/25/2068" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P18" start="2075" end="2099" text="HOLLY MANOR NURSING HOME" TYPE="FACILITY/BUILDGROUNDS" comment=""></OTHER>
-		<OTHER id="P19" start="2107" end="2122" text="Reference Range" TYPE="PROP_MISC" comment=""></OTHER>
-		<DATE id="P20" start="2162" end="2172" text="03/02/2069" TYPE="DATE" comment=""></DATE>
-		<DATE id="P21" start="2220" end="2230" text="04/16/2066" TYPE="DATE" comment=""></DATE>
-		<DATE id="P22" start="2266" end="2276" text="07/03/2067" TYPE="DATE" comment=""></DATE>
-		<DATE id="P23" start="2311" end="2321" text="03/23/2068" TYPE="DATE" comment=""></DATE>
-		<DATE id="P24" start="2354" end="2364" text="03/25/2068" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P25" start="2384" end="2408" text="HOLLY MANOR NURSING HOME" TYPE="FACILITY/BUILDGROUNDS" comment=""></OTHER>
-		<DATE id="P26" start="2546" end="2550" text="2061" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P27" start="2640" end="2669" text="Communications senior manager" TYPE="TITLE" comment=""></OTHER>
-		<LOCATION id="P28" start="2693" end="2714" text="Brinker International" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P29" start="2720" end="2728" text="Facebook" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P30" start="2735" end="2742" text="Twitter" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P31" start="2983" end="2987" text="2067" TYPE="DATE" comment=""></DATE>
-		<DATE id="P32" start="3025" end="3033" text="Feb 2069" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P33" start="3294" end="3305" text="Vital Signs" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
 
 	</TAGS>
 </deIdi2b2>

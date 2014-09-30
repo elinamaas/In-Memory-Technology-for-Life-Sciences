@@ -399,50 +399,6 @@ Discussed with senior resident, Dr. Skylar Watson
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2084-01-08" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="112" end="121" text="BRANDON H" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P2" start="246" end="250" text="2077" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P3" start="288" end="300" text="CHF Class Ia" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P4" start="317" end="324" text="BiV ICD" TYPE="PROP_MISC" comment=""></OTHER>
-		<LOCATION id="P5" start="349" end="365" text="Coumadin and ASA" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P6" start="527" end="533" text="9:00am" TYPE="DATE" comment=""></DATE>
-		<DATE id="P7" start="918" end="922" text="noon" TYPE="DATE" comment=""></DATE>
-		<DATE id="P8" start="1269" end="1277" text="Thursday" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P9" start="1678" end="1693" text="Medical History" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P10" start="1715" end="1719" text="2077" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P11" start="1747" end="1768" text="Systolic CHF Class Ia" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P12" start="1807" end="1815" text="St. Jude" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P13" start="1817" end="1827" text="05/13/2081" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P14" start="2036" end="2048" text="Glipizide XL" TYPE="PROP_MISC" comment=""></OTHER>
-		<LOCATION id="P15" start="2593" end="2598" text="RR 18" TYPE="ADDRESS1" comment=""></LOCATION>
-		<NAME id="P16" start="2960" end="2973" text="MGR. Carotids" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P17" start="3253" end="3265" text="Visual Field" TYPE="FACILITY/BUILDGROUNDS" comment=""></OTHER>
-		<DATE id="P18" start="3554" end="3562" text="1/8/2084" TYPE="DATE" comment=""></DATE>
-		<DATE id="P19" start="3564" end="3571" text="2:15 PM" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P20" start="3951" end="3956" text="$2.25" TYPE="CURRENCY" comment=""></OTHER>
-		<OTHER id="P21" start="4035" end="4042" text="No RAPD" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P22" start="4052" end="4061" text="VI   EOMI" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P23" start="5683" end="5690" text="Romberg" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P24" start="5741" end="5748" text="2084 NA" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P25" start="5830" end="5840" text="01/08/2084" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P26" start="5855" end="5862" text="2084 CA" TYPE="ADDRESS2" comment=""></LOCATION>
-		<DATE id="P27" start="5945" end="5955" text="01/08/2084" TYPE="DATE" comment=""></DATE>
-		<DATE id="P28" start="6016" end="6026" text="01/08/2084" TYPE="DATE" comment=""></DATE>
-		<DATE id="P29" start="6070" end="6080" text="01/08/2084" TYPE="DATE" comment=""></DATE>
-		<DATE id="P30" start="6176" end="6186" text="01/08/2084" TYPE="DATE" comment=""></DATE>
-		<DATE id="P31" start="6200" end="6210" text="01/08/2084" TYPE="DATE" comment=""></DATE>
-		<DATE id="P32" start="6283" end="6293" text="01/08/2084" TYPE="DATE" comment=""></DATE>
-		<DATE id="P33" start="6362" end="6372" text="01/08/2084" TYPE="DATE" comment=""></DATE>
-		<DATE id="P34" start="6471" end="6481" text="01/08/2084" TYPE="DATE" comment=""></DATE>
-		<DATE id="P35" start="6493" end="6503" text="01/11/2084" TYPE="DATE" comment=""></DATE>
-		<DATE id="P36" start="6504" end="6509" text="23:59" TYPE="DATE" comment=""></DATE>
-		<DATE id="P37" start="6946" end="6950" text="2077" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P38" start="6988" end="7000" text="CHF Class Ia" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P39" start="7017" end="7024" text="BiV ICD" TYPE="PROP_MISC" comment=""></OTHER>
-		<LOCATION id="P40" start="7049" end="7065" text="Coumadin and ASA" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P41" start="8700" end="8704" text="ROMI" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P42" start="9096" end="9112" text="Carol Upton M.D." TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P43" start="9211" end="9224" text="Skylar Watson" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

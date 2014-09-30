@@ -119,40 +119,6 @@ Andrew Kendrick, M.D.   (pager # 99225)
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2073-02-07" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="77" end="81" text="Vera" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P2" start="87" end="94" text="2152363" TYPE="IDNUM" comment=""></ID>
-		<CONTACT id="P3" start="87" end="94" text="2152363" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P4" start="114" end="120" text="2/7/73" TYPE="DATE" comment=""></DATE>
-		<NAME id="P5" start="132" end="137" text="Alton" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P6" start="132" end="137" text="Alton" TYPE="LOCALITY" comment=""></OTHER>
-		<NAME id="P7" start="148" end="170" text="Richard Huerta
-Contact" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P8" start="172" end="182" text="Molly Vera" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P9" start="190" end="202" text="371-514-1494" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P10" start="395" end="399" text="2069" TYPE="DATE" comment=""></DATE>
-		<NAME id="P11" start="871" end="875" text="Uher" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P12" start="1033" end="1039" text="2/7/73" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P13" start="1442" end="1457" text="Hx/Risk Factors" TYPE="PROP_MISC" comment=""></OTHER>
-		<LOCATION id="P14" start="1625" end="1629" text="METS" TYPE="ORGANIZATION/SPORTS" comment=""></LOCATION>
-		<LOCATION id="P15" start="2185" end="2190" text="MG QD" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P16" start="2245" end="2250" text="MG QD" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P17" start="2286" end="2291" text="MG QD" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P18" start="2444" end="2450" text="MG QOD" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P19" start="2474" end="2479" text="MG QD" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P20" start="2523" end="2528" text="MG QD" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P21" start="2568" end="2572" text="1000" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P22" start="2649" end="2654" text="MG QD" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<OTHER id="P23" start="2730" end="2737" text="SHx:	Pt" TYPE="TICKER" comment=""></OTHER>
-		<OTHER id="P24" start="2761" end="2775" text="Guatemala City" TYPE="LOCALITY" comment=""></OTHER>
-		<OTHER id="P25" start="2821" end="2828" text="manager" TYPE="TITLE" comment=""></OTHER>
-		<NAME id="P26" start="3647" end="3652" text="MS nl" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P27" start="4029" end="4050" text="Ischemia
-Continue ASA" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<OTHER id="P28" start="4117" end="4164" text="Glimepiride
-Hyperlipidemia
-Continue Gemfibrozil" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P29" start="4364" end="4379" text="Andrew Kendrick" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

@@ -60,24 +60,6 @@ At today's visit, the patient's wound was dressed and cleaned the our nursing st
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2067-08-02" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="295" end="302" text="Sanchez" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P2" start="529" end="556" text="Northport Veterans Hospital" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<LOCATION id="P3" start="1125" end="1140" text="Medical History" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P4" start="1461" end="1468" text="S/P I&amp;D" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P5" start="1609" end="1631" text="FH Uncoded Information" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<OTHER id="P6" start="1742" end="1756" text="QD 
-Nephrocaps" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P7" start="1861" end="1869" text="PO TID x" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P8" start="1994" end="2003" text="QD 
-Zetia" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P9" start="2046" end="2059" text="QD 
-Toprol XL" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P10" start="2114" end="2120" text="TAB.SR" TYPE="URI/URL" comment=""></OTHER>
-		<DATE id="P11" start="2253" end="2258" text="45 am" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P12" start="3785" end="3806" text="Island Medical Center" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<DATE id="P13" start="3829" end="3836" text="Tuesday" TYPE="DATE" comment=""></DATE>
-		<DATE id="P14" start="4335" end="4342" text="Tuesday" TYPE="DATE" comment=""></DATE>
 
 	</TAGS>
 </deIdi2b2>

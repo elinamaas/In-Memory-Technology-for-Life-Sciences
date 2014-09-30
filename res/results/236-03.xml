@@ -151,25 +151,6 @@ Timothy E. Quarterman, M.D.
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2070-06-10" TYPE="DATE" comment=""></DATE>
-		<DATE id="P1" start="52" end="65" text="June 11, 2070" TYPE="DATE" comment=""></DATE>
-		<NAME id="P2" start="76" end="88" text="Wanda Koontz" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P3" start="115" end="139" text="Barton Memorial Hospital" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<LOCATION id="P4" start="141" end="161" text="12 Batchelder Street" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P5" start="172" end="180" text="TN 41694" TYPE="ADDRESS2" comment=""></LOCATION>
-		<NAME id="P6" start="191" end="205" text="Jennifer Vance" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P7" start="217" end="228" text="542-66-00-3" TYPE="PHONE" comment=""></CONTACT>
-		<ID id="P8" start="217" end="228" text="542-66-00-3" TYPE="IDNUM" comment=""></ID>
-		<NAME id="P9" start="238" end="243" text="Wanda" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P10" start="252" end="259" text=". Vance" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P11" start="491" end="499" text="November" TYPE="DATE" comment=""></DATE>
-		<NAME id="P12" start="1702" end="1711" text="Ms. Vance" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P13" start="1824" end="1838" text="Jennifer Vance" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P14" start="1845" end="1856" text="542-66-00-3" TYPE="IDNUM" comment=""></ID>
-		<CONTACT id="P15" start="1845" end="1856" text="542-66-00-3" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P16" start="1858" end="1871" text="June 10, 2070" TYPE="DATE" comment=""></DATE>
-		<NAME id="P17" start="2317" end="2338" text="Timothy E. Quarterman" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P18" start="2386" end="2405" text="Attending Physician" TYPE="PROP_MISC" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

@@ -358,47 +358,6 @@ Signed electronically by Xa, Gary O on Nov 25, 2085
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2085-11-25" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P1" start="62" end="83" text="SAN FERNANDO HOSPITAL" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<DATE id="P2" start="1553" end="1560" text="7/15/84" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P3" start="1561" end="1568" text="Home BS" TYPE="PROP_MISC" comment=""></OTHER>
-		<DATE id="P4" start="1590" end="1597" text="9/12/84" TYPE="DATE" comment=""></DATE>
-		<DATE id="P5" start="1718" end="1726" text="10/29/81" TYPE="DATE" comment=""></DATE>
-		<DATE id="P6" start="1835" end="1839" text="2071" TYPE="DATE" comment=""></DATE>
-		<DATE id="P7" start="1979" end="1986" text="8/16/81" TYPE="DATE" comment=""></DATE>
-		<CONTACT id="P8" start="2024" end="2030" text="85 138" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P9" start="2031" end="2037" text="2/6/85" TYPE="DATE" comment=""></DATE>
-		<DATE id="P10" start="2141" end="2148" text="2/06/85" TYPE="DATE" comment=""></DATE>
-		<CONTACT id="P11" start="2270" end="2275" text="04/85" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P12" start="2457" end="2461" text="2080" TYPE="DATE" comment=""></DATE>
-		<NAME id="P13" start="2466" end="2468" text="Wm" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P14" start="2469" end="2474" text="Moses" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P15" start="2490" end="2497" text="6/04/84" TYPE="DATE" comment=""></DATE>
-		<DATE id="P16" start="2527" end="2534" text="9/12/84" TYPE="DATE" comment=""></DATE>
-		<NAME id="P17" start="2714" end="2726" text="Omar Needham" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P18" start="2769" end="2774" text="Lewis" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P19" start="2784" end="2791" text="7/26/83" TYPE="DATE" comment=""></DATE>
-		<NAME id="P20" start="2836" end="2845" text="Underwood" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P21" start="2846" end="2852" text="7/7/85" TYPE="DATE" comment=""></DATE>
-		<CONTACT id="P22" start="2915" end="2919" text="5/85" TYPE="PHONE" comment=""></CONTACT>
-		<NAME id="P23" start="2966" end="2978" text="sister Wendy" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P24" start="3912" end="3924" text="abuse  Heavy" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P25" start="4028" end="4036" text="Medicare" TYPE="ORGANIZATION/GOVERNMENT" comment=""></LOCATION>
-		<DATE id="P26" start="4077" end="4081" text="2085" TYPE="DATE" comment=""></DATE>
-		<DATE id="P27" start="4118" end="4121" text="aug" TYPE="DATE" comment=""></DATE>
-		<DATE id="P28" start="4628" end="4636" text="11/25/85" TYPE="DATE" comment=""></DATE>
-		<DATE id="P29" start="4653" end="4661" text="11/25/85" TYPE="DATE" comment=""></DATE>
-		<DATE id="P30" start="4684" end="4692" text="11/25/85" TYPE="DATE" comment=""></DATE>
-		<DATE id="P31" start="4718" end="4726" text="11/25/85" TYPE="DATE" comment=""></DATE>
-		<DATE id="P32" start="4742" end="4750" text="11/25/85" TYPE="DATE" comment=""></DATE>
-		<DATE id="P33" start="4772" end="4780" text="11/25/85" TYPE="DATE" comment=""></DATE>
-		<DATE id="P34" start="4818" end="4826" text="11/25/85" TYPE="DATE" comment=""></DATE>
-		<DATE id="P35" start="4847" end="4855" text="11/25/85" TYPE="DATE" comment=""></DATE>
-		<DATE id="P36" start="4868" end="4876" text="11/25/85" TYPE="DATE" comment=""></DATE>
-		<DATE id="P37" start="4889" end="4897" text="09/17/85" TYPE="DATE" comment=""></DATE>
-		<NAME id="P38" start="5159" end="5172" text="William Lewis" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P39" start="5275" end="5281" text="Gary O" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P40" start="5285" end="5297" text="Nov 25, 2085" TYPE="DATE" comment=""></DATE>
 
 	</TAGS>
 </deIdi2b2>

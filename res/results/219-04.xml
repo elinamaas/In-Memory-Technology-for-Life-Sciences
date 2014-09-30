@@ -117,22 +117,6 @@ DV: 03/31/77
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2077-03-31" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P1" start="34" end="57" text="Notre Dame Nursing Home" TYPE="FACILITY/BUILDGROUNDS" comment=""></OTHER>
-		<LOCATION id="P2" start="59" end="77" text="1410 Madera Circle" TYPE="ADDRESS1" comment=""></LOCATION>
-		<NAME id="P3" start="91" end="96" text="POTTS" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P4" start="98" end="105" text="WILLIAM" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P5" start="120" end="153" text="21113                    10916758" TYPE="PHONE" comment=""></CONTACT>
-		<ID id="P6" start="145" end="153" text="10916758" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P7" start="190" end="200" text="03/31/2077" TYPE="DATE" comment=""></DATE>
-		<NAME id="P8" start="239" end="244" text="Potts" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P9" start="576" end="580" text="2070" TYPE="DATE" comment=""></DATE>
-		<NAME id="P10" start="2857" end="2861" text="Uren" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P11" start="3351" end="3366" text="Matthew H Wyatt" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P12" start="3384" end="3394" text="eScription" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P13" start="3429" end="3437" text="03/31/77" TYPE="DATE" comment=""></DATE>
-		<DATE id="P14" start="3443" end="3451" text="03/31/77" TYPE="DATE" comment=""></DATE>
-		<DATE id="P15" start="3457" end="3465" text="03/31/77" TYPE="DATE" comment=""></DATE>
 
 	</TAGS>
 </deIdi2b2>

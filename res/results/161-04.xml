@@ -263,18 +263,6 @@ Pager 86807
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2073-12-03" TYPE="DATE" comment=""></DATE>
-		<ID id="P1" start="90" end="97" text="1344351" TYPE="IDNUM" comment=""></ID>
-		<CONTACT id="P2" start="90" end="97" text="1344351" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P3" start="120" end="128" text="12/03/73" TYPE="DATE" comment=""></DATE>
-		<NAME id="P4" start="157" end="162" text="Burke" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P5" start="291" end="298" text="PMH HTN" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P6" start="1739" end="1752" text="administrator" TYPE="TITLE" comment=""></OTHER>
-		<DATE id="P7" start="1825" end="1828" text="Sat" TYPE="DATE" comment=""></DATE>
-		<NAME id="P8" start="2033" end="2040" text="Doppler" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P9" start="2653" end="2666" text="Urea Nitrogen" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P10" start="2898" end="2915" text="Kinase Isoenzymes" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P11" start="6037" end="6053" text="S. Stanley Oberg" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

@@ -82,23 +82,6 @@ Isaac Q. Whitman, M.D.
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2114-11-26" TYPE="DATE" comment=""></DATE>
-		<DATE id="P1" start="38" end="55" text="November 26, 2114" TYPE="DATE" comment=""></DATE>
-		<NAME id="P2" start="67" end="81" text="Wanda Flaherty" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P3" start="88" end="99" text="Saint Annes" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P4" start="109" end="126" text="98 Greeley Street" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P5" start="136" end="144" text="AL 52345" TYPE="ADDRESS2" comment=""></LOCATION>
-		<NAME id="P6" start="153" end="165" text="Nancy Werner" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P7" start="174" end="182" text="57274347" TYPE="IDNUM" comment=""></ID>
-		<NAME id="P8" start="192" end="197" text="Wanda" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P9" start="201" end="213" text="Nancy Werner" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P10" start="262" end="265" text="May" TYPE="DATE" comment=""></DATE>
-		<NAME id="P11" start="1326" end="1334" text=". Werner" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P12" start="1514" end="1522" text=". Werner" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P13" start="1537" end="1549" text="Nancy Werner" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P14" start="1550" end="1567" text="November 26, 2114" TYPE="DATE" comment=""></DATE>
-		<NAME id="P15" start="1675" end="1691" text="Isaac Q. Whitman" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P16" start="1751" end="1769" text="Attending Provider" TYPE="PROP_MISC" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

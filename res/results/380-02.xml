@@ -155,23 +155,6 @@ Prestonsburg, MS 54151
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2069-05-27" TYPE="DATE" comment=""></DATE>
-		<DATE id="P1" start="28" end="40" text="May 27, 2069" TYPE="DATE" comment=""></DATE>
-		<NAME id="P2" start="44" end="56" text="Chad Norwood" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P3" start="70" end="82" text="Hannah Heath" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P4" start="91" end="99" text="91156456" TYPE="IDNUM" comment=""></ID>
-		<NAME id="P5" start="114" end="121" text="Norwood" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P6" start="170" end="182" text="Hannah Heath" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P7" start="489" end="493" text="2067" TYPE="DATE" comment=""></DATE>
-		<DATE id="P8" start="579" end="583" text="2068" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P9" start="2264" end="2271" text="Spanish" TYPE="LANGUAGE" comment=""></OTHER>
-		<DATE id="P10" start="2918" end="2922" text="2068" TYPE="DATE" comment=""></DATE>
-		<DATE id="P11" start="2949" end="2953" text="2068" TYPE="DATE" comment=""></DATE>
-		<NAME id="P12" start="3601" end="3606" text="Queen" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P13" start="3872" end="3887" text="Jordan N. Akers" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P14" start="3902" end="3925" text="Department of Neurology" TYPE="ORGANIZATION/GOVERNMENT" comment=""></LOCATION>
-		<LOCATION id="P15" start="3945" end="3965" text="Orange City Hospital" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<LOCATION id="P16" start="3981" end="3989" text="MS 54151" TYPE="ADDRESS2" comment=""></LOCATION>
 
 	</TAGS>
 </deIdi2b2>

@@ -39,17 +39,6 @@ cc:
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2095-08-06" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="64" end="75" text="Oscar Meyer" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P2" start="111" end="126" text="VICTOR M. ZUBIA" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P3" start="235" end="242" text="Gleason" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P4" start="283" end="288" text="Meyer" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P5" start="524" end="531" text="Gleason" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P6" start="807" end="824" text="SPECIAL TECHNICAL" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P7" start="1648" end="1653" text="Meyer" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P8" start="1723" end="1728" text="Meyer" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P9" start="1788" end="1801" text="Ulysses Imler" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P10" start="1818" end="1830" text="Victor Zubia" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

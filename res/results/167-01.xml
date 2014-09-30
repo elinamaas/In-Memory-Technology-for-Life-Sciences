@@ -40,20 +40,6 @@ Dictated by:  TRISTAN O. XAVIER, M.D.  TX12
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2078-10-13" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="76" end="85" text="YARBROUGH" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P2" start="86" end="91" text="IRENE" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P3" start="94" end="105" text="810-86-43-7" TYPE="IDNUM" comment=""></ID>
-		<CONTACT id="P4" start="94" end="105" text="810-86-43-7" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P5" start="141" end="149" text="10/13/78" TYPE="DATE" comment=""></DATE>
-		<NAME id="P6" start="258" end="265" text="Paulson" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P7" start="611" end="631" text="Emergency Department" TYPE="ORGANIZATION/GOVERNMENT" comment=""></LOCATION>
-		<LOCATION id="P8" start="695" end="715" text="Emergency Department" TYPE="ORGANIZATION/GOVERNMENT" comment=""></LOCATION>
-		<LOCATION id="P9" start="1028" end="1048" text="Emergency Department" TYPE="ORGANIZATION/GOVERNMENT" comment=""></LOCATION>
-		<ID id="P10" start="1655" end="1665" text="CQ774/2253" TYPE="IDNUM" comment=""></ID>
-		<NAME id="P11" start="1667" end="1684" text="TRISTAN O. XAVIER" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P12" start="1818" end="1835" text="TRISTAN O. XAVIER" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P13" start="1875" end="1894" text="Attending Physician" TYPE="PROP_MISC" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

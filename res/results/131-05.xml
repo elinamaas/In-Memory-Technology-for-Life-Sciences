@@ -197,25 +197,6 @@ Signed electronically by   Henry  Mays MD, PhD  on  Jan 6, 2097
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2097-01-04" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P1" start="40" end="61" text="VICTOR MEDICAL CLINIC" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<NAME id="P2" start="65" end="84" text="Thomas N Ramos M.D." TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P3" start="87" end="108" text="Victor Medical Clinic" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<LOCATION id="P4" start="110" end="135" text="55 Harbor Avenue, BUL-773" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P5" start="146" end="154" text="MN 74618" TYPE="ADDRESS2" comment=""></LOCATION>
-		<NAME id="P6" start="163" end="169" text="Thomas" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P7" start="215" end="220" text="Weeks" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P8" start="423" end="433" text="07/20/2096" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P9" start="478" end="482" text="LIMA" TYPE="LOCALITY" comment=""></OTHER>
-		<NAME id="P10" start="478" end="482" text="LIMA" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P11" start="2062" end="2066" text="2065" TYPE="DATE" comment=""></DATE>
-		<DATE id="P12" start="4339" end="4349" text="12/22/2096" TYPE="DATE" comment=""></DATE>
-		<DATE id="P13" start="4354" end="4364" text="12/26/2096" TYPE="DATE" comment=""></DATE>
-		<DATE id="P14" start="4587" end="4596" text="July 2096" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P15" start="7092" end="7111" text="Wayne Dental Clinic" TYPE="FACILITY/BUILDGROUNDS" comment=""></OTHER>
-		<NAME id="P16" start="7292" end="7305" text="Henry Mays MD" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P17" start="7341" end="7355" text="Henry  Mays MD" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P18" start="7366" end="7377" text="Jan 6, 2097" TYPE="DATE" comment=""></DATE>
 
 	</TAGS>
 </deIdi2b2>

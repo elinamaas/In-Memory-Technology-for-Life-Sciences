@@ -289,40 +289,6 @@ Betty Kaleena-Kern, MD (Internal Medicine)
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2091-10-27" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="44" end="49" text="Munoz" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P2" start="51" end="56" text="Katie" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P3" start="64" end="71" text="6146161" TYPE="IDNUM" comment=""></ID>
-		<CONTACT id="P4" start="64" end="71" text="6146161" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P5" start="93" end="101" text="10/26/91" TYPE="DATE" comment=""></DATE>
-		<NAME id="P6" start="112" end="130" text="Betty Kaleena-Kern" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P7" start="143" end="157" text="Youssef Easton" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P8" start="164" end="177" text="Evelyn Conway" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P9" start="193" end="208" text="Quinton Janssen" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P10" start="221" end="236" text="Medicine Intern" TYPE="TITLE" comment=""></OTHER>
-		<NAME id="P11" start="1262" end="1274" text="Ms. Mitchell" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P12" start="1461" end="1476" text="Medical History" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P13" start="1507" end="1515" text="St. Jude" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P14" start="1598" end="1605" text="St Jude" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P15" start="1679" end="1683" text="PFTs" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P16" start="1687" end="1694" text="7/17/91" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P17" start="1857" end="1863" text="EC ASA" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P18" start="2105" end="2115" text="Ultram prn" TYPE="ORGANIZATION/MEDIA" comment=""></LOCATION>
-		<DATE id="P19" start="2159" end="2165" text="Sunday" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P20" start="2192" end="2209" text="Albuterol MDI prn" TYPE="ORGANIZATION/MEDIA" comment=""></LOCATION>
-		<NAME id="P21" start="2682" end="2694" text="Ms. Mitchell" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P22" start="2779" end="2788" text="September" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P23" start="3031" end="3042" text="Vital Signs" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P24" start="3062" end="3081" text="99.1   HR 82  RR 22" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P25" start="3109" end="3120" text="Vital Signs" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P26" start="3132" end="3149" text="97.1  HR 72 RR 40" TYPE="ADDRESS1" comment=""></LOCATION>
-		<DATE id="P27" start="4300" end="4307" text="8/07/91" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P28" start="4375" end="4387" text="Cardiac Cath" TYPE="PROP_MISC" comment=""></OTHER>
-		<DATE id="P29" start="4388" end="4395" text="7/28/91" TYPE="DATE" comment=""></DATE>
-		<NAME id="P30" start="4492" end="4500" text="Kerley B" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P31" start="4978" end="4982" text="ROMI" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P32" start="5637" end="5641" text="Endo" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P33" start="5836" end="5854" text="Betty Kaleena-Kern" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

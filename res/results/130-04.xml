@@ -116,68 +116,6 @@ EHCC Intern
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2089-03-29" TYPE="DATE" comment=""></DATE>
-		<ID id="P1" start="84" end="92" text="57585291" TYPE="IDNUM" comment=""></ID>
-		<NAME id="P2" start="108" end="120" text="Olivia Perry" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P3" start="139" end="152" text="Qiana Solomon" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P4" start="154" end="167" text="Emmons Health" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<CONTACT id="P5" start="187" end="199" text="665-578-7821" TYPE="PHONE" comment=""></CONTACT>
-		<CONTACT id="P6" start="242" end="254" text="448-876-4285" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P7" start="349" end="355" text="Monday" TYPE="DATE" comment=""></DATE>
-		<DATE id="P8" start="356" end="365" text="Wednesday" TYPE="DATE" comment=""></DATE>
-		<DATE id="P9" start="366" end="372" text="Friday" TYPE="DATE" comment=""></DATE>
-		<DATE id="P10" start="408" end="412" text="2068" TYPE="DATE" comment=""></DATE>
-		<DATE id="P11" start="414" end="418" text="2075" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P12" start="1216" end="1227" text="Pain Clinic" TYPE="FACILITY/BUILDGROUNDS" comment=""></OTHER>
-		<LOCATION id="P13" start="1216" end="1227" text="Pain Clinic" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<NAME id="P14" start="2053" end="2062" text="ED Course" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P15" start="2239" end="2242" text="Mon" TYPE="DATE" comment=""></DATE>
-		<DATE id="P16" start="2243" end="2246" text="Wed" TYPE="DATE" comment=""></DATE>
-		<DATE id="P17" start="2247" end="2250" text="Fri" TYPE="DATE" comment=""></DATE>
-		<DATE id="P18" start="2283" end="2287" text="2068" TYPE="DATE" comment=""></DATE>
-		<DATE id="P19" start="2292" end="2296" text="2075" TYPE="DATE" comment=""></DATE>
-		<DATE id="P20" start="2640" end="2643" text="Mon" TYPE="DATE" comment=""></DATE>
-		<DATE id="P21" start="2644" end="2647" text="Wed" TYPE="DATE" comment=""></DATE>
-		<DATE id="P22" start="2648" end="2651" text="Fri" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P23" start="2864" end="2880" text="Tablet(s)
-Keflex" TYPE="PROP_MISC" comment=""></OTHER>
-		<LOCATION id="P24" start="3201" end="3217" text="4-6 hrs PRN #540" TYPE="ADDRESS1" comment=""></LOCATION>
-		<OTHER id="P25" start="3281" end="3287" text="TAB.SR" TYPE="URI/URL" comment=""></OTHER>
-		<OTHER id="P26" start="3311" end="3317" text="TAB.SR" TYPE="URI/URL" comment=""></OTHER>
-		<OTHER id="P27" start="3493" end="3499" text="TAB.SR" TYPE="URI/URL" comment=""></OTHER>
-		<NAME id="P28" start="3780" end="3784" text="etoh" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P29" start="3854" end="3859" text="RR 18" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P30" start="3904" end="3913" text="NAD
-HEENT" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<OTHER id="P31" start="4074" end="4092" text="Holosystolic II/VI" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P32" start="4390" end="4395" text="bursa" TYPE="LOCALITY" comment=""></OTHER>
-		<LOCATION id="P33" start="4425" end="4453" text="ADMISSION LABS:03/29/2089 NA" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P34" start="4524" end="4531" text="2089 CA" TYPE="ADDRESS2" comment=""></LOCATION>
-		<DATE id="P35" start="4917" end="4932" text="++03/29/2089 PT" TYPE="DATE" comment=""></DATE>
-		<DATE id="P36" start="5029" end="5038" text="27-Mar-89" TYPE="DATE" comment=""></DATE>
-		<DATE id="P37" start="5039" end="5044" text="09:23" TYPE="DATE" comment=""></DATE>
-		<DATE id="P38" start="5104" end="5113" text="27-Mar-89" TYPE="DATE" comment=""></DATE>
-		<DATE id="P39" start="5114" end="5119" text="09:23" TYPE="DATE" comment=""></DATE>
-		<NAME id="P40" start="5156" end="5161" text="LEMUS" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P41" start="5163" end="5191" text="HERMAN DR MD  Specimen Group" TYPE="ORGANIZATION/OTHER" comment=""></LOCATION>
-		<DATE id="P42" start="5276" end="5285" text="28-Mar-89" TYPE="DATE" comment=""></DATE>
-		<DATE id="P43" start="5286" end="5291" text="09:00" TYPE="DATE" comment=""></DATE>
-		<DATE id="P44" start="5357" end="5363" text="27-Mar" TYPE="DATE" comment=""></DATE>
-		<DATE id="P45" start="5367" end="5372" text="09:23" TYPE="DATE" comment=""></DATE>
-		<DATE id="P46" start="5432" end="5441" text="27-Mar-89" TYPE="DATE" comment=""></DATE>
-		<DATE id="P47" start="5442" end="5447" text="09:23" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P48" start="5465" end="5482" text="Ordering Provider" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P49" start="5484" end="5489" text="LEMUS" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P50" start="5491" end="5519" text="HERMAN DR MD  Specimen Group" TYPE="ORGANIZATION/OTHER" comment=""></LOCATION>
-		<OTHER id="P51" start="5545" end="5558" text="Specimen Type" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P52" start="5573" end="5589" text="Specimen Comment" TYPE="PROP_MISC" comment=""></OTHER>
-		<DATE id="P53" start="5654" end="5663" text="28-Mar-89" TYPE="DATE" comment=""></DATE>
-		<DATE id="P54" start="5664" end="5669" text="16:02" TYPE="DATE" comment=""></DATE>
-		<DATE id="P55" start="5802" end="5811" text="28-Mar-89" TYPE="DATE" comment=""></DATE>
-		<DATE id="P56" start="5812" end="5817" text="11:56" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P57" start="6597" end="6607" text="heparin sc" TYPE="ORGANIZATION/EDUCATIONAL" comment=""></LOCATION>
-		<OTHER id="P58" start="6677" end="6691" text="MD
-EHCC Intern" TYPE="TITLE" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

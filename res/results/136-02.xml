@@ -301,27 +301,6 @@ Pager #71151
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2076-11-20" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="86" end="99" text="Linda Fonseca" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P2" start="106" end="113" text="7090253" TYPE="IDNUM" comment=""></ID>
-		<CONTACT id="P3" start="106" end="113" text="7090253" TYPE="PHONE" comment=""></CONTACT>
-		<NAME id="P4" start="162" end="175" text="Austin Jaeger" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P5" start="181" end="193" text="Lenard Wyatt" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P6" start="245" end="255" text="11/19/2076" TYPE="DATE" comment=""></DATE>
-		<NAME id="P7" start="1089" end="1098" text="ED Course" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P8" start="1604" end="1608" text="EtOH" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P9" start="1942" end="1964" text="92   BP 144/72   RR 18" TYPE="ADDRESS1" comment=""></LOCATION>
-		<OTHER id="P10" start="2432" end="2442" text="CNs II-XII" TYPE="PROP_MISC" comment=""></OTHER>
-		<LOCATION id="P11" start="4869" end="4898" text="Diff Method              Auto" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P12" start="5348" end="5358" text="08/20/2073" TYPE="DATE" comment=""></DATE>
-		<DATE id="P13" start="6574" end="6584" text="08/20/2076" TYPE="DATE" comment=""></DATE>
-		<DATE id="P14" start="7059" end="7067" text="midnight" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P15" start="7162" end="7172" text="Reglan PRN" TYPE="ORGANIZATION/MEDIA" comment=""></LOCATION>
-		<NAME id="P16" start="7298" end="7307" text="Utterback" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P17" start="7342" end="7350" text="Espinosa" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P18" start="7633" end="7636" text="DM2" TYPE="CURRENCY" comment=""></OTHER>
-		<NAME id="P19" start="7823" end="7835" text="Vernon Ewing" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P20" start="7837" end="7865" text="JMH Internal Medicine intern" TYPE="TITLE" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

@@ -68,25 +68,6 @@ Note:  The duration of this visit was 25 minutes with the majority of the time s
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2096-12-29" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="38" end="48" text="Donn Emery" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P2" start="56" end="65" text="059-57-26" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P3" start="67" end="84" text="December 29, 2096" TYPE="DATE" comment=""></DATE>
-		<NAME id="P4" start="171" end="175" text="Pina" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P5" start="181" end="190" text="physician" TYPE="TITLE" comment=""></OTHER>
-		<NAME id="P6" start="208" end="212" text="Park" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P7" start="204" end="212" text="Dr. Park" TYPE="FACILITY/BUILDGROUNDS" comment=""></OTHER>
-		<DATE id="P8" start="280" end="296" text="January 15, 2097" TYPE="DATE" comment=""></DATE>
-		<NAME id="P9" start="972" end="976" text="Pina" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P10" start="1155" end="1172" text="November 14, 2096" TYPE="DATE" comment=""></DATE>
-		<NAME id="P11" start="1303" end="1307" text="Pina" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P12" start="1343" end="1360" text="December 22, 2096" TYPE="DATE" comment=""></DATE>
-		<NAME id="P13" start="1574" end="1579" text="Emery" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P14" start="1984" end="1988" text="Pina" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P15" start="2706" end="2719" text="Connor Quincy" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P16" start="2725" end="2728" text="cc:" TYPE="NAME_DESIGNATOR" comment=""></OTHER>
-		<NAME id="P17" start="2729" end="2741" text="Patrick Park" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P18" start="2751" end="2755" text="Pina" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

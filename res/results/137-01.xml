@@ -93,25 +93,6 @@ DV: 03/31/68
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2068-03-31" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P1" start="33" end="66" text="Eudowood Services Physician Group" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P2" start="71" end="101" text="Williams Ct              MOODY" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P3" start="103" end="109" text="JOHNNY" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P4" start="150" end="158" text="76324418" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P5" start="192" end="202" text="03/31/2068" TYPE="DATE" comment=""></DATE>
-		<DATE id="P6" start="666" end="670" text="2065" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P7" start="775" end="786" text="Blountstown" TYPE="LOCALITY" comment=""></OTHER>
-		<LOCATION id="P8" start="799" end="813" text="Roper Hospital" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<NAME id="P9" start="1860" end="1864" text="Jung" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P10" start="1883" end="1897" text="Roper Hospital" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<NAME id="P11" start="4022" end="4026" text="Jung" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P12" start="4395" end="4399" text="Jung" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P13" start="4519" end="4530" text="Todd Brandt" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P14" start="4547" end="4557" text="eScription" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<OTHER id="P15" start="4577" end="4587" text="CSSten Tel" TYPE="PROP_MISC" comment=""></OTHER>
-		<DATE id="P16" start="4598" end="4606" text="03/31/68" TYPE="DATE" comment=""></DATE>
-		<DATE id="P17" start="4611" end="4619" text="03/31/68" TYPE="DATE" comment=""></DATE>
-		<DATE id="P18" start="4624" end="4632" text="03/31/68" TYPE="DATE" comment=""></DATE>
 
 	</TAGS>
 </deIdi2b2>

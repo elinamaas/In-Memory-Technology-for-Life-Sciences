@@ -59,27 +59,6 @@ DWI/yim
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2064-07-26" TYPE="DATE" comment=""></DATE>
-		<DATE id="P1" start="28" end="41" text="July 26, 2064" TYPE="DATE" comment=""></DATE>
-		<NAME id="P2" start="47" end="60" text="Harry R. Lynn" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P3" start="68" end="98" text="Doraville County Health Center" TYPE="FACILITY/BUILDGROUNDS" comment=""></OTHER>
-		<LOCATION id="P4" start="100" end="116" text="897 Cider Street" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P5" start="131" end="139" text="HI 79812" TYPE="ADDRESS2" comment=""></LOCATION>
-		<NAME id="P6" start="151" end="168" text="Isabelle Y. Quick" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P7" start="178" end="187" text="655-75-45" TYPE="PHONE" comment=""></CONTACT>
-		<NAME id="P8" start="196" end="210" text="Harry and Yair" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P9" start="863" end="878" text="January of 2063" TYPE="DATE" comment=""></DATE>
-		<DATE id="P10" start="1137" end="1150" text="April of 2063" TYPE="DATE" comment=""></DATE>
-		<DATE id="P11" start="1896" end="1903" text="October" TYPE="DATE" comment=""></DATE>
-		<NAME id="P12" start="2125" end="2131" text="Adcock" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P13" start="2355" end="2359" text="2061" TYPE="DATE" comment=""></DATE>
-		<NAME id="P14" start="3322" end="3326" text="Yair" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P15" start="3527" end="3534" text="October" TYPE="DATE" comment=""></DATE>
-		<NAME id="P16" start="3825" end="3842" text="Daniel W. Iniguez" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P17" start="3852" end="3855" text="cc:" TYPE="NAME_DESIGNATOR" comment=""></OTHER>
-		<NAME id="P18" start="3856" end="3871" text="Yair K. Bennett" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P19" start="3879" end="3896" text="208 Pheasant Lane" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P20" start="3898" end="3919" text="Platteville, HI 79812" TYPE="ADDRESS2" comment=""></LOCATION>
 
 	</TAGS>
 </deIdi2b2>

@@ -61,17 +61,6 @@ cc:	Harold Elliott, M.D.
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2073-03-25" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P1" start="33" end="61" text="SPECIALTY HOSPITAL OF AUSTIN" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<NAME id="P2" start="77" end="89" text="Victor Lujan" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P3" start="97" end="106" text="018-92-33" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P4" start="107" end="121" text="March 25, 2073" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P5" start="1351" end="1353" text="MP" TYPE="TITLE" comment=""></OTHER>
-		<DATE id="P6" start="1427" end="1431" text="2062" TYPE="DATE" comment=""></DATE>
-		<NAME id="P7" start="1698" end="1704" text="Phalen" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P8" start="2416" end="2424" text="Yamasaki" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P9" start="2475" end="2478" text="cc:" TYPE="NAME_DESIGNATOR" comment=""></OTHER>
-		<NAME id="P10" start="2479" end="2493" text="Harold Elliott" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

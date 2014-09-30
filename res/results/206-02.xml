@@ -137,16 +137,6 @@ Peter H Uddin, M.D.
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2074-02-06" TYPE="DATE" comment=""></DATE>
-		<DATE id="P1" start="187" end="191" text="2073" TYPE="DATE" comment=""></DATE>
-		<NAME id="P2" start="498" end="505" text="Ishmael" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P3" start="532" end="541" text="Patterson" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P4" start="615" end="624" text="Patterson" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P5" start="1392" end="1399" text="Ishmael" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P6" start="1570" end="1584" text="PTCA/Stent RCA" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<OTHER id="P7" start="1726" end="1739" text="Status Change" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P8" start="3231" end="3238" text="Ishmael" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P9" start="3458" end="3471" text="Peter H Uddin" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

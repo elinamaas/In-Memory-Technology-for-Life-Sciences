@@ -148,42 +148,6 @@ Rheumatology fellow
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2079-09-01" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="64" end="71" text="Mullins" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P2" start="73" end="82" text="Dolores U" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P3" start="88" end="96" text="72841920" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P4" start="102" end="110" text="06/06/02" TYPE="DATE" comment=""></DATE>
-		<DATE id="P5" start="144" end="152" text="09/01/79" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P6" start="153" end="172" text="Referring Physician" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P7" start="174" end="185" text="Gay Langley" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P8" start="317" end="321" text="yo F" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P9" start="1467" end="1472" text="Foley" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P10" start="2147" end="2151" text="2060" TYPE="DATE" comment=""></DATE>
-		<DATE id="P11" start="2397" end="2404" text="6/29/79" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P12" start="2805" end="2817" text="Diltiazem SR" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P13" start="2856" end="2866" text="Novolog SS" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P14" start="2909" end="2924" text="Regular Insulin" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P15" start="3236" end="3240" text="ETOH" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P16" start="3409" end="3415" text="Alaska" TYPE="REGION/MAJOR" comment=""></OTHER>
-		<LOCATION id="P17" start="3630" end="3635" text="RR 18" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P18" start="3664" end="3678" text="RA
-Gen     NAD" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P19" start="4169" end="4177" text="Bouchard" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P20" start="4527" end="4543" text="MTPs
-Ext     WWP" TYPE="ORGANIZATION/OTHER" comment=""></LOCATION>
-		<DATE id="P21" start="5160" end="5167" text="8/31/79" TYPE="DATE" comment=""></DATE>
-		<NAME id="P22" start="5441" end="5451" text="LE Doppler" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P23" start="5453" end="5460" text="8/31/79" TYPE="DATE" comment=""></DATE>
-		<DATE id="P24" start="5535" end="5542" text="8/31/79" TYPE="DATE" comment=""></DATE>
-		<DATE id="P25" start="5699" end="5706" text="8/30/79" TYPE="DATE" comment=""></DATE>
-		<DATE id="P26" start="5817" end="5824" text="8/29/79" TYPE="DATE" comment=""></DATE>
-		<NAME id="P27" start="6166" end="6170" text="yo F" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P28" start="7401" end="7404" text="Yau" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P29" start="7903" end="7906" text="Yau" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P30" start="7916" end="7923" text="Woodard" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P31" start="8169" end="8178" text="Isaac Ito" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P32" start="8326" end="8333" text="Woodard" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P33" start="8370" end="8373" text="Yau" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

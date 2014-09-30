@@ -130,31 +130,6 @@ Victoria Amy-Armstrong, M.D.
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2094-09-07" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="43" end="47" text="BARR" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P2" start="48" end="53" text="NICKY" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P3" start="147" end="157" text="09/07/2094" TYPE="DATE" comment=""></DATE>
-		<NAME id="P4" start="180" end="184" text="Barr" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P5" start="279" end="283" text="Barr" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P6" start="542" end="549" text="5/11/94" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P7" start="715" end="727" text="Systems	
-C/P" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<OTHER id="P8" start="1040" end="1062" text="Hypertension 
-Diabetes" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P9" start="1193" end="1216" text="QD 
-Hydrochlorothiazide" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P10" start="1226" end="1243" text="QD 
-Multivitamins" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P11" start="1257" end="1268" text="QD 
-Fosamax" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P12" start="1459" end="1473" text="QHS 
-Ibuprofen" TYPE="PROP_MISC" comment=""></OTHER>
-		<DATE id="P13" start="1608" end="1615" text="5/11/94" TYPE="DATE" comment=""></DATE>
-		<DATE id="P14" start="1643" end="1649" text="6/1/94" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P15" start="2016" end="2021" text="RR 14" TYPE="ADDRESS1" comment=""></LOCATION>
-		<OTHER id="P16" start="3174" end="3191" text="Continue  Fosamax" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P17" start="3301" end="3309" text="Victoria" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P18" start="3301" end="3309" text="Victoria" TYPE="LOCALITY" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

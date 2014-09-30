@@ -103,19 +103,6 @@ eScription document:7-3872310 CB
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2078-03-11" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="76" end="87" text="CHRISTOPHER" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P2" start="841" end="861" text="Emergency Department" TYPE="ORGANIZATION/GOVERNMENT" comment=""></LOCATION>
-		<LOCATION id="P3" start="1137" end="1157" text="Emergency Department" TYPE="ORGANIZATION/GOVERNMENT" comment=""></LOCATION>
-		<OTHER id="P4" start="2317" end="2336" text="Attending Physician" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P5" start="2419" end="2424" text="ULLOA" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P6" start="2426" end="2437" text="CHRISTOPHER" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P7" start="2443" end="2451" text="03/13/78" TYPE="DATE" comment=""></DATE>
-		<DATE id="P8" start="2456" end="2464" text="03/13/78" TYPE="DATE" comment=""></DATE>
-		<NAME id="P9" start="2479" end="2484" text="ULLOA" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P10" start="2486" end="2509" text="CHRISTOPHER
-
-eScription" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
 
 	</TAGS>
 </deIdi2b2>

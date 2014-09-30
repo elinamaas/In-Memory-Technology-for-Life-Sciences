@@ -49,13 +49,6 @@ Document Status: Final
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2089-04-05" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="45" end="58" text="SAINT VINCENT" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P2" start="94" end="100" text="Ursula" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P3" start="1097" end="1106" text="Normal S1" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P4" start="1531" end="1537" text="Ursula" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P5" start="2054" end="2068" text="Umberto Uzzell" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P6" start="2102" end="2116" text="Umberto Uzzell" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

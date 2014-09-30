@@ -183,31 +183,6 @@ DV: 11/01/83
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2083-11-01" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P1" start="30" end="57" text="Westwing Place Nursing Home" TYPE="FACILITY/BUILDGROUNDS" comment=""></OTHER>
-		<LOCATION id="P2" start="59" end="76" text="144 Chablis Court" TYPE="ADDRESS1" comment=""></LOCATION>
-		<NAME id="P3" start="112" end="118" text="GERALD" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P4" start="120" end="126" text="MARION" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P5" start="120" end="126" text="MARION" TYPE="LOCALITY" comment=""></OTHER>
-		<CONTACT id="P6" start="137" end="178" text="63216                            48967301" TYPE="PHONE" comment=""></CONTACT>
-		<ID id="P7" start="170" end="178" text="48967301" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P8" start="237" end="245" text="11/01/83" TYPE="DATE" comment=""></DATE>
-		<CONTACT id="P9" start="248" end="261" text="449) 515-0294" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P10" start="401" end="409" text="10/07/83" TYPE="DATE" comment=""></DATE>
-		<NAME id="P11" start="517" end="522" text="Bruce" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P12" start="1297" end="1305" text="Schaefer" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P13" start="2997" end="3005" text="Schaefer" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P14" start="3541" end="3557" text="E Xochil Higgins" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P15" start="3582" end="3614" text="E Xochil Higgins
-
-
-
-
-
-eScription" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P16" start="3657" end="3665" text="11/01/83" TYPE="DATE" comment=""></DATE>
-		<DATE id="P17" start="3671" end="3679" text="11/01/83" TYPE="DATE" comment=""></DATE>
-		<DATE id="P18" start="3685" end="3693" text="11/01/83" TYPE="DATE" comment=""></DATE>
 
 	</TAGS>
 </deIdi2b2>

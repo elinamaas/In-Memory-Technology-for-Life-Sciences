@@ -50,13 +50,6 @@ AJ/yeung/updegraff
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2074-10-20" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="49" end="54" text="Lydia" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P2" start="65" end="72" text="7090253" TYPE="PHONE" comment=""></CONTACT>
-		<ID id="P3" start="65" end="72" text="7090253" TYPE="IDNUM" comment=""></ID>
-		<LOCATION id="P4" start="422" end="426" text="METS" TYPE="ORGANIZATION/SPORTS" comment=""></LOCATION>
-		<DATE id="P5" start="859" end="867" text="04/29/73" TYPE="DATE" comment=""></DATE>
-		<NAME id="P6" start="1301" end="1314" text="Austin Jaeger" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

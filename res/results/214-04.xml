@@ -64,27 +64,6 @@ Harry Bernard-Moyer, M.D.
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2096-11-18" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P1" start="32" end="39" text="Spanish" TYPE="PEOPLE" comment=""></OTHER>
-		<NAME id="P2" start="43" end="105" text="Dan Chan                                        OSWALDO AUSTIN" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P3" start="107" end="124" text="HENRY
-Angels City" TYPE="ORGANIZATION/SPORTS" comment=""></LOCATION>
-		<CONTACT id="P4" start="129" end="180" text="31731                                      64415974" TYPE="PHONE" comment=""></CONTACT>
-		<ID id="P5" start="172" end="180" text="64415974" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P6" start="238" end="246" text="11/18/96" TYPE="DATE" comment=""></DATE>
-		<NAME id="P7" start="286" end="292" text="Austin" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P8" start="855" end="862" text="Oswaldo" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P9" start="889" end="893" text="Jean" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P10" start="922" end="929" text="Oswaldo" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P11" start="935" end="942" text="Type II" TYPE="PROP_MISC" comment=""></OTHER>
-		<DATE id="P12" start="1024" end="1028" text="2090" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P13" start="1207" end="1213" text="Un dia" TYPE="ORGANIZATION/GOVERNMENT" comment=""></LOCATION>
-		<LOCATION id="P14" start="1219" end="1225" text="un dia" TYPE="ORGANIZATION/GOVERNMENT" comment=""></LOCATION>
-		<OTHER id="P15" start="1358" end="1364" text="TAB.SR" TYPE="URI/URL" comment=""></OTHER>
-		<OTHER id="P16" start="1387" end="1393" text="TAB.SR" TYPE="URI/URL" comment=""></OTHER>
-		<LOCATION id="P17" start="1450" end="1461" text="Q2H PRN #30" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P18" start="1724" end="1729" text="nl S1" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P19" start="2673" end="2692" text="Harry Bernard-Moyer" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

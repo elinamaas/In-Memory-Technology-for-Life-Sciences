@@ -52,40 +52,6 @@ DV: 02/26/60
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2060-02-26" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P1" start="65" end="79" text="86 Cote Avenue" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P2" start="117" end="121" text="HESS" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P3" start="117" end="121" text="HESS" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P4" start="123" end="141" text="CLARENCE
-Pinehurst" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P5" start="146" end="202" text="19792                                           64365595" TYPE="PHONE" comment=""></CONTACT>
-		<ID id="P6" start="194" end="202" text="64365595" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P7" start="260" end="268" text="02/26/60" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P8" start="283" end="306" text="M.D.
-Wheatland Memorial" TYPE="FACILITY/BUILDGROUNDS" comment=""></OTHER>
-		<LOCATION id="P9" start="315" end="335" text="Home/Bangdung Office" TYPE="ORGANIZATION/GOVERNMENT" comment=""></LOCATION>
-		<LOCATION id="P10" start="336" end="365" text="870 Newburgh Street
-Pinehurst" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P11" start="367" end="376" text="OH  35594" TYPE="ADDRESS2" comment=""></LOCATION>
-		<NAME id="P12" start="387" end="390" text="Law" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P13" start="426" end="430" text="Hess" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P14" start="563" end="571" text="02/11/60" TYPE="DATE" comment=""></DATE>
-		<NAME id="P15" start="601" end="607" text="Holter" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P16" start="1082" end="1086" text="Hess" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P17" start="1783" end="1787" text="Hess" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P18" start="2663" end="2667" text="Hess" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P19" start="2833" end="2845" text="Trujillo, MD" TYPE="ADDRESS2" comment=""></LOCATION>
-		<LOCATION id="P20" start="2861" end="2886" text="Una Trujillo
-
-
-eScription" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<OTHER id="P21" start="2916" end="2919" text="CC:" TYPE="NAME_DESIGNATOR" comment=""></OTHER>
-		<NAME id="P22" start="2920" end="2943" text="Robert Yousif Gordon MD" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P23" start="2944" end="2962" text="803 FAIRHAVEN ROAD" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P24" start="2963" end="2978" text="OLNEY, OH 23751" TYPE="ADDRESS2" comment=""></LOCATION>
-		<DATE id="P25" start="2984" end="2992" text="02/27/60" TYPE="DATE" comment=""></DATE>
-		<DATE id="P26" start="2997" end="3005" text="02/27/60" TYPE="DATE" comment=""></DATE>
-		<DATE id="P27" start="3010" end="3018" text="02/26/60" TYPE="DATE" comment=""></DATE>
 
 	</TAGS>
 </deIdi2b2>

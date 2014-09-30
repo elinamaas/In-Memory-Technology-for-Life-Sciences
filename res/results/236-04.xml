@@ -162,24 +162,6 @@ Wanda Andrea Koontz, M.D.
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2071-01-12" TYPE="DATE" comment=""></DATE>
-		<DATE id="P1" start="121" end="125" text="2061" TYPE="DATE" comment=""></DATE>
-		<NAME id="P2" start="246" end="254" text="Jennifer" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P3" start="583" end="596" text="Pearline Rush" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P4" start="892" end="907" text="Medical History" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<OTHER id="P5" start="993" end="1010" text="HUMULOG	 Variable" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P6" start="1344" end="1348" text="1TAB" TYPE="MGRS" comment=""></OTHER>
-		<NAME id="P7" start="1355" end="1360" text="MIN X" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P8" start="1671" end="1679" text="LONGMONT" TYPE="LOCALITY" comment=""></OTHER>
-		<OTHER id="P9" start="1916" end="1947" text="Transport Operations Supervisor" TYPE="TITLE" comment=""></OTHER>
-		<NAME id="P10" start="1983" end="1987" text="etoh" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P11" start="2037" end="2048" text="Vital Signs" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<OTHER id="P12" start="2092" end="2104" text="107   Pounds" TYPE="CURRENCY" comment=""></OTHER>
-		<NAME id="P13" start="2265" end="2271" text="Nelson" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P14" start="2496" end="2499" text="cc:" TYPE="NAME_DESIGNATOR" comment=""></OTHER>
-		<NAME id="P15" start="2501" end="2512" text="John Koontz" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P16" start="2518" end="2536" text="Timothy Quarterman" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P17" start="2610" end="2629" text="Wanda Andrea Koontz" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

@@ -84,17 +84,6 @@ DV:2-03-68
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2068-02-04" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P1" start="39" end="67" text="ARTHRITIS SPECIALISTS CENTER" TYPE="ORGANIZATION/OTHER" comment=""></LOCATION>
-		<NAME id="P2" start="79" end="86" text="Quijano" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P3" start="141" end="148" text="2-03-68" TYPE="DATE" comment=""></DATE>
-		<NAME id="P4" start="579" end="594" text="Briggs Stratton" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P5" start="1257" end="1273" text="Surgical History" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P6" start="1292" end="1296" text="2064" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P7" start="1322" end="1337" text="Medical History" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P8" start="2690" end="2697" text="2-03-68" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P9" start="3011" end="3028" text="Internal Medicine" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P10" start="3135" end="3148" text="Ada R. Kruger" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

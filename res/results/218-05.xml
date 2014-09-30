@@ -172,50 +172,6 @@ Pager 04401
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2096-12-18" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="75" end="169" text="Gastroenterology                                                            
-Pedro Quesnel, MD" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P2" start="307" end="325" text="08 Doncaster Drive" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P3" start="409" end="443" text="Pine Bluff, Washington  63879-1383" TYPE="ADDRESS2" comment=""></LOCATION>
-		<CONTACT id="P4" start="464" end="476" text="945 669-1044" TYPE="PHONE" comment=""></CONTACT>
-		<CONTACT id="P5" start="477" end="494" text="Fax: 778 210-2105" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P6" start="526" end="536" text="12/18/2096" TYPE="DATE" comment=""></DATE>
-		<DATE id="P7" start="543" end="550" text="11:00AM" TYPE="DATE" comment=""></DATE>
-		<NAME id="P8" start="561" end="567" text="Walton" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P9" start="569" end="573" text="Levi" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P10" start="569" end="573" text="Levi" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<ID id="P11" start="579" end="586" text="2554172" TYPE="IDNUM" comment=""></ID>
-		<CONTACT id="P12" start="579" end="586" text="2554172" TYPE="PHONE" comment=""></CONTACT>
-		<NAME id="P13" start="601" end="610" text="Navarrete" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P14" start="612" end="622" text="Pamela
-DOA" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P15" start="624" end="634" text="12/18/2096" TYPE="DATE" comment=""></DATE>
-		<DATE id="P16" start="766" end="774" text="Dec 13th" TYPE="DATE" comment=""></DATE>
-		<NAME id="P17" start="791" end="799" text="Esposito" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P18" start="1743" end="1747" text="2092" TYPE="DATE" comment=""></DATE>
-		<DATE id="P19" start="1808" end="1812" text="2087" TYPE="DATE" comment=""></DATE>
-		<DATE id="P20" start="2029" end="2042" text="December 15th" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P21" start="3537" end="3558" text="Osteoarthritis
-Benign" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P22" start="4204" end="4208" text="EtOH" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P23" start="4227" end="4235" text="Russians" TYPE="PEOPLE" comment=""></OTHER>
-		<LOCATION id="P24" start="4338" end="4343" text="RR 16" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P25" start="4368" end="4377" text="NAD
-HEENT" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P26" start="4699" end="4709" text="12/18/2096" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P27" start="4781" end="4832" text="Date/Time         BUN            CRE            GLU" TYPE="ORGANIZATION/OTHER" comment=""></LOCATION>
-		<DATE id="P28" start="4844" end="4854" text="12/18/2096" TYPE="DATE" comment=""></DATE>
-		<NAME id="P29" start="4930" end="4948" text="LACT           AMY" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P30" start="4975" end="4985" text="12/18/2096" TYPE="DATE" comment=""></DATE>
-		<DATE id="P31" start="5038" end="5048" text="12/18/2096" TYPE="DATE" comment=""></DATE>
-		<DATE id="P32" start="5179" end="5189" text="12/18/2096" TYPE="DATE" comment=""></DATE>
-		<DATE id="P33" start="5290" end="5300" text="12/18/2096" TYPE="DATE" comment=""></DATE>
-		<DATE id="P34" start="5401" end="5411" text="12/18/2096" TYPE="DATE" comment=""></DATE>
-		<DATE id="P35" start="5479" end="5489" text="12/15/2096" TYPE="DATE" comment=""></DATE>
-		<DATE id="P36" start="5567" end="5575" text="Dec 13th" TYPE="DATE" comment=""></DATE>
-		<NAME id="P37" start="5658" end="5665" text="Barrett" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P38" start="6271" end="6282" text="Patient NPO" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P39" start="6680" end="6693" text="Pedro Quesnel" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

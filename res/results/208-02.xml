@@ -105,12 +105,6 @@ Tracy T. Xenakis, M.D.
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2066-02-12" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="97" end="104" text="BARRERA" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P2" start="105" end="109" text="MARY" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P3" start="204" end="214" text="02/12/2066" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P4" start="1061" end="1066" text="10MEQ" TYPE="MGRS" comment=""></OTHER>
-		<NAME id="P5" start="1833" end="1849" text="Tracy T. Xenakis" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

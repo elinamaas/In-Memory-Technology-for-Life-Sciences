@@ -93,16 +93,6 @@ Dictated by:  ORLANDO R. PIERRE, M.D.   OP63
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2088-03-06" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="84" end="90" text="PIERRE" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P2" start="91" end="95" text="EDEN" TYPE="GEO_FEATURE/LAND" comment=""></OTHER>
-		<ID id="P3" start="98" end="109" text="241-52-56-3" TYPE="IDNUM" comment=""></ID>
-		<CONTACT id="P4" start="98" end="109" text="241-52-56-3" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P5" start="143" end="151" text="03/06/88" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P6" start="1161" end="1172" text="VITAL SIGNS" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P7" start="2040" end="2057" text="ORLANDO R. PIERRE" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P8" start="2193" end="2210" text="ORLANDO R. PIERRE" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P9" start="2252" end="2271" text="Attending Physician" TYPE="PROP_MISC" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

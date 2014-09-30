@@ -50,25 +50,6 @@ Dictated by:  TAYLOR E. INNIS, M.D.  TI56
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2067-07-28" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P1" start="84" end="93" text="KEONTE H." TYPE="PROP_MISC" comment=""></OTHER>
-		<CONTACT id="P2" start="96" end="107" text="732-35-79-0" TYPE="PHONE" comment=""></CONTACT>
-		<ID id="P3" start="96" end="107" text="732-35-79-0" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P4" start="138" end="146" text="07/28/67" TYPE="DATE" comment=""></DATE>
-		<NAME id="P5" start="276" end="282" text="Holden" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P6" start="311" end="322" text="Dr. 
-Holden" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P7" start="753" end="759" text="Holden" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P8" start="806" end="812" text="Holden" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P9" start="850" end="856" text="Holden" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P10" start="892" end="898" text="Holden" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P11" start="958" end="964" text="Holden" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P12" start="1822" end="1838" text="Cardiac 
-Service" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<ID id="P13" start="2087" end="2097" text="MF916/9742" TYPE="IDNUM" comment=""></ID>
-		<NAME id="P14" start="2099" end="2114" text="TAYLOR E. INNIS" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P15" start="2247" end="2262" text="TAYLOR E. INNIS" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P16" start="2302" end="2321" text="Attending Physician" TYPE="PROP_MISC" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

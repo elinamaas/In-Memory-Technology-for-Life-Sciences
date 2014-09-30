@@ -55,17 +55,6 @@ DV: 04/20/64
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2064-04-20" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="77" end="81" text="Olga" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P2" start="82" end="93" text="258-16-49-2" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P3" start="94" end="102" text="04/20/64" TYPE="DATE" comment=""></DATE>
-		<DATE id="P4" start="260" end="266" text="4 a.m." TYPE="DATE" comment=""></DATE>
-		<DATE id="P5" start="272" end="280" text="Thursday" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P6" start="753" end="768" text="Medical History" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P7" start="1264" end="1280" text="Phyllis Jacobson" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P8" start="1301" end="1309" text="04/20/64" TYPE="DATE" comment=""></DATE>
-		<DATE id="P9" start="1314" end="1322" text="04/22/64" TYPE="DATE" comment=""></DATE>
-		<DATE id="P10" start="1327" end="1335" text="04/20/64" TYPE="DATE" comment=""></DATE>
 
 	</TAGS>
 </deIdi2b2>

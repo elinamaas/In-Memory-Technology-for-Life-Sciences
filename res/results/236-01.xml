@@ -82,33 +82,6 @@ DV:9-5-67
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2067-09-05" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="37" end="75" text="Medicine                         Vance" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P2" start="77" end="85" text="Jennifer" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P3" start="132" end="140" text="54266003" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P4" start="187" end="193" text="9-5-67" TYPE="DATE" comment=""></DATE>
-		<NAME id="P5" start="218" end="227" text="Ms. Vance" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P6" start="516" end="526" text="June, 2064" TYPE="DATE" comment=""></DATE>
-		<NAME id="P7" start="558" end="584" text="Dr. Peter 
-     Vandenberg" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P8" start="755" end="786" text="Transport Operations Supervisor" TYPE="TITLE" comment=""></OTHER>
-		<DATE id="P9" start="1452" end="1456" text="2063" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P10" start="2133" end="2142" text="normal S1" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P11" start="2233" end="2238" text="12:00" TYPE="DATE" comment=""></DATE>
-		<DATE id="P12" start="2243" end="2247" text="3:00" TYPE="DATE" comment=""></DATE>
-		<DATE id="P13" start="2314" end="2323" text="3:00 P.M." TYPE="DATE" comment=""></DATE>
-		<NAME id="P14" start="2618" end="2623" text="Peter" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P15" start="2630" end="2640" text="Vandenberg" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P16" start="3002" end="3006" text="Nava" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P17" start="3044" end="3057" text="VALLEY CENTER" TYPE="LOCALITY" comment=""></OTHER>
-		<NAME id="P18" start="3082" end="3087" text="Vance" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P19" start="3089" end="3102" text="Jennifer
-Page" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P20" start="3144" end="3152" text="54266003" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P21" start="3199" end="3205" text="9-5-67" TYPE="DATE" comment=""></DATE>
-		<DATE id="P22" start="3400" end="3404" text="2061" TYPE="DATE" comment=""></DATE>
-		<NAME id="P23" start="3548" end="3560" text="Vester Light" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P24" start="3636" end="3655" text="Attending Physician" TYPE="PROP_MISC" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

@@ -121,23 +121,6 @@ Document Status: Final
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2082-10-22" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="45" end="52" text="GRIFFIN" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P2" start="124" end="132" text="Xayavong" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P3" start="196" end="200" text="2077" TYPE="DATE" comment=""></DATE>
-		<DATE id="P4" start="250" end="254" text="2080" TYPE="DATE" comment=""></DATE>
-		<DATE id="P5" start="1050" end="1054" text="2077" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P6" start="1098" end="1105" text="BiV ICD" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P7" start="1163" end="1170" text="BiV ICD" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P8" start="1176" end="1184" text="St. Jude" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P9" start="1186" end="1196" text="05/13/2081" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P10" start="1278" end="1293" text="Known Allergies" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P11" start="2391" end="2396" text="66bpm" TYPE="SOCIAL_MEDIA/ID_TWITTER" comment=""></OTHER>
-		<LOCATION id="P12" start="2510" end="2536" text="New York Heart Association" TYPE="ORGANIZATION/OTHER" comment=""></LOCATION>
-		<NAME id="P13" start="3196" end="3209" text="Crystal Perez" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P14" start="3217" end="3235" text="Quintin D. Quesada" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P15" start="3282" end="3295" text="Crystal Perez" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P16" start="3301" end="3319" text="Quintin D. Quesada" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

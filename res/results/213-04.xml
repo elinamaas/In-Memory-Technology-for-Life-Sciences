@@ -133,18 +133,6 @@ Dictated by:  KATHERN OLMSTEAD, M.D.  KO19
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2065-11-03" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="80" end="86" text="WAGNER" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P2" start="87" end="93" text="LONNIE" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P3" start="96" end="107" text="097-87-37-2" TYPE="PHONE" comment=""></CONTACT>
-		<ID id="P4" start="96" end="107" text="097-87-37-2" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P5" start="137" end="145" text="11/03/65" TYPE="DATE" comment=""></DATE>
-		<DATE id="P6" start="668" end="680" text="July of 2065" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P7" start="1311" end="1322" text="VITAL SIGNS" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P8" start="3125" end="3131" text="Hanson" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P9" start="3585" end="3601" text="KATHERN OLMSTEAD" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P10" start="3738" end="3754" text="KATHERN OLMSTEAD" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P11" start="3795" end="3814" text="Attending Physician" TYPE="PROP_MISC" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

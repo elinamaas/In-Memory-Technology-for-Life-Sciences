@@ -85,21 +85,6 @@ eScription document:5-0405500 BFFocus
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2080-08-08" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="75" end="89" text="DENA CHRISTENA" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P2" start="1332" end="1352" text="EMERGENCY DEPARTMENT" TYPE="ORGANIZATION/GOVERNMENT" comment=""></LOCATION>
-		<LOCATION id="P3" start="1332" end="1352" text="EMERGENCY DEPARTMENT" TYPE="ORGANIZATION/EDUCATIONAL" comment=""></LOCATION>
-		<OTHER id="P4" start="1804" end="1810" text="DURHAM" TYPE="LOCALITY" comment=""></OTHER>
-		<NAME id="P5" start="1804" end="1810" text="DURHAM" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P6" start="1812" end="1831" text="DENA CHRISTENA M.D." TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P7" start="1836" end="1844" text="08/08/80" TYPE="DATE" comment=""></DATE>
-		<DATE id="P8" start="1849" end="1857" text="08/08/80" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P9" start="1872" end="1878" text="DURHAM" TYPE="LOCALITY" comment=""></OTHER>
-		<NAME id="P10" start="1872" end="1878" text="DURHAM" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P11" start="1880" end="1906" text="DENA CHRISTENA
-
-eScription" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<OTHER id="P12" start="1960" end="1979" text="Attending Physician" TYPE="PROP_MISC" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

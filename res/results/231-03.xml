@@ -129,30 +129,6 @@ Pager 76006
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2095-07-16" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P1" start="65" end="78" text="Note
-Surgical" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P2" start="94" end="108" text="John Escamilla" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P3" start="122" end="132" text="Robert Ivy" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P4" start="155" end="170" text="Zachary Terrell" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P5" start="191" end="208" text="Victor L. Bonilla" TYPE="DOCTOR" comment=""></NAME>
-		<ID id="P6" start="214" end="221" text="0658969" TYPE="IDNUM" comment=""></ID>
-		<NAME id="P7" start="232" end="237" text="Fagan" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P8" start="239" end="250" text="Joanne
-Date" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P9" start="266" end="273" text="7/16/95" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P10" start="379" end="385" text="2/2 DM" TYPE="CURRENCY" comment=""></OTHER>
-		<DATE id="P11" start="654" end="658" text="2094" TYPE="DATE" comment=""></DATE>
-		<DATE id="P12" start="694" end="698" text="2089" TYPE="DATE" comment=""></DATE>
-		<NAME id="P13" start="956" end="960" text="sten" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P14" start="980" end="991" text="10/94
-12/94" TYPE="PHONE" comment=""></CONTACT>
-		<LOCATION id="P15" start="1147" end="1151" text="mets" TYPE="ORGANIZATION/SPORTS" comment=""></LOCATION>
-		<DATE id="P16" start="1202" end="1206" text="2093" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P17" start="1396" end="1406" text="Folic Acid" TYPE="PROP_MISC" comment=""></OTHER>
-		<DATE id="P18" start="1434" end="1440" text="Sunday" TYPE="DATE" comment=""></DATE>
-		<NAME id="P19" start="1568" end="1575" text="Valenti" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P20" start="2571" end="2588" text="Victor L. Bonilla" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

@@ -51,15 +51,6 @@ Dictated by:  FRANK E. BENDER, M.D.  FB25
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2081-06-22" TYPE="DATE" comment=""></DATE>
-		<CONTACT id="P1" start="92" end="103" text="530-23-69-1" TYPE="PHONE" comment=""></CONTACT>
-		<ID id="P2" start="92" end="103" text="530-23-69-1" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P3" start="137" end="145" text="06/22/81" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P4" start="805" end="816" text="VITAL SIGNS" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<ID id="P5" start="2260" end="2270" text="RD883/1008" TYPE="IDNUM" comment=""></ID>
-		<NAME id="P6" start="2272" end="2287" text="FRANK E. BENDER" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P7" start="2421" end="2436" text="FRANK E. BENDER" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P8" start="2476" end="2495" text="Attending Physician" TYPE="PROP_MISC" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

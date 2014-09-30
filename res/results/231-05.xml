@@ -73,17 +73,6 @@ Date
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2098-10-11" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P1" start="45" end="69" text="COQUILLE VALLEY HOSPITAL" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<NAME id="P2" start="264" end="273" text="Ms. Fagan" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P3" start="1078" end="1085" text="mid RCA" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P4" start="1155" end="1165" text="Repeat RCA" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<OTHER id="P5" start="1262" end="1272" text="Echo
-Small" TYPE="PROP_MISC" comment=""></OTHER>
-		<DATE id="P6" start="1449" end="1453" text="2093" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P7" start="1897" end="1915" text="Ion Media Networks" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<CONTACT id="P8" start="2896" end="2903" text="106  66" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P9" start="3011" end="3018" text="7/11/98" TYPE="DATE" comment=""></DATE>
 
 	</TAGS>
 </deIdi2b2>

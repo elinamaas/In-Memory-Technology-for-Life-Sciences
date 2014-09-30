@@ -77,27 +77,6 @@ Singh, M.D.
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2090-01-03" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P1" start="150" end="171" text="Harmon Doctors Clinic" TYPE="FACILITY/BUILDGROUNDS" comment=""></OTHER>
-		<DATE id="P2" start="172" end="179" text="1/12/90" TYPE="DATE" comment=""></DATE>
-		<DATE id="P3" start="203" end="210" text="6/15/89" TYPE="DATE" comment=""></DATE>
-		<DATE id="P4" start="694" end="701" text="1/16/88" TYPE="DATE" comment=""></DATE>
-		<DATE id="P5" start="866" end="873" text="7/23/88" TYPE="DATE" comment=""></DATE>
-		<DATE id="P6" start="898" end="905" text="4/20/89" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P7" start="1126" end="1136" text="QD 
-Cozaar" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P8" start="1171" end="1183" text="QD 
-Darvocet" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P9" start="1309" end="1323" text="QD 
-Glucophage" TYPE="PROP_MISC" comment=""></OTHER>
-		<LOCATION id="P10" start="1702" end="1716" text="20MG TABLET DR" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P11" start="1774" end="1783" text="TABLET SA" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<OTHER id="P12" start="1811" end="1819" text="NKA 
-PEx" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P13" start="2221" end="2233" text="MS. 
-Dietary" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P14" start="2341" end="2348" text="1/12/90" TYPE="DATE" comment=""></DATE>
-		<NAME id="P15" start="2360" end="2365" text="Singh" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

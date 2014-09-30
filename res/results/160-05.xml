@@ -141,20 +141,6 @@ eScription document:8-2575360 BFFocus
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2073-10-16" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="71" end="78" text="MILDRED" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P2" start="134" end="139" text="Sharp" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P3" start="557" end="563" text="Sunday" TYPE="DATE" comment=""></DATE>
-		<DATE id="P4" start="565" end="572" text="Tuesday" TYPE="DATE" comment=""></DATE>
-		<DATE id="P5" start="578" end="586" text="Thursday" TYPE="DATE" comment=""></DATE>
-		<DATE id="P6" start="789" end="797" text="Thursday" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P7" start="3081" end="3100" text="Attending Physician" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P8" start="3416" end="3428" text="MILDRED M.D." TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P9" start="3433" end="3441" text="10/17/73" TYPE="DATE" comment=""></DATE>
-		<DATE id="P10" start="3446" end="3454" text="10/17/73" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P11" start="3475" end="3494" text="MILDRED
-
-eScription" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
 
 	</TAGS>
 </deIdi2b2>

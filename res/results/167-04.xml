@@ -192,29 +192,6 @@ Giovanni Huang, MD, PGY-1 (pager 76567)
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2090-07-12" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="103" end="112" text="Yarbrough" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P2" start="114" end="121" text="Irene H" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P3" start="127" end="135" text="81086437" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P4" start="156" end="163" text="7/12/90" TYPE="DATE" comment=""></DATE>
-		<NAME id="P5" start="178" end="184" text="Gaines" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P6" start="197" end="202" text="Silva" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P7" start="839" end="844" text="RR 20" TYPE="ADDRESS1" comment=""></LOCATION>
-		<DATE id="P8" start="2248" end="2252" text="2083" TYPE="DATE" comment=""></DATE>
-		<DATE id="P9" start="2603" end="2611" text="Saturday" TYPE="DATE" comment=""></DATE>
-		<DATE id="P10" start="2616" end="2624" text="Saturday" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P11" start="2814" end="2831" text="Sustained Release" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P12" start="2860" end="2872" text="QD
-Allergies" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P13" start="3075" end="3087" text="Debra Jaquez" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P14" start="3100" end="3112" text="901-063-0839" TYPE="PHONE" comment=""></CONTACT>
-		<LOCATION id="P15" start="3185" end="3214" text="65     BP  116/67     RR   18" TYPE="ADDRESS1" comment=""></LOCATION>
-		<OTHER id="P16" start="6895" end="6913" text="gastroenterologist" TYPE="TITLE" comment=""></OTHER>
-		<NAME id="P17" start="6919" end="6923" text="Bert" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P18" start="7119" end="7127" text="Saturday" TYPE="DATE" comment=""></DATE>
-		<DATE id="P19" start="7140" end="7148" text="Saturday" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P20" start="7543" end="7551" text="check UA" TYPE="ORGANIZATION/EDUCATIONAL" comment=""></LOCATION>
-		<NAME id="P21" start="7878" end="7892" text="Giovanni Huang" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

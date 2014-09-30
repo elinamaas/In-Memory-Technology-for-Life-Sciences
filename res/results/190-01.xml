@@ -95,27 +95,6 @@ DV:1-21-84
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2084-01-21" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P1" start="28" end="35" text="ORLANDO" TYPE="LOCALITY" comment=""></OTHER>
-		<NAME id="P2" start="28" end="35" text="ORLANDO" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P3" start="76" end="82" text="Xavier" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P4" start="84" end="88" text="Fred" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P5" start="135" end="143" text="65856594" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P6" start="190" end="197" text="1-21-84" TYPE="DATE" comment=""></DATE>
-		<NAME id="P7" start="209" end="215" text="Xavier" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P8" start="385" end="392" text="Eritrea" TYPE="COUNTRY" comment=""></LOCATION>
-		<DATE id="P9" start="740" end="755" text="January of 2083" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P10" start="788" end="795" text="Eritrea" TYPE="COUNTRY" comment=""></LOCATION>
-		<LOCATION id="P11" start="1521" end="1528" text="Eritrea" TYPE="COUNTRY" comment=""></LOCATION>
-		<LOCATION id="P12" start="2578" end="2585" text="Eritrea" TYPE="COUNTRY" comment=""></LOCATION>
-		<NAME id="P13" start="2949" end="2956" text="ORLANDO" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P14" start="2949" end="2956" text="ORLANDO" TYPE="LOCALITY" comment=""></OTHER>
-		<NAME id="P15" start="2997" end="3003" text="Xavier" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P16" start="3005" end="3009" text="Fred" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P17" start="3056" end="3064" text="65856594" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P18" start="3111" end="3118" text="1-21-84" TYPE="DATE" comment=""></DATE>
-		<NAME id="P19" start="3698" end="3704" text="Fisher" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P20" start="3800" end="3818" text="Attending Provider" TYPE="PROP_MISC" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

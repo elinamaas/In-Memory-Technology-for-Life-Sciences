@@ -171,17 +171,6 @@ Assessment and Plan
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2073-05-03" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P1" start="153" end="171" text="County Sports Club" TYPE="FACILITY/BUILDGROUNDS" comment=""></OTHER>
-		<NAME id="P2" start="196" end="203" text="Ishmael" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P3" start="249" end="255" text="Maddox" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P4" start="297" end="301" text="2064" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P5" start="522" end="526" text="Lima" TYPE="LOCALITY" comment=""></OTHER>
-		<LOCATION id="P6" start="696" end="710" text="PTCA/Stent RCA" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P7" start="2412" end="2419" text="2/15/73" TYPE="DATE" comment=""></DATE>
-		<DATE id="P8" start="2470" end="2477" text="1/17/73" TYPE="DATE" comment=""></DATE>
-		<NAME id="P9" start="2637" end="2644" text="Ishmael" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P10" start="2650" end="2654" text="Chol" TYPE="PATIENT" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

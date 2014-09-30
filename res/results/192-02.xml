@@ -104,20 +104,6 @@ Palm Springs, CO  19496
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2086-08-28" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P1" start="92" end="113" text="Floyd County Hospital" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<LOCATION id="P2" start="138" end="155" text="05 Greeley Street" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P3" start="180" end="203" text="Palm Springs, CO  19496" TYPE="ADDRESS2" comment=""></LOCATION>
-		<DATE id="P4" start="269" end="277" text="08/28/86" TYPE="DATE" comment=""></DATE>
-		<NAME id="P5" start="292" end="298" text="Tanner" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P6" start="356" end="372" text="November of 2085" TYPE="DATE" comment=""></DATE>
-		<DATE id="P7" start="378" end="381" text="May" TYPE="DATE" comment=""></DATE>
-		<NAME id="P8" start="1544" end="1554" text="Edward Yim" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P9" start="1577" end="1589" text="Harry Truong" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P10" start="1597" end="1618" text="Floyd County Hospital" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<LOCATION id="P11" start="1619" end="1636" text="17 Greeley Street" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P12" start="1638" end="1661" text="Palm Springs, CO  19496" TYPE="ADDRESS2" comment=""></LOCATION>
-		<OTHER id="P13" start="1689" end="1708" text="Attending Physician" TYPE="PROP_MISC" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

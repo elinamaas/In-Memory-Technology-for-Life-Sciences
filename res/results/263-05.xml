@@ -71,16 +71,6 @@ eScription document:6-1192641 BFFocus
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2081-03-02" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P1" start="269" end="296" text="Medical Intensive Care Unit" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P2" start="470" end="474" text="Dodd" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P3" start="1182" end="1204" text="Medical Intensive Care" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P4" start="1320" end="1328" text="03/02/81" TYPE="DATE" comment=""></DATE>
-		<DATE id="P5" start="1333" end="1341" text="03/02/81" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P6" start="1364" end="1380" text="XION
-
-eScription" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<OTHER id="P7" start="1434" end="1453" text="Attending Physician" TYPE="PROP_MISC" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

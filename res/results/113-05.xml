@@ -123,36 +123,6 @@ Heather T. Quinonez, M.D.
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2094-10-23" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="37" end="47" text="VALENZUELA" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P2" start="48" end="53" text="BRIAN" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P3" start="83" end="93" text="10/23/2094" TYPE="DATE" comment=""></DATE>
-		<NAME id="P4" start="105" end="111" text="Davila" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P5" start="326" end="331" text="foley" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P6" start="789" end="793" text="1LNS" TYPE="MGRS" comment=""></OTHER>
-		<NAME id="P7" start="890" end="895" text="foley" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P8" start="1362" end="1367" text="MS
-DM" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P9" start="1455" end="1460" text="foley" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P10" start="1555" end="1559" text="2091" TYPE="DATE" comment=""></DATE>
-		<DATE id="P11" start="1887" end="1897" text="Wednesdays" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P12" start="1991" end="2000" text="MG PR QOD" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P13" start="2507" end="2515" text="10/22/94" TYPE="DATE" comment=""></DATE>
-		<DATE id="P14" start="2662" end="2679" text="December 03, 2093" TYPE="DATE" comment=""></DATE>
-		<DATE id="P15" start="2848" end="2856" text="10/22/94" TYPE="DATE" comment=""></DATE>
-		<DATE id="P16" start="3112" end="3115" text="Sat" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P17" start="3430" end="3443" text="PLT-EST NL
-PT" TYPE="GEO_FEATURE/LAND" comment=""></OTHER>
-		<NAME id="P18" start="3490" end="3498" text="LT BROWN" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P19" start="3811" end="3823" text="113/83 18-20" TYPE="PHONE" comment=""></CONTACT>
-		<NAME id="P20" start="4426" end="4431" text="foley" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P21" start="4541" end="4546" text="foley" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P22" start="4587" end="4592" text="foley" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P23" start="4753" end="4758" text="foley" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P24" start="5060" end="5065" text="155
-6" TYPE="PHONE" comment=""></CONTACT>
-		<NAME id="P25" start="5067" end="5074" text="Contine" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P26" start="5234" end="5253" text="Heather T. Quinonez" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

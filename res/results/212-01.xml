@@ -176,16 +176,6 @@ Signed electronically by Gary O Xa MD on Aug 5, 2083
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2083-07-26" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P1" start="62" end="83" text="SAN FERNANDO HOSPITAL" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<OTHER id="P2" start="106" end="124" text="Annual Examination" TYPE="PROP_MISC" comment=""></OTHER>
-		<DATE id="P3" start="508" end="516" text="10/29/81" TYPE="DATE" comment=""></DATE>
-		<NAME id="P4" start="712" end="716" text="Lacy" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P5" start="726" end="733" text="7/26/83" TYPE="DATE" comment=""></DATE>
-		<DATE id="P6" start="1321" end="1330" text="10/5/2081" TYPE="DATE" comment=""></DATE>
-		<NAME id="P7" start="2500" end="2506" text="Gary O" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P8" start="2507" end="2512" text="Xa MD" TYPE="PROP_MISC" comment=""></OTHER>
-		<DATE id="P9" start="2516" end="2527" text="Aug 5, 2083" TYPE="DATE" comment=""></DATE>
 
 	</TAGS>
 </deIdi2b2>

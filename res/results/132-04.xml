@@ -102,61 +102,6 @@ Xavier B. Nix, M.D., Ph.D.
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2078-03-17" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="44" end="53" text="JORGENSON" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P2" start="97" end="107" text="03/17/2078" TYPE="DATE" comment=""></DATE>
-		<DATE id="P3" start="828" end="832" text="2075" TYPE="DATE" comment=""></DATE>
-		<DATE id="P4" start="1010" end="1017" text="6/19/74" TYPE="DATE" comment=""></DATE>
-		<DATE id="P5" start="1056" end="1064" text="11/26/77" TYPE="DATE" comment=""></DATE>
-		<DATE id="P6" start="1127" end="1134" text="6/19/74" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P7" start="1183" end="1191" text="Ca, 2071" TYPE="ADDRESS2" comment=""></LOCATION>
-		<OTHER id="P8" start="1378" end="1398" text="Hypertension 
-Atrial" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P9" start="1415" end="1427" text="Coumadin
-Non" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P10" start="1963" end="1968" text="20MEQ" TYPE="MGRS" comment=""></OTHER>
-		<LOCATION id="P11" start="2375" end="2380" text="RR 18" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P12" start="2393" end="2402" text="NAD
-HEENT" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P13" start="2814" end="2824" text="03/17/2078" TYPE="DATE" comment=""></DATE>
-		<CONTACT id="P14" start="2826" end="2835" text="1]    139" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P15" start="2892" end="2902" text="03/17/2078" TYPE="DATE" comment=""></DATE>
-		<CONTACT id="P16" start="2940" end="2957" text="102            26" TYPE="PHONE" comment=""></CONTACT>
-		<LOCATION id="P17" start="2970" end="3036" text="Date/Time         BUN            CRE            EGFR           GLU" TYPE="ORGANIZATION/OTHER" comment=""></LOCATION>
-		<DATE id="P18" start="3048" end="3058" text="03/17/2078" TYPE="DATE" comment=""></DATE>
-		<CONTACT id="P19" start="3060" end="3068" text="2]    50" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P20" start="3126" end="3136" text="03/17/2078" TYPE="DATE" comment=""></DATE>
-		<CONTACT id="P21" start="3174" end="3192" text="30 [4]         106" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P22" start="3237" end="3247" text="03/17/2078" TYPE="DATE" comment=""></DATE>
-		<DATE id="P23" start="3270" end="3280" text="03/17/2078" TYPE="DATE" comment=""></DATE>
-		<DATE id="P24" start="3381" end="3391" text="03/17/2078" TYPE="DATE" comment=""></DATE>
-		<DATE id="P25" start="3459" end="3469" text="03/17/2078" TYPE="DATE" comment=""></DATE>
-		<DATE id="P26" start="3600" end="3610" text="03/17/2078" TYPE="DATE" comment=""></DATE>
-		<DATE id="P27" start="3663" end="3673" text="03/17/2078" TYPE="DATE" comment=""></DATE>
-		<DATE id="P28" start="3804" end="3814" text="03/17/2078" TYPE="DATE" comment=""></DATE>
-		<CONTACT id="P29" start="3816" end="3855" text="9]    8              24             106" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P30" start="3882" end="3892" text="03/17/2078" TYPE="DATE" comment=""></DATE>
-		<CONTACT id="P31" start="3915" end="3933" text="22             106" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P32" start="4023" end="4033" text="03/17/2078" TYPE="DATE" comment=""></DATE>
-		<CONTACT id="P33" start="4035" end="4043" text="10]   56" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P34" start="4119" end="4129" text="03/17/2078" TYPE="DATE" comment=""></DATE>
-		<DATE id="P35" start="4230" end="4240" text="03/17/2078" TYPE="DATE" comment=""></DATE>
-		<DATE id="P36" start="4386" end="4396" text="03/17/2078" TYPE="DATE" comment=""></DATE>
-		<DATE id="P37" start="4497" end="4507" text="03/17/2078" TYPE="DATE" comment=""></DATE>
-		<DATE id="P38" start="4608" end="4618" text="03/17/2078" TYPE="DATE" comment=""></DATE>
-		<DATE id="P39" start="4719" end="4729" text="03/17/2078" TYPE="DATE" comment=""></DATE>
-		<DATE id="P40" start="4830" end="4840" text="03/17/2078" TYPE="DATE" comment=""></DATE>
-		<DATE id="P41" start="4941" end="4951" text="03/17/2078" TYPE="DATE" comment=""></DATE>
-		<DATE id="P42" start="5022" end="5032" text="03/17/2078" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P43" start="5070" end="5090" text="Date/Time         PT" TYPE="GEO_FEATURE/LAND" comment=""></OTHER>
-		<DATE id="P44" start="5133" end="5143" text="03/17/2078" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P45" start="5392" end="5395" text="#CV" TYPE="SOCIAL_MEDIA/TOPIC_TWITTER" comment=""></OTHER>
-		<OTHER id="P46" start="5475" end="5492" text="Decompensated CHF" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P47" start="5574" end="5585" text="Strict I/O." TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P48" start="5808" end="5814" text="#Psych" TYPE="SOCIAL_MEDIA/TOPIC_TWITTER" comment=""></OTHER>
-		<OTHER id="P49" start="5833" end="5843" text="#Endocrine" TYPE="SOCIAL_MEDIA/TOPIC_TWITTER" comment=""></OTHER>
-		<OTHER id="P50" start="5876" end="5880" text="#FEN" TYPE="SOCIAL_MEDIA/TOPIC_TWITTER" comment=""></OTHER>
-		<NAME id="P51" start="5976" end="5989" text="Xavier B. Nix" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

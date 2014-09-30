@@ -321,30 +321,6 @@ PGY-1
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2092-09-05" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="90" end="98" text="Crawford" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P2" start="90" end="98" text="Crawford" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P3" start="100" end="107" text="Patrick" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P4" start="116" end="123" text="9021555" TYPE="IDNUM" comment=""></ID>
-		<CONTACT id="P5" start="116" end="123" text="9021555" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P6" start="144" end="150" text="9/5/92" TYPE="DATE" comment=""></DATE>
-		<NAME id="P7" start="160" end="169" text="Shawn Ott" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P8" start="190" end="197" text="Kathryn" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P9" start="1364" end="1368" text="2090" TYPE="DATE" comment=""></DATE>
-		<DATE id="P10" start="1869" end="1873" text="2080" TYPE="DATE" comment=""></DATE>
-		<DATE id="P11" start="2134" end="2138" text="2072" TYPE="DATE" comment=""></DATE>
-		<DATE id="P12" start="2158" end="2162" text="2090" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P13" start="2289" end="2300" text="Glaucoma OU" TYPE="ORGANIZATION/EDUCATIONAL" comment=""></LOCATION>
-		<LOCATION id="P14" start="2306" end="2318" text="Cataracts OU" TYPE="ORGANIZATION/EDUCATIONAL" comment=""></LOCATION>
-		<OTHER id="P15" start="2606" end="2615" text="Owensboro" TYPE="LOCALITY" comment=""></OTHER>
-		<NAME id="P16" start="2843" end="2847" text="Etoh" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P17" start="3338" end="3344" text="RRR S1" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<OTHER id="P18" start="5964" end="5981" text="Kinase Isoenzymes" TYPE="PROP_MISC" comment=""></OTHER>
-		<DATE id="P19" start="6820" end="6824" text="2090" TYPE="DATE" comment=""></DATE>
-		<NAME id="P20" start="7481" end="7486" text="brady" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P21" start="7669" end="7673" text="2090" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P22" start="8381" end="8385" text="2 DM" TYPE="CURRENCY" comment=""></OTHER>
-		<NAME id="P23" start="9294" end="9303" text="Shawn Ott" TYPE="PATIENT" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

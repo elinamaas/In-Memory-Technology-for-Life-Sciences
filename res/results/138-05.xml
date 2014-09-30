@@ -66,26 +66,6 @@ DV: 12/15/76
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2076-12-15" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P1" start="34" end="41" text="PRESTON" TYPE="LOCALITY" comment=""></OTHER>
-		<NAME id="P2" start="34" end="41" text="PRESTON" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P3" start="43" end="50" text="FRANCES" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P4" start="51" end="59" text="05850080" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P5" start="60" end="70" text="12/15/2076" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P6" start="89" end="119" text="M.D.
-Shelby Dental Care Center" TYPE="ORGANIZATION/OTHER" comment=""></LOCATION>
-		<LOCATION id="P7" start="120" end="139" text="9842 Edwards Street" TYPE="ADDRESS1" comment=""></LOCATION>
-		<NAME id="P8" start="140" end="145" text="Cozad" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P9" start="147" end="156" text="OK  53952" TYPE="ADDRESS2" comment=""></LOCATION>
-		<NAME id="P10" start="168" end="174" text="Barron" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P11" start="234" end="249" text="Frances Preston" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P12" start="445" end="455" text="12/14/2076" TYPE="DATE" comment=""></DATE>
-		<DATE id="P13" start="1296" end="1306" text="01/24/2077" TYPE="DATE" comment=""></DATE>
-		<NAME id="P14" start="1461" end="1477" text="Corrie Q Newland" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P15" start="1492" end="1502" text="eScription" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P16" start="1540" end="1548" text="12/15/76" TYPE="DATE" comment=""></DATE>
-		<DATE id="P17" start="1553" end="1561" text="12/15/76" TYPE="DATE" comment=""></DATE>
-		<DATE id="P18" start="1566" end="1574" text="12/15/76" TYPE="DATE" comment=""></DATE>
 
 	</TAGS>
 </deIdi2b2>

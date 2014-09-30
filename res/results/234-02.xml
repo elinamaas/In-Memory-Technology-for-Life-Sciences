@@ -163,14 +163,6 @@ P- Repeat CMP. Information given for her MD in DR. f/u when she returns in 3-4 m
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2074-12-09" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="28" end="37" text="Francesca" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P2" start="481" end="495" text="40MG TABLET DR" TYPE="ADDRESS1" comment=""></LOCATION>
-		<OTHER id="P3" start="841" end="847" text="TAB.SR" TYPE="URI/URL" comment=""></OTHER>
-		<NAME id="P4" start="1331" end="1335" text="abdo" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P5" start="1644" end="1652" text="Paraguay" TYPE="COUNTRY" comment=""></LOCATION>
-		<LOCATION id="P6" start="1675" end="1686" text="Vital Signs" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P7" start="2035" end="2039" text="Abdo" TYPE="PATIENT" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

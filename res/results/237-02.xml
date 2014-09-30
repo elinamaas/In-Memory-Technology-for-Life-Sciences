@@ -54,27 +54,6 @@ Document Status: Final
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2093-04-13" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P1" start="45" end="73" text="BEAUREGARD MEMORIAL HOSPITAL" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<NAME id="P2" start="76" end="96" text="Steven N Cooper M.D." TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P3" start="98" end="127" text="8 Riverview Avenue, Suite 185" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P4" start="130" end="155" text="College Station, NC 22169" TYPE="ADDRESS2" comment=""></LOCATION>
-		<NAME id="P5" start="166" end="172" text="Cooper" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P6" start="220" end="236" text="Christian Mullen" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P7" start="402" end="411" text="Fernandes" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P8" start="566" end="569" text="Fre" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P9" start="850" end="855" text="Chris" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P10" start="1009" end="1018" text="Brad Fair" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P11" start="1282" end="1286" text="2082" TYPE="DATE" comment=""></DATE>
-		<NAME id="P12" start="1694" end="1701" text="Doppler" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P13" start="1820" end="1825" text="Chris" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P14" start="2536" end="2541" text="Chris" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P15" start="3042" end="3055" text="Vernon Galvan" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P16" start="3220" end="3228" text="Nunes MD" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P17" start="3232" end="3235" text="cc:" TYPE="NAME_DESIGNATOR" comment=""></OTHER>
-		<NAME id="P18" start="3236" end="3259" text="Nathan   Fernandes M.D." TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P19" start="3261" end="3281" text="Vernon X Galvan M.D." TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P20" start="3316" end="3328" text="Guyton Nunes" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

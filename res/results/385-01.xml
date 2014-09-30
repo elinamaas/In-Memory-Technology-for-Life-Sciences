@@ -277,34 +277,6 @@ DV: 12/05/87
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2087-12-05" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P1" start="34" end="71" text="Beckley Appalachian Regional Hospital" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<NAME id="P2" start="77" end="108" text="Townsend West              MOSS" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P3" start="110" end="115" text="DEREK" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P4" start="131" end="164" text="85976                    59624156" TYPE="PHONE" comment=""></CONTACT>
-		<ID id="P5" start="156" end="164" text="59624156" TYPE="IDNUM" comment=""></ID>
-		<CONTACT id="P6" start="166" end="178" text="895-239-5445" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P7" start="213" end="223" text="12/05/2087" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P8" start="244" end="275" text="Present Illness/Chief Complaint" TYPE="PROP_MISC" comment=""></OTHER>
-		<LOCATION id="P9" start="539" end="554" text="Medical History" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P10" start="754" end="758" text="2086" TYPE="DATE" comment=""></DATE>
-		<NAME id="P11" start="760" end="767" text="Gleason" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P12" start="822" end="838" text="Medical Problems" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P13" start="1058" end="1067" text="Parkinson" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P14" start="1384" end="1395" text="Ouagadougou" TYPE="LOCALITY" comment=""></OTHER>
-		<OTHER id="P15" start="1447" end="1457" text="Harrisburg" TYPE="LOCALITY" comment=""></OTHER>
-		<OTHER id="P16" start="1602" end="1607" text="Cadiz" TYPE="LOCALITY" comment=""></OTHER>
-		<NAME id="P17" start="1642" end="1646" text="ETOH" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P18" start="1739" end="1757" text="Health Maintenance" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P19" start="1877" end="1881" text="2087" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P20" start="3614" end="3619" text="bursa" TYPE="LOCALITY" comment=""></OTHER>
-		<OTHER id="P21" start="5328" end="5335" text="BARH ER" TYPE="PROP_MISC" comment=""></OTHER>
-		<LOCATION id="P22" start="5488" end="5506" text="Health Maintenance" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P23" start="5612" end="5623" text="Ursula Yawn" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P24" start="5639" end="5649" text="eScription" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P25" start="5688" end="5696" text="12/05/87" TYPE="DATE" comment=""></DATE>
-		<DATE id="P26" start="5702" end="5710" text="12/05/87" TYPE="DATE" comment=""></DATE>
-		<DATE id="P27" start="5716" end="5724" text="12/05/87" TYPE="DATE" comment=""></DATE>
 
 	</TAGS>
 </deIdi2b2>

@@ -339,60 +339,6 @@ Signed electronically by   Quinton G Janssen MD  on  Apr 14, 2094
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2094-04-14" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P1" start="40" end="59" text="PORT HURON HOSPITAL" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<OTHER id="P2" start="125" end="136" text="S/P redoMVR" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P3" start="152" end="160" text="St. Jude" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P4" start="257" end="267" text=". Mitchell" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P5" start="403" end="411" text="St. Jude" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P6" start="445" end="449" text="2085" TYPE="DATE" comment=""></DATE>
-		<NAME id="P7" start="1059" end="1069" text=". Mitchell" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P8" start="1126" end="1151" text="atNorth Mountain Hospital" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<NAME id="P9" start="1805" end="1811" text="Conway" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P10" start="2029" end="2035" text="Cherry" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P11" start="2095" end="2108" text="Evelyn Conway" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P12" start="2118" end="2131" text="pulmonologist" TYPE="TITLE" comment=""></OTHER>
-		<NAME id="P13" start="2136" end="2150" text="Geoffrey Lucas" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P14" start="2508" end="2513" text="SR po" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P15" start="2769" end="2774" text="Bobby" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P16" start="2860" end="2870" text="Eagle Pass" TYPE="GEO_FEATURE/LAND" comment=""></OTHER>
-		<LOCATION id="P17" start="2860" end="2870" text="Eagle Pass" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<OTHER id="P18" start="2886" end="2893" text="Bethany" TYPE="LOCALITY" comment=""></OTHER>
-		<NAME id="P19" start="2886" end="2893" text="Bethany" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P20" start="4241" end="4249" text="Mitchell" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P21" start="4251" end="4259" text="Katie E." TYPE="PATIENT" comment=""></NAME>
-		<ID id="P22" start="4274" end="4281" text="6146161" TYPE="IDNUM" comment=""></ID>
-		<CONTACT id="P23" start="4274" end="4281" text="6146161" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P24" start="4297" end="4304" text="3/13/94" TYPE="DATE" comment=""></DATE>
-		<DATE id="P25" start="4306" end="4313" text="12:41pm" TYPE="DATE" comment=""></DATE>
-		<NAME id="P26" start="4350" end="4367" text="Geoffrey D. Lucas" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P27" start="4478" end="4485" text="Hb Date" TYPE="PROP_MISC" comment=""></OTHER>
-		<DATE id="P28" start="4487" end="4497" text="03/02/2094" TYPE="DATE" comment=""></DATE>
-		<DATE id="P29" start="5730" end="5744" text="11.86-25.16 AM" TYPE="DATE" comment=""></DATE>
-		<DATE id="P30" start="5950" end="5963" text="2.49-5.13  AM" TYPE="DATE" comment=""></DATE>
-		<DATE id="P31" start="6210" end="6213" text="Sat" TYPE="DATE" comment=""></DATE>
-		<DATE id="P32" start="6841" end="6851" text="12/14/2092" TYPE="DATE" comment=""></DATE>
-		<NAME id="P33" start="7035" end="7052" text="Charles Yzaguirre" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P34" start="7604" end="7609" text="Lucas" TYPE="DOCTOR" comment=""></NAME>
-		<CONTACT id="P35" start="7674" end="7679" text="150 1" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P36" start="7730" end="7740" text="04/14/2094" TYPE="DATE" comment=""></DATE>
-		<DATE id="P37" start="7768" end="7778" text="04/29/2092" TYPE="DATE" comment=""></DATE>
-		<DATE id="P38" start="7819" end="7829" text="04/29/2092" TYPE="DATE" comment=""></DATE>
-		<DATE id="P39" start="7924" end="7934" text="11/11/2092" TYPE="DATE" comment=""></DATE>
-		<NAME id="P40" start="7989" end="7995" text="SR  po" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P41" start="8006" end="8016" text="04/29/2092" TYPE="DATE" comment=""></DATE>
-		<DATE id="P42" start="8051" end="8061" text="04/29/2092" TYPE="DATE" comment=""></DATE>
-		<DATE id="P43" start="8090" end="8100" text="04/29/2092" TYPE="DATE" comment=""></DATE>
-		<DATE id="P44" start="8128" end="8138" text="04/29/2092" TYPE="DATE" comment=""></DATE>
-		<DATE id="P45" start="8166" end="8176" text="04/29/2092" TYPE="DATE" comment=""></DATE>
-		<DATE id="P46" start="8207" end="8217" text="04/14/2093" TYPE="DATE" comment=""></DATE>
-		<DATE id="P47" start="8245" end="8255" text="11/13/2092" TYPE="DATE" comment=""></DATE>
-		<DATE id="P48" start="8303" end="8313" text="04/14/2093" TYPE="DATE" comment=""></DATE>
-		<DATE id="P49" start="8343" end="8353" text="04/29/2092" TYPE="DATE" comment=""></DATE>
-		<DATE id="P50" start="8382" end="8392" text="04/14/2093" TYPE="DATE" comment=""></DATE>
-		<DATE id="P51" start="8419" end="8429" text="04/29/2092" TYPE="DATE" comment=""></DATE>
-		<NAME id="P52" start="8460" end="8480" text="Quinton G Janssen MD" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P53" start="8486" end="8498" text="Apr 14, 2094" TYPE="DATE" comment=""></DATE>
 
 	</TAGS>
 </deIdi2b2>

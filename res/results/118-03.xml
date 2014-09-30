@@ -35,18 +35,6 @@ Helen Ochs NP
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2117-08-26" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="29" end="34" text="Usrey" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P2" start="36" end="43" text="Anthony" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P3" start="49" end="56" text="6444877" TYPE="PHONE" comment=""></CONTACT>
-		<ID id="P4" start="49" end="56" text="6444877" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P5" start="63" end="72" text="8/11/2062" TYPE="DATE" comment=""></DATE>
-		<DATE id="P6" start="73" end="88" text="August 26, 2117" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P7" start="101" end="120" text="Providence Hospital" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<DATE id="P8" start="264" end="271" text="7/12/17" TYPE="DATE" comment=""></DATE>
-		<NAME id="P9" start="1100" end="1104" text="Abdo" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P10" start="1365" end="1378" text="Hugh Delarosa" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P11" start="1382" end="1392" text="Helen Ochs" TYPE="PATIENT" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

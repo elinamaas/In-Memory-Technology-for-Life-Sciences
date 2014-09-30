@@ -87,22 +87,6 @@ Singh, M.D.
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2090-11-21" TYPE="DATE" comment=""></DATE>
-		<DATE id="P1" start="660" end="664" text="2067" TYPE="DATE" comment=""></DATE>
-		<DATE id="P2" start="757" end="764" text="1/16/88" TYPE="DATE" comment=""></DATE>
-		<DATE id="P3" start="929" end="936" text="7/23/88" TYPE="DATE" comment=""></DATE>
-		<DATE id="P4" start="961" end="968" text="4/20/89" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P5" start="1334" end="1345" text="1 PO QD #30" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P6" start="1854" end="1865" text="30 days #30" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P7" start="2009" end="2018" text="TABLET SA" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P8" start="2172" end="2193" text="1 Tablet(s) PO QD #30" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P9" start="2301" end="2316" text="20MG CAPSULE DR" TYPE="ADDRESS1" comment=""></LOCATION>
-		<OTHER id="P10" start="2426" end="2432" text="TAB.SR" TYPE="URI/URL" comment=""></OTHER>
-		<OTHER id="P11" start="2455" end="2461" text="TAB.SR" TYPE="URI/URL" comment=""></OTHER>
-		<LOCATION id="P12" start="2488" end="2499" text="Vital Signs" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P13" start="2954" end="2962" text="11/14/90" TYPE="DATE" comment=""></DATE>
-		<DATE id="P14" start="3080" end="3088" text="12/14/90" TYPE="DATE" comment=""></DATE>
-		<NAME id="P15" start="3092" end="3097" text="Singh" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

@@ -93,23 +93,6 @@ TL:95468     :423
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2092-05-06" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="42" end="49" text="WILHELM" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P2" start="51" end="56" text="GOLDY" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P3" start="64" end="71" text="9543443" TYPE="IDNUM" comment=""></ID>
-		<CONTACT id="P4" start="64" end="71" text="9543443" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P5" start="86" end="96" text="05/06/2092" TYPE="DATE" comment=""></DATE>
-		<NAME id="P6" start="100" end="115" text="EDWARD XAYASANE" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P7" start="217" end="228" text="Ms. Wilhelm" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P8" start="1342" end="1352" text="April 2092" TYPE="DATE" comment=""></DATE>
-		<DATE id="P9" start="1578" end="1582" text="2091" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P10" start="2235" end="2245" text="Head Nurse" TYPE="PROP_MISC" comment=""></OTHER>
-		<LOCATION id="P11" start="2264" end="2283" text="Library Corporation" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P12" start="4199" end="4207" text="achilles" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P13" start="5063" end="5071" text="Xayasane" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P14" start="5148" end="5163" text="Edward Xayasane" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P15" start="5173" end="5176" text="cc:" TYPE="NAME_DESIGNATOR" comment=""></OTHER>
-		<NAME id="P16" start="5177" end="5192" text="David Utterback" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

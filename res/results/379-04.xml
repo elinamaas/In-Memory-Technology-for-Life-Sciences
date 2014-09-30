@@ -123,16 +123,6 @@ A/P:
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2093-07-03" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="28" end="43" text="Nathan D. Akins" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P2" start="54" end="86" text="BMC Internal Medicine Associates" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P3" start="88" end="109" text="96 Hassell Brook Road" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P4" start="111" end="146" text="Daytona Highridge Estates, AZ 39757" TYPE="ADDRESS2" comment=""></LOCATION>
-		<CONTACT id="P5" start="149" end="162" text="742) 270-8900" TYPE="PHONE" comment=""></CONTACT>
-		<OTHER id="P6" start="326" end="346" text="Park Nicollet Clinic" TYPE="FACILITY/BUILDGROUNDS" comment=""></OTHER>
-		<LOCATION id="P7" start="895" end="901" text="EC ASA" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P8" start="1489" end="1494" text="OP nl" TYPE="ORGANIZATION/SPORTS" comment=""></LOCATION>
-		<NAME id="P9" start="2289" end="2293" text="Chol" TYPE="PATIENT" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

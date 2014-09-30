@@ -66,16 +66,6 @@ eScription document:2-320209
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2094-10-26" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P1" start="29" end="60" text="Saint John Valley Health Center" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P2" start="61" end="83" text="157 Peterborough Place" TYPE="ADDRESS1" comment=""></LOCATION>
-		<NAME id="P3" start="123" end="129" text="KIM JR" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P4" start="151" end="192" text="26822                            20163512" TYPE="PHONE" comment=""></CONTACT>
-		<ID id="P5" start="184" end="192" text="20163512" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P6" start="251" end="259" text="10/26/94" TYPE="DATE" comment=""></DATE>
-		<DATE id="P7" start="744" end="754" text="10/14/2094" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P8" start="2179" end="2198" text="10 mg p.o. day, #30" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P9" start="2358" end="2368" text="eScription" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
 
 	</TAGS>
 </deIdi2b2>

@@ -229,25 +229,6 @@ Vascular Junior
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2098-12-23" TYPE="DATE" comment=""></DATE>
-		<DATE id="P1" start="78" end="88" text="12/23/2098" TYPE="DATE" comment=""></DATE>
-		<NAME id="P2" start="101" end="108" text="Quiring" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P3" start="122" end="126" text="Donn" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P4" start="133" end="140" text="0595726" TYPE="PHONE" comment=""></CONTACT>
-		<ID id="P5" start="133" end="140" text="0595726" TYPE="IDNUM" comment=""></ID>
-		<LOCATION id="P6" start="983" end="998" text="Soma/Ultram prn" TYPE="ORGANIZATION/MEDIA" comment=""></LOCATION>
-		<NAME id="P7" start="1116" end="1120" text="ETOH" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P8" start="1143" end="1158" text="Finance manager" TYPE="TITLE" comment=""></OTHER>
-		<OTHER id="P9" start="1543" end="1590" text="Radial       Femoral        Popliteal        PT" TYPE="GEO_FEATURE/LAND" comment=""></OTHER>
-		<NAME id="P10" start="1909" end="1916" text="DOPPLER" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P11" start="1974" end="2020" text="PT               AbdAorta Femoral Auscultation" TYPE="GEO_FEATURE/LAND" comment=""></OTHER>
-		<OTHER id="P12" start="2025" end="2031" text="DP  PT" TYPE="GEO_FEATURE/LAND" comment=""></OTHER>
-		<CONTACT id="P13" start="2079" end="2109" text="1                    0   0   0" TYPE="PHONE" comment=""></CONTACT>
-		<CONTACT id="P14" start="2157" end="2187" text="1                    0   0   0" TYPE="PHONE" comment=""></CONTACT>
-		<LOCATION id="P15" start="2191" end="2198" text="BP RArm" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P16" start="3242" end="3264" text="POOR DIGITAL PERFUSION" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P17" start="3683" end="3690" text="Quiring" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P18" start="3748" end="3759" text="Vicki Oneil" TYPE="PATIENT" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

@@ -338,42 +338,6 @@ Pager #41393
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2082-06-13" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P1" start="91" end="98" text="BRANDON" TYPE="LOCALITY" comment=""></OTHER>
-		<NAME id="P2" start="91" end="98" text="BRANDON" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P3" start="106" end="113" text="7826250" TYPE="PHONE" comment=""></CONTACT>
-		<ID id="P4" start="106" end="113" text="7826250" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P5" start="127" end="136" text="6/13/2082" TYPE="DATE" comment=""></DATE>
-		<NAME id="P6" start="147" end="158" text="ERNEST EDGE" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P7" start="185" end="191" text="ASHLEI" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P8" start="192" end="197" text="TYSON" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P9" start="228" end="238" text="BRIAN MOSS" TYPE="DOCTOR" comment=""></NAME>
-		<CONTACT id="P10" start="240" end="252" text="772-261-4350" TYPE="PHONE" comment=""></CONTACT>
-		<NAME id="P11" start="338" end="346" text="Xayavong" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P12" start="380" end="384" text="2077" TYPE="DATE" comment=""></DATE>
-		<DATE id="P13" start="430" end="434" text="2080" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P14" start="573" end="579" text="Duluth" TYPE="LOCALITY" comment=""></OTHER>
-		<NAME id="P15" start="603" end="607" text="Moss" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P16" start="920" end="928" text="U. Wyatt" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P17" start="977" end="985" text="A. Tyson" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P18" start="2504" end="2508" text="2077" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P19" start="2587" end="2593" text="Duluth" TYPE="LOCALITY" comment=""></OTHER>
-		<NAME id="P20" start="2677" end="2685" text="St. Jude" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P21" start="2698" end="2705" text="5/13/81" TYPE="DATE" comment=""></DATE>
-		<DATE id="P22" start="2772" end="2782" text="11/04/2077" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P23" start="2877" end="2895" text="Interventional LHC" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P24" start="3899" end="3915" text="Fish Oil Capsule" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P25" start="4249" end="4259" text="RR 18 / O2" TYPE="ADDRESS1" comment=""></LOCATION>
-		<DATE id="P26" start="4932" end="4940" text="06/13/82" TYPE="DATE" comment=""></DATE>
-		<DATE id="P27" start="4958" end="4963" text="12:03" TYPE="DATE" comment=""></DATE>
-		<DATE id="P28" start="5888" end="5896" text="06/13/82" TYPE="DATE" comment=""></DATE>
-		<DATE id="P29" start="5914" end="5919" text="12:07" TYPE="DATE" comment=""></DATE>
-		<NAME id="P30" start="6909" end="6917" text="Xayavong" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P31" start="6951" end="6955" text="2077" TYPE="DATE" comment=""></DATE>
-		<DATE id="P32" start="7001" end="7005" text="2080" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P33" start="8351" end="8364" text="Heart Failure" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P34" start="8594" end="8598" text="Iler" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P35" start="8609" end="8635" text="GNC Department of Medicine" TYPE="ORGANIZATION/GOVERNMENT" comment=""></LOCATION>
 
 	</TAGS>
 </deIdi2b2>

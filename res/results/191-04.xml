@@ -109,14 +109,6 @@ f/u in 3 mos
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2096-06-02" TYPE="DATE" comment=""></DATE>
-		<DATE id="P1" start="214" end="218" text="2091" TYPE="DATE" comment=""></DATE>
-		<NAME id="P2" start="304" end="309" text="trach" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P3" start="471" end="482" text="Asa ENTERIC" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<OTHER id="P4" start="570" end="585" text="Tablet(s) GTUBE" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P5" start="622" end="640" text="Tablet(s) GTUBE QD" TYPE="PROP_MISC" comment=""></OTHER>
-		<LOCATION id="P6" start="894" end="906" text="SPRAY NAS QD" TYPE="ORGANIZATION/OTHER" comment=""></LOCATION>
-		<DATE id="P7" start="1682" end="1691" text="wednesday" TYPE="DATE" comment=""></DATE>
 
 	</TAGS>
 </deIdi2b2>

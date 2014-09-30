@@ -135,20 +135,6 @@ Bethany Kristin Downs, M.D.
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2090-04-04" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P1" start="347" end="362" text="Medical History" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P2" start="466" end="473" text="4/04/90" TYPE="DATE" comment=""></DATE>
-		<NAME id="P3" start="641" end="652" text="Tania Foust" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P4" start="674" end="688" text="Willie Spencer" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P5" start="714" end="722" text="UC Davis" TYPE="ORGANIZATION/EDUCATIONAL" comment=""></LOCATION>
-		<LOCATION id="P6" start="787" end="794" text="Hungary" TYPE="COUNTRY" comment=""></LOCATION>
-		<DATE id="P7" start="802" end="806" text="2060" TYPE="DATE" comment=""></DATE>
-		<NAME id="P8" start="824" end="828" text="etoh" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P9" start="891" end="902" text="Vital Signs" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<OTHER id="P10" start="954" end="966" text="126   Pounds" TYPE="CURRENCY" comment=""></OTHER>
-		<LOCATION id="P11" start="1443" end="1452" text="Normal S1" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P12" start="1688" end="1715" text="Nye Regional Medical Center" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<NAME id="P13" start="1998" end="2019" text="Bethany Kristin Downs" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

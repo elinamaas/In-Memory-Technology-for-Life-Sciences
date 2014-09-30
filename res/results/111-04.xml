@@ -107,17 +107,6 @@ eScription document:7-9617124 SJZvdbs
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2090-02-14" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="75" end="82" text="QUENTIN" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P2" start="1092" end="1096" text="2074" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P3" start="1945" end="1965" text="EMERGENCY DEPARTMENT" TYPE="ORGANIZATION/GOVERNMENT" comment=""></LOCATION>
-		<LOCATION id="P4" start="1945" end="1965" text="EMERGENCY DEPARTMENT" TYPE="ORGANIZATION/EDUCATIONAL" comment=""></LOCATION>
-		<NAME id="P5" start="2354" end="2366" text="QUENTIN M.D." TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P6" start="2371" end="2379" text="02/15/90" TYPE="DATE" comment=""></DATE>
-		<DATE id="P7" start="2384" end="2392" text="02/15/90" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P8" start="2415" end="2433" text="QUENTIN
-eScription" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<OTHER id="P9" start="2488" end="2507" text="Attending Physician" TYPE="PROP_MISC" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

@@ -171,17 +171,6 @@ Assessment and Plan
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2082-06-29" TYPE="DATE" comment=""></DATE>
-		<DATE id="P1" start="158" end="167" text="July 22nd" TYPE="DATE" comment=""></DATE>
-		<NAME id="P2" start="413" end="419" text="Uzzell" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P3" start="630" end="634" text="July" TYPE="DATE" comment=""></DATE>
-		<NAME id="P4" start="681" end="688" text="Newkirk" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P5" start="966" end="975" text="June 23rd" TYPE="DATE" comment=""></DATE>
-		<NAME id="P6" start="2348" end="2356" text="U     IM" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P7" start="2674" end="2683" text="July 22nd" TYPE="DATE" comment=""></DATE>
-		<NAME id="P8" start="2690" end="2696" text="Rivers" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P9" start="2925" end="2931" text="Uzzell" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P10" start="3081" end="3085" text="July" TYPE="DATE" comment=""></DATE>
 
 	</TAGS>
 </deIdi2b2>

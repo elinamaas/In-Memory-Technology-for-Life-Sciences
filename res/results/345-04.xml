@@ -183,34 +183,6 @@ eScription document:4-5337537 BFFocus
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2080-07-19" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="80" end="88" text="IDRIS
-
-I" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P2" start="115" end="130" text="Xavier Palacios" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P3" start="624" end="641" text="Southwest Montana" TYPE="GEO_AREA/DOMESTIC" comment=""></OTHER>
-		<OTHER id="P4" start="736" end="753" text="Southwest Montana" TYPE="GEO_AREA/DOMESTIC" comment=""></OTHER>
-		<NAME id="P5" start="1128" end="1139" text="Octavia Xue" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P6" start="1143" end="1160" text="Heritage Hospital" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<OTHER id="P7" start="1201" end="1218" text="Southwest Montana" TYPE="GEO_AREA/DOMESTIC" comment=""></OTHER>
-		<LOCATION id="P8" start="1305" end="1330" text="Riverton General Hospital" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<OTHER id="P9" start="2974" end="2991" text="Southwest Montana" TYPE="GEO_AREA/DOMESTIC" comment=""></OTHER>
-		<LOCATION id="P10" start="3222" end="3239" text="Heritage Hospital" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<LOCATION id="P11" start="3253" end="3273" text="EMERGENCY DEPARTMENT" TYPE="ORGANIZATION/GOVERNMENT" comment=""></LOCATION>
-		<LOCATION id="P12" start="3253" end="3273" text="EMERGENCY DEPARTMENT" TYPE="ORGANIZATION/EDUCATIONAL" comment=""></LOCATION>
-		<LOCATION id="P13" start="4111" end="4128" text="Heritage Hospital" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<LOCATION id="P14" start="4191" end="4208" text="Heritage Hospital" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<NAME id="P15" start="4266" end="4277" text="Octavia Xue" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P16" start="4328" end="4345" text="Heritage Hospital" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<LOCATION id="P17" start="4736" end="4753" text="Heritage Hospital" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<NAME id="P18" start="4861" end="4868" text="TAVARES" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P19" start="4870" end="4880" text="IDRIS M.D." TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P20" start="4885" end="4893" text="07/19/80" TYPE="DATE" comment=""></DATE>
-		<DATE id="P21" start="4898" end="4906" text="07/19/80" TYPE="DATE" comment=""></DATE>
-		<NAME id="P22" start="4921" end="4928" text="TAVARES" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P23" start="4930" end="4947" text="IDRIS
-
-eScription" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
 
 	</TAGS>
 </deIdi2b2>

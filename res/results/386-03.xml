@@ -221,19 +221,6 @@ See me in 12 weeks
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2087-06-16" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="50" end="57" text="Chapman" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P2" start="140" end="147" text="2/24/87" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P3" start="369" end="377" text="ETT MIBI" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P4" start="481" end="490" text="Woodstown" TYPE="LOCALITY" comment=""></OTHER>
-		<DATE id="P5" start="1581" end="1589" text="10/08/85" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P6" start="2055" end="2059" text="AQUA" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P7" start="2634" end="2639" text="RR 14" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P8" start="3310" end="3324" text="100 mg QD # 30" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P9" start="3350" end="3363" text="40 mg QD # 30" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P10" start="3536" end="3542" text="ASA QD" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P11" start="3555" end="3569" text="BBlockers, ASA" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P12" start="3773" end="3787" text="10 mg QHS # 30" TYPE="ADDRESS1" comment=""></LOCATION>
 
 	</TAGS>
 </deIdi2b2>

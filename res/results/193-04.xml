@@ -105,22 +105,6 @@ eScription document:5-4132381 BFFocus
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2095-12-14" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="73" end="79" text="CARRIE" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P2" start="125" end="134" text="Dickerson" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P3" start="526" end="536" text="11:00 a.m." TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P4" start="1657" end="1677" text="EMERGENCY DEPARTMENT" TYPE="ORGANIZATION/GOVERNMENT" comment=""></LOCATION>
-		<LOCATION id="P5" start="1657" end="1677" text="EMERGENCY DEPARTMENT" TYPE="ORGANIZATION/EDUCATIONAL" comment=""></LOCATION>
-		<NAME id="P6" start="2444" end="2450" text="FISHER" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P7" start="2444" end="2450" text="FISHER" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P8" start="2452" end="2463" text="CARRIE M.D." TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P9" start="2468" end="2476" text="12/15/95" TYPE="DATE" comment=""></DATE>
-		<DATE id="P10" start="2481" end="2489" text="12/15/95" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P11" start="2504" end="2510" text="FISHER" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P12" start="2504" end="2510" text="FISHER" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P13" start="2512" end="2529" text="CARRIE
-eScription" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<OTHER id="P14" start="2584" end="2603" text="Attending Physician" TYPE="PROP_MISC" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

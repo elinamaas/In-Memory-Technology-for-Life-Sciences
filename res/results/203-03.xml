@@ -131,41 +131,6 @@ Mexico CT 51299
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2090-07-07" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="72" end="78" text="George" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P2" start="80" end="86" text="Rickey" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P3" start="92" end="99" text="1131414" TYPE="IDNUM" comment=""></ID>
-		<CONTACT id="P4" start="92" end="99" text="1131414" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P5" start="100" end="112" text="July 7, 2090" TYPE="DATE" comment=""></DATE>
-		<DATE id="P6" start="267" end="273" text="7/7/90" TYPE="DATE" comment=""></DATE>
-		<NAME id="P7" start="327" end="332" text="Ortiz" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P8" start="492" end="498" text="Ramsey" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P9" start="812" end="825" text="West Virginia" TYPE="REGION/MAJOR" comment=""></OTHER>
-		<NAME id="P10" start="922" end="926" text="Cook" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P11" start="1220" end="1233" text="West Virginia" TYPE="REGION/MAJOR" comment=""></OTHER>
-		<NAME id="P12" start="1823" end="1829" text="George" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P13" start="1831" end="1837" text="Rickey" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P14" start="1843" end="1850" text="1131414" TYPE="IDNUM" comment=""></ID>
-		<CONTACT id="P15" start="1843" end="1850" text="1131414" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P16" start="1851" end="1863" text="July 7, 2090" TYPE="DATE" comment=""></DATE>
-		<NAME id="P17" start="2718" end="2724" text="Robles" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P18" start="2777" end="2790" text="West Virginia" TYPE="REGION/MAJOR" comment=""></OTHER>
-		<NAME id="P19" start="2878" end="2884" text="Robles" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P20" start="3112" end="3118" text="Robles" TYPE="DOCTOR" comment=""></NAME>
-		<CONTACT id="P21" start="3481" end="3489" text="181 6/89" TYPE="PHONE" comment=""></CONTACT>
-		<NAME id="P22" start="3862" end="3868" text="George" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P23" start="3870" end="3876" text="Rickey" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P24" start="3882" end="3889" text="1131414" TYPE="PHONE" comment=""></CONTACT>
-		<ID id="P25" start="3882" end="3889" text="1131414" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P26" start="3890" end="3902" text="July 7, 2090" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P27" start="3986" end="3995" text="II/VI HSM" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P28" start="4402" end="4413" text="Opal Fierro" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P29" start="4448" end="4451" text="cc:" TYPE="NAME_DESIGNATOR" comment=""></OTHER>
-		<NAME id="P30" start="4452" end="4462" text="Keith Cook" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P31" start="4469" end="4497" text="Massillon Community Hospital" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<LOCATION id="P32" start="4498" end="4515" text="7 Monterey Avenue" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P33" start="4516" end="4522" text="Mexico" TYPE="COUNTRY" comment=""></LOCATION>
-		<LOCATION id="P34" start="4523" end="4531" text="CT 51299" TYPE="ADDRESS2" comment=""></LOCATION>
 
 	</TAGS>
 </deIdi2b2>

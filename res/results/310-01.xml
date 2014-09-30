@@ -79,21 +79,6 @@ eScription document:2-2004166 IFFocus
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2073-06-13" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P1" start="74" end="79" text="TYLER" TYPE="LOCALITY" comment=""></OTHER>
-		<NAME id="P2" start="74" end="79" text="TYLER" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P3" start="245" end="254" text="physician" TYPE="TITLE" comment=""></OTHER>
-		<NAME id="P4" start="256" end="265" text="Ostrowski" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P5" start="1487" end="1492" text="Walsh" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P6" start="1603" end="1607" text="ZORN" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P7" start="1609" end="1619" text="TYLER M.D." TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P8" start="1624" end="1632" text="06/13/73" TYPE="DATE" comment=""></DATE>
-		<DATE id="P9" start="1637" end="1645" text="06/13/73" TYPE="DATE" comment=""></DATE>
-		<NAME id="P10" start="1660" end="1664" text="ZORN" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P11" start="1666" end="1671" text="TYLER" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P12" start="1666" end="1671" text="TYLER" TYPE="LOCALITY" comment=""></OTHER>
-		<LOCATION id="P13" start="1673" end="1683" text="eScription" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<OTHER id="P14" start="1738" end="1757" text="Attending Physician" TYPE="PROP_MISC" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

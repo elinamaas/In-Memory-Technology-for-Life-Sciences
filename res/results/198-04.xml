@@ -129,30 +129,6 @@ Document Status: Final
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2079-06-22" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P1" start="45" end="70" text="OAKLAND ASSOCIATES CENTER" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P2" start="153" end="158" text="Yusuf" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P3" start="197" end="203" text="Barton" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P4" start="216" end="223" text="6/18/79" TYPE="DATE" comment=""></DATE>
-		<DATE id="P5" start="809" end="816" text="6/03/79" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P6" start="1121" end="1135" text="Adenosine MIBI" TYPE="PROP_MISC" comment=""></OTHER>
-		<DATE id="P7" start="1153" end="1160" text="6/03/79" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P8" start="3069" end="3079" text="PTA to SFA" TYPE="ORGANIZATION/OTHER" comment=""></LOCATION>
-		<DATE id="P9" start="4380" end="4390" text="07/26/2078" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P10" start="4738" end="4754" text="Surgical History" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<CONTACT id="P11" start="4852" end="4857" text="325 1" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P12" start="5029" end="5033" text="1000" TYPE="DATE" comment=""></DATE>
-		<NAME id="P13" start="5485" end="5489" text="ETOH" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P14" start="5534" end="5546" text="Wilkes-Barre" TYPE="LOCALITY" comment=""></OTHER>
-		<LOCATION id="P15" start="6049" end="6058" text="Normal S1" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P16" start="6297" end="6302" text="1+ PT" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P17" start="6585" end="6597" text="BUN      CRE" TYPE="ORGANIZATION/OTHER" comment=""></LOCATION>
-		<DATE id="P18" start="6604" end="6612" text="06/03/79" TYPE="DATE" comment=""></DATE>
-		<NAME id="P19" start="7019" end="7033" text="Kathy Flaherty" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P20" start="7320" end="7333" text="Verna P. Kahn" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P21" start="7367" end="7380" text="Verna P. Kahn" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P22" start="7382" end="7400" text="NP
-Document Status" TYPE="PROP_MISC" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

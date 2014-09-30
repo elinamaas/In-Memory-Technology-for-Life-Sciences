@@ -307,35 +307,6 @@ Florence Urquhart, APRN-BC
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2096-06-07" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="81" end="94" text="Kenneth Weeks" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P2" start="96" end="103" text="1205466" TYPE="IDNUM" comment=""></ID>
-		<CONTACT id="P3" start="96" end="103" text="1205466" TYPE="PHONE" comment=""></CONTACT>
-		<NAME id="P4" start="142" end="147" text="Weeks" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P5" start="820" end="826" text="4/3/96" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P6" start="1064" end="1066" text="LA" TYPE="LOCALITY" comment=""></OTHER>
-		<OTHER id="P7" start="1305" end="1312" text="STD AVF" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P8" start="1549" end="1566" text="Internal Medicine" TYPE="PROP_MISC" comment=""></OTHER>
-		<LOCATION id="P9" start="1641" end="1656" text="Medical History" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P10" start="1715" end="1719" text="2070" TYPE="DATE" comment=""></DATE>
-		<CONTACT id="P11" start="1749" end="1754" text="1 1/2" TYPE="PHONE" comment=""></CONTACT>
-		<OTHER id="P12" start="1861" end="1882" text="Prostatic Hypertrophy" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P13" start="1906" end="1913" text="Fonseca" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P14" start="2164" end="2168" text="ETOH" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P15" start="2194" end="2198" text="2070" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P16" start="2557" end="2569" text="No HA/Sz/CVA" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P17" start="2639" end="2643" text="Endo" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P18" start="2727" end="2741" text="No COPD/asthma" TYPE="PROP_MISC" comment=""></OTHER>
-		<LOCATION id="P19" start="3083" end="3090" text="AF   BP" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P20" start="3903" end="3912" text="Wednesday" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P21" start="4099" end="4110" text="30 units SQ" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P22" start="4188" end="4195" text="TNG prn" TYPE="ORGANIZATION/MEDIA" comment=""></LOCATION>
-		<LOCATION id="P23" start="4209" end="4222" text="Meclizine prn" TYPE="ORGANIZATION/MEDIA" comment=""></LOCATION>
-		<NAME id="P24" start="4318" end="4323" text="Weeks" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P25" start="5249" end="5255" text="Friday" TYPE="DATE" comment=""></DATE>
-		<NAME id="P26" start="6150" end="6156" text="Felder" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P27" start="6223" end="6229" text="Felder" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P28" start="6237" end="6254" text="Florence Urquhart" TYPE="PATIENT" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

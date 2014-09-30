@@ -43,19 +43,6 @@ Dictated by:  WINIFRED MANNING, M.D.  WM26
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2099-07-17" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="79" end="83" text="LEON" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P2" start="84" end="91" text="MAURICE" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P3" start="94" end="105" text="436-34-21-1" TYPE="IDNUM" comment=""></ID>
-		<CONTACT id="P4" start="94" end="105" text="436-34-21-1" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P5" start="134" end="142" text="07/17/99" TYPE="DATE" comment=""></DATE>
-		<DATE id="P6" start="159" end="166" text="7/17/99" TYPE="DATE" comment=""></DATE>
-		<DATE id="P7" start="205" end="215" text="4:30 
-p.m." TYPE="DATE" comment=""></DATE>
-		<ID id="P8" start="1623" end="1633" text="HP506/6486" TYPE="IDNUM" comment=""></ID>
-		<NAME id="P9" start="1635" end="1651" text="WINIFRED MANNING" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P10" start="1787" end="1803" text="WINIFRED MANNING" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P11" start="1843" end="1862" text="Attending Physician" TYPE="PROP_MISC" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

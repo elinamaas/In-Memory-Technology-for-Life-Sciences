@@ -214,56 +214,6 @@ Paula Xin, NP
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2170-03-02" TYPE="DATE" comment=""></DATE>
-		<DATE id="P1" start="123" end="131" text="10/16/69" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P2" start="138" end="154" text="Griffin Hospital" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<NAME id="P3" start="258" end="265" text="Barrett" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P4" start="296" end="304" text="17/69 CT" TYPE="CURRENCY" comment=""></OTHER>
-		<OTHER id="P5" start="359" end="367" text="21/69 CT" TYPE="CURRENCY" comment=""></OTHER>
-		<DATE id="P6" start="420" end="428" text="10/21/69" TYPE="DATE" comment=""></DATE>
-		<NAME id="P7" start="559" end="564" text="Porta" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P8" start="602" end="607" text="22/69" TYPE="PHONE" comment=""></CONTACT>
-		<NAME id="P9" start="616" end="621" text="porta" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P10" start="646" end="654" text="12/01/69" TYPE="DATE" comment=""></DATE>
-		<DATE id="P11" start="701" end="710" text="2/08/2170" TYPE="DATE" comment=""></DATE>
-		<DATE id="P12" start="1219" end="1223" text="2165" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P13" start="1225" end="1248" text="2167
-Cardiac stent 2164" TYPE="ADDRESS1" comment=""></LOCATION>
-		<OTHER id="P14" start="1348" end="1358" text="QD 
-Ativan" TYPE="PROP_MISC" comment=""></OTHER>
-		<LOCATION id="P15" start="1467" end="1474" text="MG ELEM" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<OTHER id="P16" start="1548" end="1561" text="QD 
-Glyburide" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P17" start="1594" end="1608" text="QD 
-Isosorbide" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P18" start="1684" end="1699" text="QHS 
-Lisinopril" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P19" start="1719" end="1739" text="Metoprolol SUCCINATE" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P20" start="1769" end="1775" text="TAB.SR" TYPE="URI/URL" comment=""></OTHER>
-		<OTHER id="P21" start="1791" end="1801" text="QD 
-Plavix" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P22" start="1846" end="1858" text="QD 
-Prilosec" TYPE="PROP_MISC" comment=""></OTHER>
-		<LOCATION id="P23" start="1879" end="1894" text="40MG CAPSULE DR" TYPE="ADDRESS1" comment=""></LOCATION>
-		<OTHER id="P24" start="1906" end="1916" text="QD 
-Reglan" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P25" start="2218" end="2228" text="QD 
-Zoloft" TYPE="PROP_MISC" comment=""></OTHER>
-		<DATE id="P26" start="2404" end="2408" text="2158" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P27" start="2409" end="2456" text="Producer for National Radio and Access Americas" TYPE="TITLE" comment=""></OTHER>
-		<DATE id="P28" start="2493" end="2497" text="2153" TYPE="DATE" comment=""></DATE>
-		<NAME id="P29" start="2498" end="2502" text="ETOH" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P30" start="3754" end="3763" text="0
-1
-2
-3
-4" TYPE="PHONE" comment=""></CONTACT>
-		<LOCATION id="P31" start="3967" end="3983" text="Motor Neuropathy" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P32" start="4078" end="4083" text="RR 18" TYPE="ADDRESS1" comment=""></LOCATION>
-		<CONTACT id="P33" start="4167" end="4175" text="(0-10) 0" TYPE="PHONE" comment=""></CONTACT>
-		<CONTACT id="P34" start="4185" end="4193" text="(0-10) 2" TYPE="PHONE" comment=""></CONTACT>
-		<NAME id="P35" start="5049" end="5061" text="Scott Ocasio" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P36" start="5306" end="5315" text="Paula Xin" TYPE="PATIENT" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

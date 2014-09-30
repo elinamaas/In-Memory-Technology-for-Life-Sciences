@@ -189,40 +189,6 @@ f/u March-April
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2066-01-13" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="46" end="51" text="yo  M" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P2" start="202" end="216" text="Arval Yingling" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P3" start="1121" end="1126" text="MG SL" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<OTHER id="P4" start="1316" end="1327" text="Iv Contrast" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P5" start="1482" end="1490" text="De Grace" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P6" start="1640" end="1644" text="2061" TYPE="DATE" comment=""></DATE>
-		<NAME id="P7" start="1677" end="1681" text="etoh" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P8" start="3027" end="3045" text="Health Maintenance" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P9" start="3061" end="3071" text="01/13/2066" TYPE="DATE" comment=""></DATE>
-		<DATE id="P10" start="3128" end="3138" text="01/13/2066" TYPE="DATE" comment=""></DATE>
-		<DATE id="P11" start="3175" end="3185" text="01/13/2066" TYPE="DATE" comment=""></DATE>
-		<DATE id="P12" start="3200" end="3210" text="01/13/2066" TYPE="DATE" comment=""></DATE>
-		<DATE id="P13" start="3240" end="3250" text="01/11/2065" TYPE="DATE" comment=""></DATE>
-		<DATE id="P14" start="3321" end="3331" text="10/11/2064" TYPE="DATE" comment=""></DATE>
-		<DATE id="P15" start="3348" end="3358" text="01/11/2064" TYPE="DATE" comment=""></DATE>
-		<DATE id="P16" start="3381" end="3391" text="01/13/2066" TYPE="DATE" comment=""></DATE>
-		<DATE id="P17" start="3417" end="3427" text="04/08/2065" TYPE="DATE" comment=""></DATE>
-		<DATE id="P18" start="3445" end="3455" text="01/04/2062" TYPE="DATE" comment=""></DATE>
-		<DATE id="P19" start="3518" end="3528" text="01/13/2066" TYPE="DATE" comment=""></DATE>
-		<DATE id="P20" start="3550" end="3560" text="10/17/2064" TYPE="DATE" comment=""></DATE>
-		<DATE id="P21" start="3592" end="3602" text="03/22/2065" TYPE="DATE" comment=""></DATE>
-		<NAME id="P22" start="3627" end="3637" text="Td Booster" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P23" start="3638" end="3648" text="12/04/2064" TYPE="DATE" comment=""></DATE>
-		<DATE id="P24" start="3680" end="3690" text="04/08/2065" TYPE="DATE" comment=""></DATE>
-		<DATE id="P25" start="3701" end="3711" text="09/23/2065" TYPE="DATE" comment=""></DATE>
-		<DATE id="P26" start="3735" end="3745" text="04/08/2065" TYPE="DATE" comment=""></DATE>
-		<DATE id="P27" start="3779" end="3789" text="10/11/2064" TYPE="DATE" comment=""></DATE>
-		<DATE id="P28" start="3813" end="3823" text="09/20/2065" TYPE="DATE" comment=""></DATE>
-		<DATE id="P29" start="3866" end="3876" text="01/11/2065" TYPE="DATE" comment=""></DATE>
-		<DATE id="P30" start="3902" end="3912" text="01/13/2066" TYPE="DATE" comment=""></DATE>
-		<DATE id="P31" start="3931" end="3941" text="04/08/2065" TYPE="DATE" comment=""></DATE>
-		<DATE id="P32" start="3964" end="3974" text="09/20/2065" TYPE="DATE" comment=""></DATE>
-		<DATE id="P33" start="3988" end="3998" text="09/20/2065" TYPE="DATE" comment=""></DATE>
 
 	</TAGS>
 </deIdi2b2>

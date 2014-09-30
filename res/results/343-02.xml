@@ -149,22 +149,6 @@ Dictated by:  SHERRY PERKINS, M.D.  SP79
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2095-04-03" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="90" end="100" text="DOUGLAS JR" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P2" start="103" end="114" text="201-63-51-2" TYPE="IDNUM" comment=""></ID>
-		<CONTACT id="P3" start="103" end="114" text="201-63-51-2" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P4" start="142" end="150" text="04/03/95" TYPE="DATE" comment=""></DATE>
-		<NAME id="P5" start="279" end="286" text="Killian" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P6" start="379" end="396" text="December 18, 2094" TYPE="DATE" comment=""></DATE>
-		<DATE id="P7" start="1124" end="1128" text="2083" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P8" start="1667" end="1680" text="VITAL 
-
-SIGNS" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P9" start="3692" end="3698" text="ED Obs" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P10" start="3930" end="3940" text="VN983/2356" TYPE="IDNUM" comment=""></ID>
-		<NAME id="P11" start="3942" end="3956" text="SHERRY PERKINS" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P12" start="4089" end="4103" text="SHERRY PERKINS" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P13" start="4144" end="4163" text="Attending Physician" TYPE="PROP_MISC" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

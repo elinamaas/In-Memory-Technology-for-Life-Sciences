@@ -61,33 +61,6 @@ Pager #36472
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2134-11-09" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="72" end="84" text="George Quinn" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P2" start="89" end="96" text="7924118" TYPE="PHONE" comment=""></CONTACT>
-		<ID id="P3" start="89" end="96" text="7924118" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P4" start="116" end="133" text="November 09, 2134" TYPE="DATE" comment=""></DATE>
-		<NAME id="P5" start="140" end="158" text="Michael Quakenbush" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P6" start="176" end="191" text="Ivory
-Attending" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P7" start="193" end="204" text="Inglis
-Code" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P8" start="234" end="245" text="Tammy Quinn" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P9" start="246" end="258" text="746-313-1881" TYPE="PHONE" comment=""></CONTACT>
-		<OTHER id="P10" start="537" end="545" text="Circ PCI" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P11" start="580" end="595" text="Ischemia     Pt" TYPE="GEO_FEATURE/LAND" comment=""></OTHER>
-		<OTHER id="P12" start="1367" end="1380" text="Pump     Echo" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P13" start="1580" end="1594" text="Rhythym     Pt" TYPE="GEO_FEATURE/LAND" comment=""></OTHER>
-		<LOCATION id="P14" start="1831" end="1837" text="QD
-ASA" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<OTHER id="P15" start="1845" end="1854" text="QD
-Plavix" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P16" start="1861" end="1871" text="QD
-Lovenox" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P17" start="1897" end="1910" text="TID
-Captopril" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P18" start="2076" end="2088" text="Eric Donovan" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P19" start="2101" end="2115" text="2
-Pager #36472" TYPE="ADDRESS1" comment=""></LOCATION>
 
 	</TAGS>
 </deIdi2b2>

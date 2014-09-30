@@ -95,30 +95,6 @@ DT:5-13-84
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2084-05-12" TYPE="DATE" comment=""></DATE>
-		<CONTACT id="P1" start="87" end="100" text="958) 291-8310" TYPE="PHONE" comment=""></CONTACT>
-		<LOCATION id="P2" start="101" end="126" text="GEORGIA REGIONAL HOSPITAL" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<DATE id="P3" start="127" end="139" text="May 12, 2084" TYPE="DATE" comment=""></DATE>
-		<NAME id="P4" start="147" end="159" text="Brit Eastman" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P5" start="166" end="195" text="3793 Rhode Island Avenue
-East" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P6" start="209" end="218" text="GA  13756" TYPE="ADDRESS2" comment=""></LOCATION>
-		<NAME id="P7" start="226" end="230" text="Lara" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P8" start="232" end="237" text="Uriah" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P9" start="243" end="251" text="62115644" TYPE="IDNUM" comment=""></ID>
-		<NAME id="P10" start="263" end="270" text="Eastman" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P11" start="308" end="318" text="Uriah Lara" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P12" start="326" end="333" text="Georgia" TYPE="COUNTRY" comment=""></LOCATION>
-		<OTHER id="P13" start="326" end="333" text="Georgia" TYPE="REGION/MAJOR" comment=""></OTHER>
-		<DATE id="P14" start="1065" end="1073" text="Saturday" TYPE="DATE" comment=""></DATE>
-		<DATE id="P15" start="1147" end="1153" text="Sunday" TYPE="DATE" comment=""></DATE>
-		<DATE id="P16" start="1196" end="1202" text="Sunday" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P17" start="1792" end="1819" text="pilot for Frontier Airlines" TYPE="TITLE" comment=""></OTHER>
-		<NAME id="P18" start="2018" end="2030" text="Brit Eastman" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P19" start="2037" end="2049" text="May 12, 2084" TYPE="DATE" comment=""></DATE>
-		<NAME id="P20" start="2680" end="2684" text="Lara" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P21" start="3134" end="3146" text="Olivia Levin" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P22" start="3228" end="3246" text="Attending Provider" TYPE="PROP_MISC" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

@@ -33,18 +33,44 @@ public class DatabaseManagement {
 	    con = DriverManager.getConnection("jdbc:sap://"+host+":"+port, user, password);
 	}
 	
-	public void truncateTable() throws SQLException{
+	public void truncateTrainingTable() throws SQLException{
 		Statement stmt = con.createStatement();
-//	    stmt.executeUpdate("truncate table \"DE_INDENTIFICATION\".\"TEST_SET\"");
 	    stmt.executeUpdate("truncate table \"DE_INDENTIFICATION\".\"TRAINING_SET\"");
 
 	}
 	
-	public void insertDocText(String fileName, String text) throws SQLException{
-//		PreparedStatement pstmt = con.prepareStatement(("insert into \"DE_INDENTIFICATION\".\"TEST_SET\" (\"ID\", \"TEXT\") VALUES ('" + fileName + "','" + text +"')"));
+	public void truncateTestTable() throws SQLException{
+		Statement stmt = con.createStatement();
+	    stmt.executeUpdate("truncate table \"DE_INDENTIFICATION\".\"TEST_SET\"");
+
+	}
+	
+	public void insertDocTextTraining(String fileName, String text) throws SQLException{
 		PreparedStatement pstmt = con.prepareStatement(("insert into \"DE_INDENTIFICATION\".\"TRAINING_SET\" (\"ID\", \"TEXT\") VALUES ('" + fileName + "','" + text +"')"));
 
 		pstmt.execute();	 
+	}
+	
+	public void insertDocTextTest(String fileName, String text) throws SQLException{
+		PreparedStatement pstmt = con.prepareStatement(("insert into \"DE_INDENTIFICATION\".\"TEST_SET\" (\"ID\", \"TEXT\") VALUES ('" + fileName + "','" + text +"')"));
+
+		pstmt.execute();	 
+	}
+	
+	public void buildIndexTraining () throws SQLException{
+		PreparedStatement pstmt = con.prepareStatement("CREATE FULLTEXT INDEX \"DE_INDENTIFICATION\".\"TRAININGSET_INDEX\" "
+				+ "ON \"DE_INDENTIFICATION\".\"TRAINING_SET\"(TEXT) "
+				+ "CONFIGURATION 'phi_idRules.xml' TEXT ANALYSIS on ");
+		pstmt.execute();
+				
+	}
+	
+	public void buildIndexTest () throws SQLException{
+		PreparedStatement pstmt = con.prepareStatement("CREATE FULLTEXT INDEX \"DE_INDENTIFICATION\".\"TESTSET_INDEX\" "
+				+ " ON \"DE_INDENTIFICATION\".\"TEST_SET\"(TEXT) "
+				+ "CONFIGURATION 'phi_idRules.xml' TEXT ANALYSIS on ");
+		pstmt.execute();
+				
 	}
 	
 }

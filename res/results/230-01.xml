@@ -74,34 +74,6 @@ Resident in Surgery
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2078-05-31" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="45" end="64" text="H&amp;P
-Ulysses Richard" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P2" start="65" end="72" text="8913196" TYPE="IDNUM" comment=""></ID>
-		<CONTACT id="P3" start="65" end="72" text="8913196" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P4" start="73" end="85" text="May 31, 2078" TYPE="DATE" comment=""></DATE>
-		<NAME id="P5" start="97" end="103" text="Mosley" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P6" start="115" end="121" text="Snyder" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P7" start="130" end="137" text="Allison" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P8" start="163" end="170" text="Benitez" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P9" start="175" end="182" text="Richard" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P10" start="644" end="702" text="CHF
-	Atrial Fibrillation
-	Nephrolithiasis
-	Spinal Stenosis" TYPE="PROP_MISC" comment=""></OTHER>
-		<LOCATION id="P11" start="773" end="781" text="BID
-	ASA" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P12" start="945" end="951" text="ASA
-SH" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P13" start="1004" end="1033" text="RA
-NAD
-Chest CTAB
-Heart Irreg" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P14" start="1041" end="1048" text="SEM
-Abd" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P15" start="1130" end="1147" text="Rad	Fem	Pop	DP	PT" TYPE="GEO_FEATURE/LAND" comment=""></OTHER>
-		<OTHER id="P16" start="1317" end="1327" text="IV Heparin" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P17" start="1357" end="1372" text="Richard Benitez" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

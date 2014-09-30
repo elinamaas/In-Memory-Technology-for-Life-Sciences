@@ -308,40 +308,6 @@ THIS IS A COPY PRODUCED FOR THE LMR. THE ORGINAL IS STORED ON THE BRIGHTPOINT SE
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2068-03-25" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P1" start="1037" end="1048" text="VITAL SIGNS" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P2" start="1063" end="1073" text="03/25/2068" TYPE="DATE" comment=""></DATE>
-		<DATE id="P3" start="1075" end="1083" text="12:29 PM" TYPE="DATE" comment=""></DATE>
-		<NAME id="P4" start="1087" end="1108" text="rosenberg
-Respiration" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P5" start="1163" end="1171" text="140 / 90" TYPE="PHONE" comment=""></CONTACT>
-		<OTHER id="P6" start="2279" end="2299" text="Known Drug Allergies" TYPE="PROP_MISC" comment=""></OTHER>
-		<DATE id="P7" start="2300" end="2310" text="04/17/2067" TYPE="DATE" comment=""></DATE>
-		<NAME id="P8" start="2311" end="2320" text="rosenberg" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P9" start="2405" end="2414" text="rosenberg" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P10" start="2453" end="2463" text="03/25/2068" TYPE="DATE" comment=""></DATE>
-		<NAME id="P11" start="2466" end="2475" text="rosenberg" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P12" start="2531" end="2540" text="rosenberg" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P13" start="2578" end="2588" text="03/25/2068" TYPE="DATE" comment=""></DATE>
-		<NAME id="P14" start="2591" end="2600" text="rosenberg" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P15" start="2654" end="2663" text="rosenberg" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P16" start="2701" end="2711" text="01/13/2074" TYPE="DATE" comment=""></DATE>
-		<NAME id="P17" start="2714" end="2723" text="rosenberg" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P18" start="2786" end="2792" text="emmons" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P19" start="2831" end="2841" text="01/29/2068" TYPE="DATE" comment=""></DATE>
-		<NAME id="P20" start="2844" end="2850" text="emmons" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P21" start="2952" end="2962" text="03/11/2074" TYPE="DATE" comment=""></DATE>
-		<NAME id="P22" start="3022" end="3031" text="rosenberg" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P23" start="3070" end="3080" text="11/20/2067" TYPE="DATE" comment=""></DATE>
-		<NAME id="P24" start="3083" end="3092" text="rosenberg" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P25" start="3147" end="3156" text="rosenberg" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P26" start="3212" end="3221" text="rosenberg" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P27" start="3250" end="3260" text="11/25/2065" TYPE="DATE" comment=""></DATE>
-		<DATE id="P28" start="3267" end="3277" text="11/25/2065" TYPE="DATE" comment=""></DATE>
-		<NAME id="P29" start="3525" end="3533" text="ASA, MVI" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P30" start="3795" end="3806" text="ADA Step II" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P31" start="4673" end="4684" text="BRIGHTPOINT" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P32" start="4695" end="4727" text="COLUMBIA KINGWOOD MEDICAL CENTER" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
 
 	</TAGS>
 </deIdi2b2>

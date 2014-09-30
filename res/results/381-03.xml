@@ -102,32 +102,6 @@ Faye Easley, NP
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2092-12-26" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P1" start="56" end="68" text="CC    
-Asked" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P2" start="76" end="80" text="Katz" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P3" start="390" end="394" text="2079" TYPE="DATE" comment=""></DATE>
-		<DATE id="P4" start="496" end="502" text="6:30pm" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P5" start="968" end="989" text="Ames Pathology Center" TYPE="ORGANIZATION/OTHER" comment=""></LOCATION>
-		<OTHER id="P6" start="968" end="989" text="Ames Pathology Center" TYPE="FACILITY/BUILDGROUNDS" comment=""></OTHER>
-		<DATE id="P7" start="1612" end="1615" text="4am" TYPE="DATE" comment=""></DATE>
-		<DATE id="P8" start="1623" end="1626" text="9am" TYPE="DATE" comment=""></DATE>
-		<DATE id="P9" start="1638" end="1642" text="11am" TYPE="DATE" comment=""></DATE>
-		<DATE id="P10" start="1688" end="1691" text="1pm" TYPE="DATE" comment=""></DATE>
-		<DATE id="P11" start="1699" end="1702" text="6pm" TYPE="DATE" comment=""></DATE>
-		<DATE id="P12" start="1710" end="1713" text="8pm" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P13" start="1956" end="1971" text="Anemia 
-Anxiety" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P14" start="1997" end="2037" text="Depression 
-Hypothyroidism 
-Palpitations" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P15" start="2045" end="2052" text="TMA
-Let" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P16" start="2244" end="2263" text="Examination
-General" TYPE="PROP_MISC" comment=""></OTHER>
-		<LOCATION id="P17" start="2852" end="2859" text="2092 NA" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P18" start="4406" end="4421" text="Kathryn Kincaid" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P19" start="4877" end="4888" text="Faye Easley" TYPE="PATIENT" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

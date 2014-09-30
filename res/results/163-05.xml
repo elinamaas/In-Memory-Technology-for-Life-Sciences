@@ -135,16 +135,6 @@ f/u 3 mos, sooner as needed.
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2084-01-10" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P1" start="90" end="96" text="Marion" TYPE="LOCALITY" comment=""></OTHER>
-		<NAME id="P2" start="90" end="96" text="Marion" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P3" start="134" end="142" text="Schaefer" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P4" start="150" end="158" text="December" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P5" start="274" end="282" text="Bumex QD" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P6" start="488" end="496" text="New Year" TYPE="HOLIDAY" comment=""></OTHER>
-		<NAME id="P7" start="1127" end="1134" text="Allegra" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P8" start="1518" end="1523" text="50MCG" TYPE="MGRS" comment=""></OTHER>
-		<NAME id="P9" start="2084" end="2092" text="Schaefer" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

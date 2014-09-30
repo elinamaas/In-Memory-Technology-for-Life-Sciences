@@ -112,33 +112,6 @@ DV: 03/18/96
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2096-03-18" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="34" end="39" text="FOUST" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P2" start="45" end="53" text="50294530" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P3" start="54" end="64" text="03/18/2096" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P4" start="69" end="86" text="Bethany Downs, MD" TYPE="ADDRESS2" comment=""></LOCATION>
-		<LOCATION id="P5" start="95" end="123" text="Internal Medicine Associates" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P6" start="124" end="143" text="08 Kent Lane, A1-49" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P7" start="144" end="165" text="Union City, MO  43733" TYPE="ADDRESS2" comment=""></LOCATION>
-		<LOCATION id="P8" start="172" end="179" text="Hungary" TYPE="COUNTRY" comment=""></LOCATION>
-		<LOCATION id="P9" start="255" end="269" text="medical school" TYPE="ORGANIZATION/EDUCATIONAL" comment=""></LOCATION>
-		<NAME id="P10" start="288" end="293" text="Downs" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P11" start="817" end="825" text="A.  Long" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P12" start="3138" end="3143" text="Bruce" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P13" start="3330" end="3337" text="Bethany" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P14" start="3330" end="3337" text="Bethany" TYPE="LOCALITY" comment=""></OTHER>
-		<NAME id="P15" start="3362" end="3371" text="Fay Foust" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P16" start="3397" end="3404" text=". Foust" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P17" start="3938" end="3947" text="Ms. Foust" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P18" start="4055" end="4064" text="8:30 a.m." TYPE="DATE" comment=""></DATE>
-		<DATE id="P19" start="4341" end="4350" text="8:30 p.m." TYPE="DATE" comment=""></DATE>
-		<NAME id="P20" start="6532" end="6539" text=". Foust" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P21" start="7874" end="7881" text=". Foust" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P22" start="8049" end="8063" text="Stephen C Rice" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P23" start="8080" end="8090" text="eScription" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P24" start="8119" end="8127" text="03/18/96" TYPE="DATE" comment=""></DATE>
-		<DATE id="P25" start="8132" end="8140" text="03/19/96" TYPE="DATE" comment=""></DATE>
-		<DATE id="P26" start="8145" end="8153" text="03/18/96" TYPE="DATE" comment=""></DATE>
 
 	</TAGS>
 </deIdi2b2>

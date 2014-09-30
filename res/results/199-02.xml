@@ -64,24 +64,6 @@ DV:12-16-84
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2084-12-16" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P1" start="28" end="59" text="FOREST HOSPITAL PHYSICIAN GROUP" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<LOCATION id="P2" start="28" end="59" text="FOREST HOSPITAL PHYSICIAN GROUP" TYPE="ORGANIZATION/OTHER" comment=""></LOCATION>
-		<NAME id="P3" start="60" end="76" text="Vincent Y. Keyes" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P4" start="128" end="132" text="Lara" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P5" start="134" end="151" text="Uriah
-Avra Valley" TYPE="GEO_FEATURE/LAND" comment=""></OTHER>
-		<CONTACT id="P6" start="156" end="192" text="12442                       62115644" TYPE="PHONE" comment=""></CONTACT>
-		<ID id="P7" start="184" end="192" text="62115644" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P8" start="239" end="247" text="12-16-84" TYPE="DATE" comment=""></DATE>
-		<NAME id="P9" start="260" end="265" text="Uriah" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P10" start="1425" end="1434" text="July 2084" TYPE="DATE" comment=""></DATE>
-		<NAME id="P11" start="1438" end="1444" text="Holter" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P12" start="1675" end="1681" text="Holter" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P13" start="1897" end="1909" text="1 at evening" TYPE="DATE" comment=""></DATE>
-		<NAME id="P14" start="2148" end="2154" text="Holter" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P15" start="2246" end="2262" text="Vincent Y. Keyes" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P16" start="2357" end="2375" text="Attending Provider" TYPE="PROP_MISC" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

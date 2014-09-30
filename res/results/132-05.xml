@@ -153,18 +153,6 @@ eScription document:9-7189367 BFFocus
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2078-05-29" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="83" end="89" text="VESTER" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P2" start="119" end="127" text="Wendy Wu" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P3" start="2645" end="2665" text="Emergency Department" TYPE="ORGANIZATION/GOVERNMENT" comment=""></LOCATION>
-		<LOCATION id="P4" start="3240" end="3260" text="Emergency Department" TYPE="ORGANIZATION/GOVERNMENT" comment=""></LOCATION>
-		<NAME id="P5" start="3833" end="3844" text="VESTER M.D." TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P6" start="3849" end="3857" text="05/29/78" TYPE="DATE" comment=""></DATE>
-		<DATE id="P7" start="3862" end="3870" text="05/30/78" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P8" start="3893" end="3911" text="VESTER
-
-eScription" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<OTHER id="P9" start="3966" end="3985" text="Attending Physician" TYPE="PROP_MISC" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

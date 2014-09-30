@@ -75,16 +75,6 @@ XC/olivas/quijano
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2083-01-30" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="28" end="39" text="COLIN RAMEY" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P2" start="55" end="64" text="433-88-47" TYPE="PHONE" comment=""></CONTACT>
-		<LOCATION id="P3" start="68" end="93" text="MISSOURI PACIFIC HOSPITAL" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<DATE id="P4" start="124" end="140" text="January 30, 2083" TYPE="DATE" comment=""></DATE>
-		<NAME id="P5" start="395" end="400" text="Ramey" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P6" start="789" end="793" text="2069" TYPE="DATE" comment=""></DATE>
-		<DATE id="P7" start="1629" end="1637" text="November" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P8" start="1749" end="1760" text="Sissonville" TYPE="LOCALITY" comment=""></OTHER>
-		<NAME id="P9" start="1869" end="1881" text="Xavier Combs" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

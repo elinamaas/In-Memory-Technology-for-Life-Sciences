@@ -49,26 +49,6 @@ DV: 06/20/74
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2074-06-20" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="74" end="123" text="St                                      JORGENSON" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P2" start="150" end="206" text="76546                                           47190847" TYPE="PHONE" comment=""></CONTACT>
-		<ID id="P3" start="198" end="206" text="47190847" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P4" start="264" end="272" text="06/20/74" TYPE="DATE" comment=""></DATE>
-		<NAME id="P5" start="275" end="285" text="Charles F." TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P6" start="296" end="317" text="66 Kessler Farm Drive" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P7" start="331" end="337" text="Jordan" TYPE="COUNTRY" comment=""></LOCATION>
-		<LOCATION id="P8" start="339" end="348" text="FL  83712" TYPE="ADDRESS2" comment=""></LOCATION>
-		<NAME id="P9" start="360" end="363" text="Van" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P10" start="427" end="436" text="Jorgenson" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P11" start="474" end="489" text="Goulds Hospital" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<NAME id="P12" start="1499" end="1518" text="Vickie Frank-Jarvis" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P13" start="1540" end="1572" text="Vickie Frank-Jarvis
-
-
-eScription" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P14" start="1607" end="1615" text="06/20/74" TYPE="DATE" comment=""></DATE>
-		<DATE id="P15" start="1620" end="1628" text="06/20/74" TYPE="DATE" comment=""></DATE>
-		<DATE id="P16" start="1633" end="1641" text="06/20/74" TYPE="DATE" comment=""></DATE>
 
 	</TAGS>
 </deIdi2b2>

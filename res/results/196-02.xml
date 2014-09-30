@@ -51,27 +51,6 @@ DV: 12/07/89
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2089-12-07" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P1" start="35" end="51" text="72 Chablis Court" TYPE="ADDRESS1" comment=""></LOCATION>
-		<NAME id="P2" start="65" end="71" text="UPSHUR" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P3" start="73" end="78" text="IRENE" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P4" start="94" end="127" text="57431                    78197017" TYPE="PHONE" comment=""></CONTACT>
-		<ID id="P5" start="119" end="127" text="78197017" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P6" start="157" end="167" text="12/07/2089" TYPE="DATE" comment=""></DATE>
-		<NAME id="P7" start="170" end="176" text="Steven" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P8" start="195" end="212" text="Memorial Hospital" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<LOCATION id="P9" start="213" end="241" text="745 Morgan Street
-Sag Harbor" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P10" start="243" end="252" text="NV  62945" TYPE="ADDRESS2" comment=""></LOCATION>
-		<NAME id="P11" start="263" end="268" text="Short" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P12" start="281" end="293" text="Irene Upshur" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P13" start="352" end="361" text="September" TYPE="DATE" comment=""></DATE>
-		<NAME id="P14" start="1813" end="1829" text="Edward T Sheehan" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P15" start="1841" end="1851" text="eScription" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<OTHER id="P16" start="1871" end="1881" text="CSSten Tel" TYPE="PROP_MISC" comment=""></OTHER>
-		<DATE id="P17" start="1889" end="1897" text="01/21/90" TYPE="DATE" comment=""></DATE>
-		<DATE id="P18" start="1902" end="1910" text="01/21/90" TYPE="DATE" comment=""></DATE>
-		<DATE id="P19" start="1915" end="1923" text="12/07/89" TYPE="DATE" comment=""></DATE>
 
 	</TAGS>
 </deIdi2b2>

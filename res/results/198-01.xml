@@ -126,18 +126,6 @@ Motor:	normal bulk and tone, no tremor, rigidity or bradykinesia, no pronator dr
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2076-07-01" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="80" end="85" text="Yusuf" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P2" start="87" end="94" text="Russell" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P3" start="102" end="109" text="1423602" TYPE="PHONE" comment=""></CONTACT>
-		<ID id="P4" start="102" end="109" text="1423602" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P5" start="117" end="124" text="7/01/76" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P6" start="1296" end="1308" text="Wolfe Clinic" TYPE="FACILITY/BUILDGROUNDS" comment=""></OTHER>
-		<NAME id="P7" start="2099" end="2103" text="ETOH" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P8" start="2209" end="2229" text="99 BP 158/89   RR 18" TYPE="ADDRESS1" comment=""></LOCATION>
-		<DATE id="P9" start="2230" end="2233" text="Sat" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P10" start="2258" end="2270" text="WD WN WM NAD" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P11" start="2349" end="2357" text="CVS 	RRR" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
 
 	</TAGS>
 </deIdi2b2>

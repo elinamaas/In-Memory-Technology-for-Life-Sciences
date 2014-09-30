@@ -63,17 +63,6 @@ eScription document:3-9073761 BFFocus
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2086-06-29" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P1" start="169" end="204" text="Zucker Hillside Hospital Department" TYPE="ORGANIZATION/GOVERNMENT" comment=""></LOCATION>
-		<NAME id="P2" start="281" end="295" text="ED Observation" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P3" start="1179" end="1199" text="Emergency Department" TYPE="ORGANIZATION/GOVERNMENT" comment=""></LOCATION>
-		<LOCATION id="P4" start="1203" end="1227" text="Zucker Hillside Hospital" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<DATE id="P5" start="1320" end="1328" text="06/30/86" TYPE="DATE" comment=""></DATE>
-		<DATE id="P6" start="1333" end="1341" text="06/30/86" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P7" start="1361" end="1382" text="G. VERNAL
-
-eScription" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<OTHER id="P8" start="1436" end="1455" text="Attending Physician" TYPE="PROP_MISC" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

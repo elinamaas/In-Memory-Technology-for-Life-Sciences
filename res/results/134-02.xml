@@ -94,22 +94,6 @@ O
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2089-05-11" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="97" end="103" text="JARVIS" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P2" start="104" end="110" text="AMADOR" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P3" start="204" end="214" text="05/11/2089" TYPE="DATE" comment=""></DATE>
-		<NAME id="P4" start="243" end="249" text="Jarvis" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P5" start="434" end="452" text="production manager" TYPE="TITLE" comment=""></OTHER>
-		<LOCATION id="P6" start="539" end="544" text="Italy" TYPE="COUNTRY" comment=""></LOCATION>
-		<LOCATION id="P7" start="549" end="555" text="Greece" TYPE="COUNTRY" comment=""></LOCATION>
-		<OTHER id="P8" start="618" end="628" text="New Mexico" TYPE="REGION/MAJOR" comment=""></OTHER>
-		<NAME id="P9" start="1672" end="1682" text="Jose Quirk" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P10" start="1978" end="1991" text="Orvell Oliver" TYPE="DOCTOR" comment=""></NAME>
-		<CONTACT id="P11" start="2102" end="2134" text="140                      135-145" TYPE="PHONE" comment=""></CONTACT>
-		<CONTACT id="P12" start="2246" end="2278" text="103                      100-108" TYPE="PHONE" comment=""></CONTACT>
-		<OTHER id="P13" start="2444" end="2457" text="Urea Nitrogen" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P14" start="2873" end="2889" text="Mean Bld Glucose" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P15" start="2942" end="2948" text="Jarvis" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

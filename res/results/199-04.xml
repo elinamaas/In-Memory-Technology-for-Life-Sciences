@@ -73,24 +73,6 @@ DT:   01/12/93
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2093-01-10" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="59" end="69" text="Uriah LARA" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P2" start="74" end="85" text="621-15-64-4" TYPE="IDNUM" comment=""></ID>
-		<CONTACT id="P3" start="74" end="85" text="621-15-64-4" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P4" start="105" end="113" text="01/10/93" TYPE="DATE" comment=""></DATE>
-		<NAME id="P5" start="121" end="134" text="Kenneth Bruce" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P6" start="140" end="161" text="92 Grand Avenue #704F" TYPE="ADDRESS1" comment=""></LOCATION>
-		<NAME id="P7" start="193" end="211" text="Collin L. Cardenas" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P8" start="292" end="299" text="CAD S/P" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P9" start="824" end="832" text="Cardenas" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P10" start="945" end="950" text="FH ER" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P11" start="1113" end="1122" text="Toprol XL" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P12" start="1483" end="1493" text="PERLA EOMI" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P13" start="2026" end="2033" text="CAD S/P" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P14" start="2268" end="2281" text="Steven Huerta" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P15" start="2293" end="2301" text="01/10/93" TYPE="DATE" comment=""></DATE>
-		<DATE id="P16" start="2309" end="2317" text="01/10/93" TYPE="DATE" comment=""></DATE>
-		<DATE id="P17" start="2325" end="2333" text="01/12/93" TYPE="DATE" comment=""></DATE>
 
 	</TAGS>
 </deIdi2b2>

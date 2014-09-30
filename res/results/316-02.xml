@@ -99,18 +99,6 @@ Dictated by:  CHRISTOPHER QUIGLEY, M.D.       CQ03
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2120-09-08" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="49" end="53" text="MARY" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P2" start="79" end="88" text="RODRIQUEZ" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P3" start="89" end="94" text="JACOB" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P4" start="97" end="108" text="863-35-65-5" TYPE="PHONE" comment=""></CONTACT>
-		<ID id="P5" start="97" end="108" text="863-35-65-5" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P6" start="143" end="151" text="09/08/20" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P7" start="1181" end="1192" text="VITAL SIGNS" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<ID id="P8" start="2289" end="2299" text="TT554/9917" TYPE="IDNUM" comment=""></ID>
-		<NAME id="P9" start="2302" end="2321" text="CHRISTOPHER QUIGLEY" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P10" start="2460" end="2479" text="CHRISTOPHER QUIGLEY" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P11" start="2525" end="2544" text="Attending Physician" TYPE="PROP_MISC" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

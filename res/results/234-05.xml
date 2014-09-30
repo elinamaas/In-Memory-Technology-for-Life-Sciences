@@ -103,26 +103,6 @@ eScription document:6-0689198 BFFocus
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2077-03-31" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="52" end="58" text="STEVEN" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P2" start="89" end="96" text="ARMANDO" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P3" start="252" end="272" text="Emergency Department" TYPE="ORGANIZATION/GOVERNMENT" comment=""></LOCATION>
-		<OTHER id="P4" start="552" end="561" text="physician" TYPE="TITLE" comment=""></OTHER>
-		<NAME id="P5" start="567" end="574" text="Nettles" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P6" start="729" end="736" text="Nettles" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P7" start="1911" end="1920" text="physician" TYPE="TITLE" comment=""></OTHER>
-		<NAME id="P8" start="1926" end="1933" text="Nettles" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P9" start="1947" end="1953" text="Benson" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P10" start="1983" end="1989" text="Benson" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P11" start="2238" end="2246" text="DELACRUZ" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P12" start="2248" end="2260" text="ARMANDO M.D." TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P13" start="2265" end="2273" text="03/31/77" TYPE="DATE" comment=""></DATE>
-		<DATE id="P14" start="2278" end="2286" text="03/31/77" TYPE="DATE" comment=""></DATE>
-		<NAME id="P15" start="2301" end="2309" text="DELACRUZ" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P16" start="2311" end="2330" text="ARMANDO
-
-eScription" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<OTHER id="P17" start="2385" end="2404" text="Attending Physician" TYPE="PROP_MISC" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

@@ -40,23 +40,6 @@ Dictated by: Quanisha Logan, PA-C
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2078-09-17" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="30" end="39" text="HENDRICKS" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P2" start="41" end="47" text="HANNAH" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P3" start="48" end="56" text="75322175" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P4" start="57" end="67" text="09/17/2078" TYPE="DATE" comment=""></DATE>
-		<NAME id="P5" start="76" end="83" text="Schmidt" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P6" start="90" end="107" text="47 Clinton Street" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P7" start="119" end="136" text="Decatur, WI 33955" TYPE="ADDRESS2" comment=""></LOCATION>
-		<NAME id="P8" start="148" end="155" text="Schmidt" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P9" start="172" end="188" text="Hannah Hendricks" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P10" start="201" end="215" text="Surgery Clinic" TYPE="FACILITY/BUILDGROUNDS" comment=""></OTHER>
-		<LOCATION id="P11" start="201" end="215" text="Surgery Clinic" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<DATE id="P12" start="432" end="443" text="May 3, 2078" TYPE="DATE" comment=""></DATE>
-		<NAME id="P13" start="1253" end="1259" text="Hannah" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P14" start="1786" end="1797" text="Hunter Shea" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P15" start="1826" end="1831" text="Logan" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P16" start="1826" end="1831" text="Logan" TYPE="LOCALITY" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

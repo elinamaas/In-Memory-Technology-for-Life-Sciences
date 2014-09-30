@@ -65,21 +65,6 @@ UL:30614     :7550
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2088-05-21" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="42" end="48" text="CURTIS" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P2" start="60" end="67" text="7682941" TYPE="IDNUM" comment=""></ID>
-		<CONTACT id="P3" start="60" end="67" text="7682941" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P4" start="82" end="90" text="05/21/88" TYPE="DATE" comment=""></DATE>
-		<NAME id="P5" start="94" end="109" text="VICTOR R. GOMES" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P6" start="124" end="130" text="Curtis" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P7" start="571" end="577" text="Geiger" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P8" start="1698" end="1706" text="11/14/87" TYPE="DATE" comment=""></DATE>
-		<NAME id="P9" start="2119" end="2134" text="Victor R. Gomes" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P10" start="2150" end="2153" text="cc:" TYPE="NAME_DESIGNATOR" comment=""></OTHER>
-		<NAME id="P11" start="2154" end="2168" text="William Geiger" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P12" start="2176" end="2197" text="Allina Medical Clinic" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<NAME id="P13" start="2201" end="2209" text="Hinckley" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P14" start="2211" end="2228" text="Internal Medicine" TYPE="PROP_MISC" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

@@ -81,23 +81,6 @@ FN/warren/forbes
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2094-05-20" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="28" end="39" text="ZELDA UPHAM" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P2" start="41" end="49" text="SMC Unit" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P3" start="59" end="79" text="MOLLY STARK HOSPITAL" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<DATE id="P4" start="110" end="122" text="May 20, 2094" TYPE="DATE" comment=""></DATE>
-		<NAME id="P5" start="165" end="169" text="AMED" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P6" start="593" end="597" text="2062" TYPE="DATE" comment=""></DATE>
-		<NAME id="P7" start="650" end="654" text="Qazi" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P8" start="729" end="734" text="Faust" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P9" start="824" end="831" text="Solomon" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P10" start="1965" end="1969" text="1:40" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P11" start="2262" end="2266" text="TCDs" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<OTHER id="P12" start="2329" end="2336" text="RVA WNL" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P13" start="2443" end="2457" text="Nonspecific ST" TYPE="FACILITY/PATH" comment=""></OTHER>
-		<OTHER id="P14" start="3251" end="3264" text="Chronic NSAID" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P15" start="3358" end="3373" text="Helen Whitehead" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P16" start="3396" end="3413" text="Frieda Nadeau, RN" TYPE="PATIENT" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

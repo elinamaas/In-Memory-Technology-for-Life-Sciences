@@ -14,39 +14,6 @@ Physical exam: In no acute distress.  Blood pressure is 126/78.  Pulse is 70 and
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2070-01-23" TYPE="DATE" comment=""></DATE>
-		<DATE id="P1" start="236" end="241" text="March" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P2" start="623" end="633" text="L. Medical" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P3" start="676" end="681" text="Arval" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P4" start="1595" end="1599" text="etoh" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P5" start="1621" end="1625" text="Fri." TYPE="DATE" comment=""></DATE>
-		<OTHER id="P6" start="2135" end="2158" text="Asbestosis Positive PPD" TYPE="PROP_MISC" comment=""></OTHER>
-		<DATE id="P7" start="2222" end="2231" text="June 2068" TYPE="DATE" comment=""></DATE>
-		<DATE id="P8" start="2240" end="2252" text="January 2069" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P9" start="2356" end="2367" text="Iv Contrast" TYPE="PROP_MISC" comment=""></OTHER>
-		<LOCATION id="P10" start="2449" end="2476" text="Health MaintCholesterol-HDL" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P11" start="2477" end="2487" text="12/05/2069" TYPE="DATE" comment=""></DATE>
-		<DATE id="P12" start="2507" end="2517" text="12/05/2069" TYPE="DATE" comment=""></DATE>
-		<DATE id="P13" start="2552" end="2562" text="05/13/2067" TYPE="DATE" comment=""></DATE>
-		<DATE id="P14" start="2603" end="2613" text="10/02/2069" TYPE="DATE" comment=""></DATE>
-		<DATE id="P15" start="2632" end="2642" text="03/13/2069" TYPE="DATE" comment=""></DATE>
-		<DATE id="P16" start="2661" end="2671" text="03/13/2069" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P17" start="2676" end="2688" text="Ophthal Exam" TYPE="PROP_MISC" comment=""></OTHER>
-		<DATE id="P18" start="2689" end="2699" text="09/23/2070" TYPE="DATE" comment=""></DATE>
-		<DATE id="P19" start="2704" end="2714" text="05/25/2069" TYPE="DATE" comment=""></DATE>
-		<NAME id="P20" start="2720" end="2730" text="Td Booster" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P21" start="2731" end="2741" text="12/04/2064" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P22" start="2787" end="2824" text="1-2 PUFFS PO QID PRN prn cough/sob #1" TYPE="ADDRESS1" comment=""></LOCATION>
-		<OTHER id="P23" start="3025" end="3031" text="CAP.SR" TYPE="URI/URL" comment=""></OTHER>
-		<LOCATION id="P24" start="3052" end="3063" text="14 days #14" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P25" start="3097" end="3118" text="1 Tablet(s) PO QD #90" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P26" start="3706" end="3715" text="TABLET SA" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P27" start="3888" end="3902" text="20MG TABLET DR" TYPE="ADDRESS1" comment=""></LOCATION>
-		<OTHER id="P28" start="4073" end="4079" text="TAB.SR" TYPE="URI/URL" comment=""></OTHER>
-		<OTHER id="P29" start="4179" end="4197" text="Tablet(s)
-Physical" TYPE="PROP_MISC" comment=""></OTHER>
-		<LOCATION id="P30" start="4545" end="4554" text="Normal S1" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<OTHER id="P31" start="5183" end="5187" text="CT.4" TYPE="CURRENCY" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

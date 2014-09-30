@@ -91,34 +91,6 @@ DV: 05/21/60
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2060-05-21" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="34" end="38" text="HESS" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P2" start="34" end="38" text="HESS" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P3" start="40" end="48" text="CLARENCE" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P4" start="50" end="58" text="64365595" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P5" start="60" end="70" text="05/21/2060" TYPE="DATE" comment=""></DATE>
-		<NAME id="P6" start="76" end="92" text="Robert Y. Gordon" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P7" start="123" end="128" text="Olney" TYPE="LOCALITY" comment=""></OTHER>
-		<LOCATION id="P8" start="130" end="148" text="494 Fairhaven Road" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P9" start="150" end="166" text="Olney, OH  23751" TYPE="ADDRESS2" comment=""></LOCATION>
-		<NAME id="P10" start="179" end="185" text="Gordon" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P11" start="223" end="227" text="Hess" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P12" start="360" end="370" text="02/11/2060" TYPE="DATE" comment=""></DATE>
-		<NAME id="P13" start="404" end="410" text="Holter" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P14" start="857" end="861" text="Hess" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P15" start="1122" end="1140" text="Wheatland Memorial" TYPE="FACILITY/BUILDGROUNDS" comment=""></OTHER>
-		<NAME id="P16" start="1866" end="1870" text="Hess" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P17" start="2361" end="2365" text="Hess" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P18" start="2495" end="2503" text="Quatrell" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P19" start="2504" end="2511" text="Swanson" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P20" start="2564" end="2568" text="Hess" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P21" start="2599" end="2602" text="Law" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P22" start="2658" end="2662" text="Hess" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P23" start="2846" end="2858" text="Trujillo, MD" TYPE="ADDRESS2" comment=""></LOCATION>
-		<LOCATION id="P24" start="2870" end="2880" text="eScription" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P25" start="2937" end="2945" text="06/02/60" TYPE="DATE" comment=""></DATE>
-		<DATE id="P26" start="2951" end="2959" text="06/02/60" TYPE="DATE" comment=""></DATE>
-		<DATE id="P27" start="2965" end="2973" text="05/21/60" TYPE="DATE" comment=""></DATE>
 
 	</TAGS>
 </deIdi2b2>

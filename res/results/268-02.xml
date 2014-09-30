@@ -225,21 +225,6 @@ Signed electronically by Riddle, Rhonda on Mar 31, 2092
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2092-03-17" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P1" start="62" end="86" text="HOLDEN DISTRICT HOSPITAL" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<DATE id="P2" start="1192" end="1205" text="November 2091" TYPE="DATE" comment=""></DATE>
-		<DATE id="P3" start="1608" end="1620" text="January 2092" TYPE="DATE" comment=""></DATE>
-		<DATE id="P4" start="3841" end="3850" text="2/06/2087" TYPE="DATE" comment=""></DATE>
-		<DATE id="P5" start="3898" end="3907" text="3/25/2087" TYPE="DATE" comment=""></DATE>
-		<DATE id="P6" start="3960" end="3970" text="03/17/2092" TYPE="DATE" comment=""></DATE>
-		<DATE id="P7" start="4060" end="4071" text="August 2081" TYPE="DATE" comment=""></DATE>
-		<DATE id="P8" start="4149" end="4158" text="June 2088" TYPE="DATE" comment=""></DATE>
-		<DATE id="P9" start="4211" end="4220" text="June 2087" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P10" start="4579" end="4593" text="retired pastor" TYPE="TITLE" comment=""></OTHER>
-		<DATE id="P11" start="4918" end="4930" text="January 2092" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P12" start="5614" end="5629" text="Cor   Normal S1" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P13" start="7126" end="7132" text="Rhonda" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P14" start="7136" end="7148" text="Mar 31, 2092" TYPE="DATE" comment=""></DATE>
 
 	</TAGS>
 </deIdi2b2>

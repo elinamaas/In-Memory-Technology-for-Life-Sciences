@@ -79,18 +79,6 @@ Dictated by:  YVES BLACKBURN, M.D.       HB79
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2082-11-22" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="78" end="84" text="FINNEY" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P2" start="85" end="92" text="INDIANA" TYPE="REGION/MAJOR" comment=""></OTHER>
-		<ID id="P3" start="95" end="106" text="432-94-73-9" TYPE="IDNUM" comment=""></ID>
-		<CONTACT id="P4" start="95" end="106" text="432-94-73-9" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P5" start="136" end="144" text="11/22/82" TYPE="DATE" comment=""></DATE>
-		<NAME id="P6" start="217" end="227" text="Ms. Finney" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P7" start="876" end="887" text="VITAL SIGNS" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<ID id="P8" start="1754" end="1764" text="TJ371/9248" TYPE="IDNUM" comment=""></ID>
-		<NAME id="P9" start="1767" end="1781" text="YVES BLACKBURN" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P10" start="1918" end="1932" text="YVES BLACKBURN" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P11" start="1978" end="1997" text="Attending Physician" TYPE="PROP_MISC" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

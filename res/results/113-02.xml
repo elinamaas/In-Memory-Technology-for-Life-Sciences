@@ -183,18 +183,6 @@ Dictated by:  KEITH TOLLIVER, M.D.       KT40
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2088-08-03" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="49" end="56" text="DAMERON" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P2" start="82" end="92" text="VALENZUELA" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P3" start="93" end="98" text="BRIAN" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P4" start="101" end="112" text="036-89-96-4" TYPE="PHONE" comment=""></CONTACT>
-		<ID id="P5" start="101" end="112" text="036-89-96-4" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P6" start="537" end="541" text="2063" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P7" start="1440" end="1451" text="VITAL SIGNS" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P8" start="2884" end="2889" text="Foley" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P9" start="5118" end="5132" text="KEITH TOLLIVER" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P10" start="5271" end="5285" text="KEITH TOLLIVER" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P11" start="5331" end="5350" text="Attending Physician" TYPE="PROP_MISC" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

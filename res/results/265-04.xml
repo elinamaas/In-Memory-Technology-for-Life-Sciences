@@ -116,22 +116,6 @@ Cochran, Patricia Hannah, M.D.
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2070-06-15" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P1" start="31" end="94" text="JELLICO COMMUNITY HOSPITAL
-Jellico Internal Medicine Associates" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P2" start="109" end="126" text="Elwood, OH  49817" TYPE="ADDRESS2" comment=""></LOCATION>
-		<ID id="P3" start="140" end="148" text="73235790" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P4" start="149" end="157" text="06/15/70" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P5" start="214" end="230" text="African American" TYPE="PROP_MISC" comment=""></OTHER>
-		<DATE id="P6" start="1385" end="1389" text="2061" TYPE="DATE" comment=""></DATE>
-		<DATE id="P7" start="1604" end="1608" text="2063" TYPE="DATE" comment=""></DATE>
-		<DATE id="P8" start="1748" end="1752" text="2067" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P9" start="2350" end="2359" text="secretary" TYPE="TITLE" comment=""></OTHER>
-		<ID id="P10" start="2561" end="2569" text="73235790" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P11" start="2570" end="2578" text="06/15/70" TYPE="DATE" comment=""></DATE>
-		<NAME id="P12" start="3812" end="3823" text="Yale Jordan" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P13" start="4284" end="4291" text="Cochran" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P14" start="4293" end="4308" text="Patricia Hannah" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

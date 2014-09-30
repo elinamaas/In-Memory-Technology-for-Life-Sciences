@@ -150,46 +150,6 @@ PGY-2 Medicine
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2072-11-16" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="79" end="83" text="Vera" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P2" start="90" end="97" text="2152363" TYPE="IDNUM" comment=""></ID>
-		<CONTACT id="P3" start="90" end="97" text="2152363" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P4" start="117" end="127" text="11/16/2072" TYPE="DATE" comment=""></DATE>
-		<NAME id="P5" start="139" end="151" text="Hodges
-Cards" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P6" start="160" end="171" text="Steven Vega" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P7" start="177" end="199" text="Dr. Xavier Huerta
-Code" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P8" start="252" end="255" text="DM2" TYPE="CURRENCY" comment=""></OTHER>
-		<DATE id="P9" start="297" end="301" text="2069" TYPE="DATE" comment=""></DATE>
-		<NAME id="P10" start="957" end="961" text="levo" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P11" start="1043" end="1047" text="METS" TYPE="ORGANIZATION/SPORTS" comment=""></LOCATION>
-		<DATE id="P12" start="1478" end="1482" text="2069" TYPE="DATE" comment=""></DATE>
-		<DATE id="P13" start="1575" end="1579" text="2068" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P14" start="1851" end="1863" text="QD 
-Atenolol" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P15" start="1872" end="1883" text="QD 
-Avandia" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P16" start="1914" end="1928" text="QD 
-Clobetasol" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P17" start="2080" end="2099" text="Multivitamin W/IRON" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P18" start="2109" end="2123" text="QD 
-Omeprazole" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P19" start="2143" end="2154" text="QD 
-Vytorin" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P20" start="2184" end="2190" text="QD
-Tng" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P21" start="2286" end="2291" text="10MEQ" TYPE="MGRS" comment=""></OTHER>
-		<DATE id="P22" start="2416" end="2420" text="1000" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P23" start="2428" end="2439" text="QD 
-Zestril" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P24" start="2935" end="2942" text="LAN
-Cor" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P25" start="2949" end="2954" text="nl S1" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P26" start="3924" end="3929" text="LENIs" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P27" start="4239" end="4247" text="cont ASA" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P28" start="5092" end="5148" text="Frederick, MD                               
-Pager 00212" TYPE="ADDRESS2" comment=""></LOCATION>
 
 	</TAGS>
 </deIdi2b2>

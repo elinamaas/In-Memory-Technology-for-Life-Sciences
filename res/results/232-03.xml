@@ -165,34 +165,6 @@ John Ingle MD.
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2098-02-12" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="70" end="88" text="Dr. John Ingle
-DOA" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P2" start="97" end="105" text="02/12/98" TYPE="DATE" comment=""></DATE>
-		<NAME id="P3" start="198" end="202" text="yo F" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P4" start="208" end="215" text="ho ESRD" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P5" start="242" end="246" text="2 DM" TYPE="CURRENCY" comment=""></OTHER>
-		<NAME id="P6" start="313" end="317" text="abdo" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P7" start="370" end="377" text="English" TYPE="PEOPLE" comment=""></OTHER>
-		<DATE id="P8" start="927" end="931" text="2096" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P9" start="1382" end="1400" text="prnCalcium Acetate" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P10" start="1430" end="1459" text="TIDCholestyramine Resin Dried" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P11" start="1539" end="1557" text="BIDOndansetron Hcl" TYPE="PROP_MISC" comment=""></OTHER>
-		<LOCATION id="P12" start="1594" end="1599" text="MG IV" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<OTHER id="P13" start="1716" end="1739" text="TIDAcetylsalicylic Acid" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P14" start="1760" end="1778" text="QDInsulin Glargine" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P15" start="1823" end="1841" text="QPMHydralazine Hcl" TYPE="PROP_MISC" comment=""></OTHER>
-		<LOCATION id="P16" start="1851" end="1858" text="QID prn" TYPE="ORGANIZATION/MEDIA" comment=""></LOCATION>
-		<LOCATION id="P17" start="2109" end="2118" text="normal S1" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P18" start="2195" end="2199" text="Abdo" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P19" start="2264" end="2284" text="Results02/12/2098 NA" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P20" start="2339" end="2364" text="CRE 3.47 (H)02/12/2098 NA" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P21" start="2492" end="2496" text="2098" TYPE="DATE" comment=""></DATE>
-		<NAME id="P22" start="2969" end="2976" text="Treat K" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P23" start="3409" end="3429" text="Calvin Stanley Tripp" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P24" start="4083" end="4095" text="Resume po BP" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P25" start="4133" end="4143" text="John Ingle" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P26" start="4144" end="4147" text="MD." TYPE="REGION/MAJOR" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

@@ -63,30 +63,6 @@ DT:   08/2150
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2060-08-05" TYPE="DATE" comment=""></DATE>
-		<DATE id="P1" start="33" end="46" text="5 August 2060" TYPE="DATE" comment=""></DATE>
-		<NAME id="P2" start="61" end="68" text="Swanson" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P3" start="98" end="126" text="Barney Convalescent Hospital" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<NAME id="P4" start="134" end="150" text="Clarence H. HESS" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P5" start="157" end="168" text="643-65-59-5" TYPE="IDNUM" comment=""></ID>
-		<CONTACT id="P6" start="157" end="168" text="643-65-59-5" TYPE="PHONE" comment=""></CONTACT>
-		<NAME id="P7" start="181" end="188" text="Swanson" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P8" start="226" end="239" text="Clarence Hess" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P9" start="374" end="377" text="Una" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P10" start="378" end="386" text="Trujillo" TYPE="LOCALITY" comment=""></OTHER>
-		<NAME id="P11" start="378" end="386" text="Trujillo" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P12" start="390" end="404" text="February, 2060" TYPE="DATE" comment=""></DATE>
-		<DATE id="P13" start="493" end="503" text="June, 2060" TYPE="DATE" comment=""></DATE>
-		<NAME id="P14" start="612" end="627" text="Leslie Campbell" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P15" start="631" end="639" text="08/04/60" TYPE="DATE" comment=""></DATE>
-		<NAME id="P16" start="1783" end="1796" text="Brittany Witt" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P17" start="1812" end="1815" text="cc:" TYPE="NAME_DESIGNATOR" comment=""></OTHER>
-		<NAME id="P18" start="1816" end="1832" text="Robert Y. Gordon" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P19" start="1838" end="1856" text="301 Fairhaven Road" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P20" start="1858" end="1873" text="Olney, OH 23751" TYPE="ADDRESS2" comment=""></LOCATION>
-		<LOCATION id="P21" start="1880" end="1892" text="Trujillo, MD" TYPE="ADDRESS2" comment=""></LOCATION>
-		<DATE id="P22" start="1917" end="1925" text="08/05/60" TYPE="DATE" comment=""></DATE>
-		<DATE id="P23" start="1933" end="1941" text="08/05/60" TYPE="DATE" comment=""></DATE>
 
 	</TAGS>
 </deIdi2b2>

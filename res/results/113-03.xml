@@ -177,24 +177,6 @@ eScription document:7-8396761 BFFocus
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2092-10-15" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="131" end="135" text="Otis" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P2" start="524" end="529" text="Foley" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P3" start="601" end="611" text="10:00 a.m." TYPE="DATE" comment=""></DATE>
-		<NAME id="P4" start="3780" end="3785" text="Foley" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P5" start="3792" end="3801" text="2:00 p.m." TYPE="DATE" comment=""></DATE>
-		<NAME id="P6" start="3877" end="3882" text="Foley" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P7" start="4363" end="4377" text="ED Observation" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P8" start="4470" end="4486" text="Medicine Service" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P9" start="4515" end="4529" text="ED Observation" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P10" start="4569" end="4575" text="BENSON" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P11" start="4591" end="4599" text="10/15/92" TYPE="DATE" comment=""></DATE>
-		<DATE id="P12" start="4604" end="4612" text="10/15/92" TYPE="DATE" comment=""></DATE>
-		<NAME id="P13" start="4627" end="4633" text="BENSON" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P14" start="4635" end="4653" text="KAILEE
-
-eScription" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<OTHER id="P15" start="4708" end="4727" text="Attending Physician" TYPE="PROP_MISC" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

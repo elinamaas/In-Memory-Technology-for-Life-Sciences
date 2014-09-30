@@ -7,12 +7,16 @@ import java.sql.SQLException;
 
 import opennlp.tools.util.InvalidFormatException;
 
-public class EvaluationMain 
+public class Evaluation 
 {	
 	private static String folderPath = "res/testingSet/";
 	private static String resulFolderPath = "res/results/";
 
-public static void main(String[] args) throws SQLException, InvalidFormatException, IOException {
+	public Evaluation(){
+		
+	}
+	
+	public  void runEvaluation () throws SQLException, InvalidFormatException, IOException {
 	
 	DatabaseManagement dbMan = new DatabaseManagement();			
 	File folder = new File(folderPath);

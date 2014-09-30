@@ -173,22 +173,6 @@ Signed electronically by   Frances T Potts NP  on  Aug 11, 2094
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2094-08-11" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P1" start="40" end="64" text="COQUILLE VALLEY HOSPITAL" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<NAME id="P2" start="138" end="150" text="Irvin Vitale" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P3" start="323" end="335" text="Bonnie Eaves" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P4" start="346" end="351" text="Bruce" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P5" start="665" end="671" text="Vitale" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P6" start="729" end="733" text="2093" TYPE="DATE" comment=""></DATE>
-		<NAME id="P7" start="846" end="859" text="Orlando Ernst" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P8" start="883" end="890" text="Ratliff" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P9" start="1344" end="1348" text="ETOH" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P10" start="2433" end="2439" text="8/4/94" TYPE="DATE" comment=""></DATE>
-		<NAME id="P11" start="2860" end="2870" text="Vitale and" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P12" start="2892" end="2904" text="Bonnie Eaves" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P13" start="2912" end="2932" text="Frances Travis Potts" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P14" start="2973" end="2988" text="Frances T Potts" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P15" start="2997" end="3009" text="Aug 11, 2094" TYPE="DATE" comment=""></DATE>
 
 	</TAGS>
 </deIdi2b2>

@@ -175,12 +175,6 @@ Ila Easter, M.D.
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2078-08-20" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="78" end="83" text="Ebert" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P2" start="109" end="118" text="Edmondson" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P3" start="1116" end="1121" text="Ebert" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P4" start="1556" end="1569" text="December 2074" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P5" start="1854" end="1861" text="Bermuda" TYPE="REGION/MAJOR" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

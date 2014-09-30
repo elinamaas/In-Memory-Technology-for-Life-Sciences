@@ -138,36 +138,6 @@ Document Status: Final
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2096-03-16" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P1" start="45" end="70" text="WESTBROOK PLAINS HOSPITAL" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<NAME id="P2" start="139" end="154" text="J. Jordan Duran" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P3" start="252" end="265" text="December 2095" TYPE="DATE" comment=""></DATE>
-		<NAME id="P4" start="828" end="832" text="LIMA" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P5" start="828" end="832" text="LIMA" TYPE="LOCALITY" comment=""></OTHER>
-		<OTHER id="P6" start="869" end="883" text="Acute Marginal" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P7" start="1263" end="1277" text="Bruce Protocol" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P8" start="1390" end="1396" text="SL TNG" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P9" start="1909" end="1926" text="Internal Medicine" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P10" start="2097" end="2112" text="Prostate Cancer" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P11" start="2123" end="2130" text="Barrett" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P12" start="2764" end="2786" text="programmer at Audiovox" TYPE="TITLE" comment=""></OTHER>
-		<NAME id="P13" start="2814" end="2818" text="ETOH" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P14" start="2902" end="2920" text="Recreational Drugs" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P15" start="3778" end="3808" text="K        BUN      CRE      GLU" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P16" start="3815" end="3823" text="03/11/96" TYPE="DATE" comment=""></DATE>
-		<CONTACT id="P17" start="3867" end="3900" text="95                            195" TYPE="PHONE" comment=""></CONTACT>
-		<NAME id="P18" start="3922" end="3935" text="Date     CHOL" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P19" start="3974" end="4006" text="96 120      90       30       72" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P20" start="4072" end="4080" text="03/11/96" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P21" start="4131" end="4142" text="Date     PT" TYPE="GEO_FEATURE/LAND" comment=""></OTHER>
-		<DATE id="P22" start="4168" end="4176" text="03/11/96" TYPE="DATE" comment=""></DATE>
-		<NAME id="P23" start="4209" end="4217" text="hr Urine" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P24" start="4237" end="4245" text="03/11/96" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P25" start="4295" end="4304" text="Known CAD" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P26" start="4637" end="4641" text="endo" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P27" start="5010" end="5018" text="Oxendine" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P28" start="5023" end="5038" text="Freida P. Lloyd" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P29" start="5081" end="5096" text="Freida P. Lloyd" TYPE="PATIENT" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

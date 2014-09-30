@@ -149,19 +149,6 @@ Othel  Vidal, M.D.
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2070-04-02" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="85" end="89" text="MOHS" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P2" start="415" end="419" text="MOHS" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P3" start="610" end="614" text="2069" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P4" start="782" end="794" text="SPRAY NAS QD" TYPE="ORGANIZATION/OTHER" comment=""></LOCATION>
-		<OTHER id="P5" start="985" end="990" text="44MCG" TYPE="MGRS" comment=""></OTHER>
-		<OTHER id="P6" start="1006" end="1017" text="Puff(s) INH" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P7" start="1538" end="1545" text="Allegra" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P8" start="1729" end="1733" text="EtOH" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P9" start="1921" end="1932" text="Vital Signs" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P10" start="2044" end="2052" text="Abd-soft" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P11" start="2210" end="2224" text="Carolyn Delong" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P12" start="2640" end="2652" text="Othel  Vidal" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

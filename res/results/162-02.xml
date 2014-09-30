@@ -37,17 +37,6 @@ Dictated by:  DAVID ZHU, M.D.  DZ0
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2074-01-22" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="77" end="84" text="QUIJANO" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P2" start="94" end="105" text="853-62-51-4" TYPE="PHONE" comment=""></CONTACT>
-		<ID id="P3" start="94" end="105" text="853-62-51-4" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P4" start="137" end="145" text="01/22/74" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P5" start="329" end="350" text="Emergency 
-Department" TYPE="ORGANIZATION/GOVERNMENT" comment=""></LOCATION>
-		<ID id="P6" start="1388" end="1398" text="ZW011/0863" TYPE="IDNUM" comment=""></ID>
-		<NAME id="P7" start="1400" end="1409" text="DAVID ZHU" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P8" start="1545" end="1554" text="DAVID ZHU" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P9" start="1593" end="1612" text="Attending Physician" TYPE="PROP_MISC" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

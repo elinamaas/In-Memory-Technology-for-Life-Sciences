@@ -134,29 +134,6 @@ DV: 06/30/83
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2083-06-29" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P1" start="30" end="68" text="Fairview Lakes Regional Medical Center" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<LOCATION id="P2" start="70" end="87" text="64 Tara Boulevard" TYPE="ADDRESS1" comment=""></LOCATION>
-		<NAME id="P3" start="101" end="153" text="Xloor                                         GERALD" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P4" start="155" end="161" text="MARION" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P5" start="155" end="161" text="MARION" TYPE="LOCALITY" comment=""></OTHER>
-		<CONTACT id="P6" start="184" end="235" text="99249                                      48967301" TYPE="PHONE" comment=""></CONTACT>
-		<ID id="P7" start="227" end="235" text="48967301" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P8" start="294" end="302" text="06/29/83" TYPE="DATE" comment=""></DATE>
-		<NAME id="P9" start="308" end="322" text="Xochil Higgins" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P10" start="330" end="346" text="091 Keith Street" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P11" start="347" end="364" text="Antioch, KY 71287" TYPE="ADDRESS2" comment=""></LOCATION>
-		<NAME id="P12" start="377" end="384" text="Higgins" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P13" start="389" end="402" text="Marion Gerald" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P14" start="434" end="443" text="September" TYPE="DATE" comment=""></DATE>
-		<NAME id="P15" start="1265" end="1272" text="Allegra" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P16" start="1977" end="1986" text="September" TYPE="DATE" comment=""></DATE>
-		<NAME id="P17" start="2114" end="2125" text="Miguel Ames" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P18" start="2169" end="2180" text="Miguel Ames" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P19" start="2192" end="2202" text="eScription" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P20" start="2236" end="2244" text="06/30/83" TYPE="DATE" comment=""></DATE>
-		<DATE id="P21" start="2250" end="2258" text="07/01/83" TYPE="DATE" comment=""></DATE>
-		<DATE id="P22" start="2264" end="2272" text="06/30/83" TYPE="DATE" comment=""></DATE>
 
 	</TAGS>
 </deIdi2b2>

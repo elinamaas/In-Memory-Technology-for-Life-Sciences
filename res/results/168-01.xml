@@ -183,26 +183,6 @@ Traci Mills, M.D.
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2070-04-23" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P1" start="28" end="54" text="Stephens Memorial Hospital" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<NAME id="P2" start="100" end="114" text="Traci Y. Mills" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P3" start="132" end="148" text="Medical Director" TYPE="TITLE" comment=""></OTHER>
-		<DATE id="P4" start="156" end="170" text="April 23, 2070" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P5" start="174" end="195" text="Medical Record Number" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<CONTACT id="P6" start="198" end="205" text="0189233" TYPE="PHONE" comment=""></CONTACT>
-		<ID id="P7" start="198" end="205" text="0189233" TYPE="IDNUM" comment=""></ID>
-		<NAME id="P8" start="206" end="218" text="Victor Lujan" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P9" start="332" end="339" text="4/30/70" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P10" start="362" end="377" text="Present Illness" TYPE="PROP_MISC" comment=""></OTHER>
-		<LOCATION id="P11" start="592" end="608" text="Surgical History" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P12" start="1570" end="1574" text="Mets" TYPE="ORGANIZATION/SPORTS" comment=""></LOCATION>
-		<DATE id="P13" start="2072" end="2079" text="4/23/70" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P14" start="2293" end="2304" text="Vital Signs" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P15" start="2645" end="2677" text="ASA Physical Status III-patients" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P16" start="2691" end="2698" text="Elliott" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P17" start="2904" end="2919" text="Pain Management" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P18" start="3174" end="3182" text="midnight" TYPE="DATE" comment=""></DATE>
-		<NAME id="P19" start="3308" end="3319" text="Traci Mills" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

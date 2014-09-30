@@ -207,19 +207,6 @@ eScription document:3-2120502 BFFocus
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2092-03-21" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="76" end="80" text="LEAH" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P2" start="1346" end="1366" text="Emergency Department" TYPE="ORGANIZATION/GOVERNMENT" comment=""></LOCATION>
-		<LOCATION id="P3" start="3438" end="3458" text="EMERGENCY DEPARTMENT" TYPE="ORGANIZATION/GOVERNMENT" comment=""></LOCATION>
-		<LOCATION id="P4" start="3438" end="3458" text="EMERGENCY DEPARTMENT" TYPE="ORGANIZATION/EDUCATIONAL" comment=""></LOCATION>
-		<OTHER id="P5" start="5122" end="5134" text="IV Lopressor" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P6" start="5419" end="5438" text="Attending Physician" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P7" start="5716" end="5725" text="LEAH M.D." TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P8" start="5730" end="5738" text="03/22/92" TYPE="DATE" comment=""></DATE>
-		<DATE id="P9" start="5743" end="5751" text="03/22/92" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P10" start="5776" end="5792" text="LEAH
-
-eScription" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
 
 	</TAGS>
 </deIdi2b2>

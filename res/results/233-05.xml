@@ -95,20 +95,6 @@ eScription document:3-4025432 BF
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2069-06-27" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="76" end="83" text="WILLARD" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P2" start="115" end="122" text="Mueller" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P3" start="1216" end="1236" text="EMERGENCY DEPARTMENT" TYPE="ORGANIZATION/GOVERNMENT" comment=""></LOCATION>
-		<LOCATION id="P4" start="1216" end="1236" text="EMERGENCY DEPARTMENT" TYPE="ORGANIZATION/EDUCATIONAL" comment=""></LOCATION>
-		<OTHER id="P5" start="2181" end="2200" text="Attending Physician" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P6" start="2243" end="2247" text="RICO" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P7" start="2249" end="2259" text="WILLARD MD" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P8" start="2264" end="2272" text="06/28/69" TYPE="DATE" comment=""></DATE>
-		<DATE id="P9" start="2277" end="2285" text="06/28/69" TYPE="DATE" comment=""></DATE>
-		<NAME id="P10" start="2300" end="2304" text="RICO" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P11" start="2306" end="2325" text="WILLARD
-
-eScription" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
 
 	</TAGS>
 </deIdi2b2>

@@ -209,22 +209,6 @@ Xanthopoulos, Kelly Willie, M.D.
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2076-07-20" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="97" end="104" text="QUIJANO" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P2" start="233" end="244" text="Ms. Quijano" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P3" start="1510" end="1519" text="MG	    SL" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<OTHER id="P4" start="1982" end="1993" text="Mississippi" TYPE="REGION/MAJOR" comment=""></OTHER>
-		<DATE id="P5" start="2189" end="2198" text="Apr, 2075" TYPE="DATE" comment=""></DATE>
-		<NAME id="P6" start="2413" end="2417" text="EtOH" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P7" start="3145" end="3156" text="Vital Signs" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<OTHER id="P8" start="3235" end="3247" text="332   Pounds" TYPE="CURRENCY" comment=""></OTHER>
-		<OTHER id="P9" start="3517" end="3523" text="A.  No" TYPE="PROP_MISC" comment=""></OTHER>
-		<LOCATION id="P10" start="3560" end="3569" text="Normal S1" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P11" start="4113" end="4120" text="5/26/76" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P12" start="4442" end="4455" text="Weight Clinic" TYPE="FACILITY/BUILDGROUNDS" comment=""></OTHER>
-		<LOCATION id="P13" start="4442" end="4455" text="Weight Clinic" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<NAME id="P14" start="4552" end="4565" text="Bobby Davison" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P15" start="4825" end="4837" text="Kelly Willie" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

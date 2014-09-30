@@ -357,30 +357,6 @@ Pager 49057
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2092-03-05" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="74" end="88" text="Katie Mitchell" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P2" start="95" end="102" text="6146161" TYPE="IDNUM" comment=""></ID>
-		<CONTACT id="P3" start="95" end="102" text="6146161" TYPE="PHONE" comment=""></CONTACT>
-		<NAME id="P4" start="110" end="123" text="Evelyn Conway" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P5" start="140" end="152" text="Michael Doss" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P6" start="174" end="181" text="3/05/92" TYPE="DATE" comment=""></DATE>
-		<NAME id="P7" start="337" end="349" text="Camille Dodd" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P8" start="383" end="395" text="Ms. Mitchell" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P9" start="1548" end="1557" text="ED Course" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P10" start="1575" end="1588" text="140/66 78  18" TYPE="PHONE" comment=""></CONTACT>
-		<NAME id="P11" start="1784" end="1792" text="St. Jude" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P12" start="1882" end="1889" text="St Jude" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P13" start="1942" end="1947" text="L CEA" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P14" start="1965" end="1969" text="PFTs" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P15" start="1973" end="1980" text="7/17/91" TYPE="DATE" comment=""></DATE>
-		<DATE id="P16" start="2117" end="2121" text="2091" TYPE="DATE" comment=""></DATE>
-		<NAME id="P17" start="2410" end="2415" text="trans" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P18" start="2450" end="2455" text="trans" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P19" start="3516" end="3524" text="250/50 1" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P20" start="3671" end="3675" text="July" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P21" start="6030" end="6038" text="HEME LAB" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<LOCATION id="P22" start="7105" end="7134" text="Diff Method              Auto" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P23" start="9606" end="9617" text="Kevin Henry" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

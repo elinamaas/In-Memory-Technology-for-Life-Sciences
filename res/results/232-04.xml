@@ -464,65 +464,6 @@ Pager  #00138
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2098-11-02" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P1" start="47" end="68" text="MERCED MEDICAL CENTER" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<NAME id="P2" start="109" end="116" text="Stevens" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P3" start="118" end="122" text="Lori" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P4" start="130" end="137" text="8593546" TYPE="PHONE" comment=""></CONTACT>
-		<ID id="P5" start="130" end="137" text="8593546" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P6" start="157" end="166" text="11/2/2098" TYPE="DATE" comment=""></DATE>
-		<DATE id="P7" start="187" end="191" text="6 pm" TYPE="DATE" comment=""></DATE>
-		<NAME id="P8" start="204" end="216" text="Iyan Winston" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P9" start="254" end="259" text="Sally" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P10" start="264" end="276" text="011-053-5691" TYPE="PHONE" comment=""></CONTACT>
-		<OTHER id="P11" start="706" end="716" text="Santa Rosa" TYPE="LOCALITY" comment=""></OTHER>
-		<DATE id="P12" start="720" end="729" text="9/10/2098" TYPE="DATE" comment=""></DATE>
-		<DATE id="P13" start="939" end="942" text="sat" TYPE="DATE" comment=""></DATE>
-		<NAME id="P14" start="1511" end="1516" text="Foley" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P15" start="1958" end="1971" text="Levi Hospital" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<OTHER id="P16" start="2142" end="2155" text="Recurrent GIB" TYPE="PROP_MISC" comment=""></OTHER>
-		<DATE id="P17" start="2252" end="2261" text="September" TYPE="DATE" comment=""></DATE>
-		<NAME id="P18" start="2329" end="2334" text="Colon" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P19" start="2450" end="2454" text="2096" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P20" start="2554" end="2557" text="DM2" TYPE="CURRENCY" comment=""></OTHER>
-		<DATE id="P21" start="3015" end="3024" text="September" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P22" start="3111" end="3122" text="Resin Dried" TYPE="PROP_MISC" comment=""></OTHER>
-		<DATE id="P23" start="3147" end="3155" text="09/14/98" TYPE="DATE" comment=""></DATE>
-		<DATE id="P24" start="3156" end="3164" text="09:00 am" TYPE="DATE" comment=""></DATE>
-		<DATE id="P25" start="3208" end="3216" text="09/14/98" TYPE="DATE" comment=""></DATE>
-		<DATE id="P26" start="3217" end="3225" text="12:40 am" TYPE="DATE" comment=""></DATE>
-		<DATE id="P27" start="3303" end="3311" text="09/13/98" TYPE="DATE" comment=""></DATE>
-		<DATE id="P28" start="3312" end="3320" text="08:20 pm" TYPE="DATE" comment=""></DATE>
-		<DATE id="P29" start="3360" end="3368" text="09/13/98" TYPE="DATE" comment=""></DATE>
-		<DATE id="P30" start="3369" end="3377" text="08:00 pm" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P31" start="3390" end="3408" text="Nebulizer Solution" TYPE="PROP_MISC" comment=""></OTHER>
-		<DATE id="P32" start="3490" end="3498" text="09/14/98" TYPE="DATE" comment=""></DATE>
-		<DATE id="P33" start="3499" end="3507" text="12:30 pm" TYPE="DATE" comment=""></DATE>
-		<DATE id="P34" start="3562" end="3570" text="09/14/98" TYPE="DATE" comment=""></DATE>
-		<DATE id="P35" start="3571" end="3579" text="12:30 pm" TYPE="DATE" comment=""></DATE>
-		<DATE id="P36" start="3617" end="3625" text="09/14/98" TYPE="DATE" comment=""></DATE>
-		<DATE id="P37" start="3626" end="3634" text="09:00 am" TYPE="DATE" comment=""></DATE>
-		<DATE id="P38" start="3774" end="3782" text="09/14/98" TYPE="DATE" comment=""></DATE>
-		<DATE id="P39" start="3783" end="3791" text="12:30 pm" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P40" start="3839" end="3861" text="Insulin Regular Inj SC" TYPE="ORGANIZATION/EDUCATIONAL" comment=""></LOCATION>
-		<OTHER id="P41" start="4469" end="4484" text="Wheatland Manor" TYPE="FACILITY/BUILDGROUNDS" comment=""></OTHER>
-		<NAME id="P42" start="4585" end="4590" text="Sally" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P43" start="4597" end="4609" text="011-053-5691" TYPE="PHONE" comment=""></CONTACT>
-		<CONTACT id="P44" start="4611" end="4628" text="cell 544-761-0912" TYPE="PHONE" comment=""></CONTACT>
-		<OTHER id="P45" start="4630" end="4645" text="Wheatland Manor" TYPE="FACILITY/BUILDGROUNDS" comment=""></OTHER>
-		<CONTACT id="P46" start="4647" end="4665" text="154-734-1487, x557" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P47" start="6162" end="6168" text="4/2/98" TYPE="DATE" comment=""></DATE>
-		<NAME id="P48" start="6655" end="6662" text="Doppler" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P49" start="7485" end="7492" text="Doppler" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P50" start="8360" end="8367" text="Doppler" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P51" start="8430" end="8434" text="cava" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P52" start="8731" end="8738" text="Doppler" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P53" start="9389" end="9396" text="Doppler" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P54" start="9965" end="9972" text="3/18/98" TYPE="DATE" comment=""></DATE>
-		<NAME id="P55" start="10786" end="10791" text="Foley" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P56" start="10882" end="10886" text="noon" TYPE="DATE" comment=""></DATE>
-		<DATE id="P57" start="10905" end="10909" text="noon" TYPE="DATE" comment=""></DATE>
-		<NAME id="P58" start="12191" end="12204" text="Quenton Stark" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

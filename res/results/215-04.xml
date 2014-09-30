@@ -69,14 +69,6 @@ Leon Virgil Fontenot, M.D.
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2129-05-10" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="869" end="875" text="atkins" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P2" start="2023" end="2034" text="Vital Signs" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P3" start="2224" end="2229" text="Russo" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P4" start="2572" end="2586" text="Barbara Fierro" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P5" start="2606" end="2613" text="Yeargin" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P6" start="2623" end="2629" text="Ingham" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P7" start="2738" end="2758" text="Leon Virgil Fontenot" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

@@ -113,38 +113,6 @@ DV: 04/19/76
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2076-04-19" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P1" start="33" end="40" text="PRESTON" TYPE="LOCALITY" comment=""></OTHER>
-		<NAME id="P2" start="33" end="40" text="PRESTON" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P3" start="42" end="49" text="FRANCES" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P4" start="50" end="58" text="05850080" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P5" start="59" end="69" text="04/19/2076" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P6" start="88" end="118" text="M.D.
-Shelby Dental Care Center" TYPE="ORGANIZATION/OTHER" comment=""></LOCATION>
-		<LOCATION id="P7" start="119" end="138" text="5601 Edwards Street" TYPE="ADDRESS1" comment=""></LOCATION>
-		<NAME id="P8" start="139" end="144" text="Cozad" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P9" start="146" end="155" text="OK  53952" TYPE="ADDRESS2" comment=""></LOCATION>
-		<NAME id="P10" start="167" end="173" text="Barron" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P11" start="223" end="238" text="Frances Preston" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P12" start="246" end="269" text="Cardiovascular Division" TYPE="PROP_MISC" comment=""></OTHER>
-		<LOCATION id="P13" start="273" end="296" text="Weston General Hospital" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<NAME id="P14" start="454" end="461" text="Frances" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P15" start="741" end="746" text="March" TYPE="DATE" comment=""></DATE>
-		<DATE id="P16" start="783" end="793" text="04/09/2076" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P17" start="805" end="813" text="New York" TYPE="LOCALITY" comment=""></OTHER>
-		<OTHER id="P18" start="805" end="813" text="New York" TYPE="REGION/MAJOR" comment=""></OTHER>
-		<LOCATION id="P19" start="1048" end="1070" text="Cabrini Medical Center" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<NAME id="P20" start="2360" end="2366" text="Landis" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P21" start="2413" end="2419" text="Landis" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P22" start="2454" end="2466" text="944-351-0904" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P23" start="3842" end="3852" text="04/16/2076" TYPE="DATE" comment=""></DATE>
-		<NAME id="P24" start="4224" end="4233" text=". Preston" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P25" start="6183" end="6189" text="Landis" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P26" start="6510" end="6526" text="Corrie Q Newland" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P27" start="6541" end="6551" text="eScription" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P28" start="6589" end="6597" text="04/19/76" TYPE="DATE" comment=""></DATE>
-		<DATE id="P29" start="6602" end="6610" text="04/20/76" TYPE="DATE" comment=""></DATE>
-		<DATE id="P30" start="6615" end="6623" text="04/19/76" TYPE="DATE" comment=""></DATE>
 
 	</TAGS>
 </deIdi2b2>

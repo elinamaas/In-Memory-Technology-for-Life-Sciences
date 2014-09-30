@@ -140,32 +140,6 @@ Document Status: Final
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2096-04-15" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P1" start="45" end="65" text="PRIMGHAR CARE CENTER" TYPE="FACILITY/BUILDGROUNDS" comment=""></OTHER>
-		<NAME id="P2" start="197" end="202" text="Ickes" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P3" start="476" end="483" text="Xaysana" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P4" start="487" end="494" text="4/23/96" TYPE="DATE" comment=""></DATE>
-		<NAME id="P5" start="502" end="508" text="Jarvis" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P6" start="1569" end="1576" text="Xaysana" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P7" start="1803" end="1810" text="Xaysana" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P8" start="1814" end="1821" text="4/23/96" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P9" start="2984" end="3010" text="Primary Production Manager" TYPE="TITLE" comment=""></OTHER>
-		<LOCATION id="P10" start="4181" end="4202" text="BUN      CRE      GLU" TYPE="ORGANIZATION/OTHER" comment=""></LOCATION>
-		<CONTACT id="P11" start="4215" end="4239" text="96 143               109" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P12" start="4282" end="4290" text="04/15/96" TYPE="DATE" comment=""></DATE>
-		<CONTACT id="P13" start="4419" end="4433" text="95 11       33" TYPE="PHONE" comment=""></CONTACT>
-		<NAME id="P14" start="4456" end="4469" text="Date     CHOL" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P15" start="4508" end="4540" text="95 141      111      49       70" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P16" start="4597" end="4605" text="04/10/96" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P17" start="4647" end="4658" text="Date     PT" TYPE="GEO_FEATURE/LAND" comment=""></OTHER>
-		<DATE id="P18" start="4684" end="4692" text="04/10/96" TYPE="DATE" comment=""></DATE>
-		<DATE id="P19" start="4752" end="4760" text="02/08/96" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P20" start="4778" end="4790" text="Date     HGB" TYPE="PROP_MISC" comment=""></OTHER>
-		<DATE id="P21" start="4797" end="4805" text="04/10/96" TYPE="DATE" comment=""></DATE>
-		<NAME id="P22" start="5434" end="5439" text="Ickes" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P23" start="5443" end="5461" text="Jenna H. Whittaker" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P24" start="5495" end="5513" text="Jenna H. Whittaker" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P25" start="5518" end="5533" text="Document Status" TYPE="PROP_MISC" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

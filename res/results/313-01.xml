@@ -92,27 +92,6 @@ DV:6-19-59
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2059-06-19" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="77" end="85" text="Rutledge" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P2" start="137" end="145" text="29195561" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P3" start="192" end="199" text="6-19-59" TYPE="DATE" comment=""></DATE>
-		<NAME id="P4" start="257" end="268" text="Eva Ruledge" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P5" start="368" end="376" text="February" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P6" start="468" end="485" text="Internal Medicine" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P7" start="557" end="574" text="Internal Medicine" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P8" start="792" end="804" text="Procardia XL" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P9" start="2588" end="2612" text="Pulping Control Operator" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P10" start="2823" end="2831" text="Rutledge" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P11" start="2833" end="2841" text="Eva
-Page" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P12" start="2883" end="2891" text="29195561" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P13" start="2938" end="2945" text="6-19-59" TYPE="DATE" comment=""></DATE>
-		<NAME id="P14" start="3156" end="3171" text="Eileen Xayavong" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P15" start="3227" end="3236" text="1:00 p.m." TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P16" start="3476" end="3494" text="Health Maintenance" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P17" start="3693" end="3701" text="February" TYPE="DATE" comment=""></DATE>
-		<NAME id="P18" start="3841" end="3856" text="Ulysses Quijano" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P19" start="3948" end="3966" text="Attending Provider" TYPE="PROP_MISC" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

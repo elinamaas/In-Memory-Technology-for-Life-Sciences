@@ -45,13 +45,6 @@ Yazmin Doss, NP
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2077-02-09" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P1" start="30" end="55" text="BRENNAN CONVALESCENT HOME" TYPE="FACILITY/BUILDGROUNDS" comment=""></OTHER>
-		<LOCATION id="P2" start="573" end="592" text="Medical History
-CAD" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P3" start="1450" end="1455" text="Uddin" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P4" start="1502" end="1512" text="02/17/2077" TYPE="DATE" comment=""></DATE>
-		<NAME id="P5" start="1551" end="1562" text="Yazmin Doss" TYPE="PATIENT" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

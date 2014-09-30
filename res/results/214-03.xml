@@ -47,17 +47,6 @@ Sincerely yours,
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2096-10-04" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="28" end="47" text="Graydon Harold Jean" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P2" start="53" end="68" text="Nevada Hospital" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<LOCATION id="P3" start="87" end="110" text="72 Dan Chan
-Angels City" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P4" start="112" end="120" text="NH 31731" TYPE="ADDRESS2" comment=""></LOCATION>
-		<NAME id="P5" start="132" end="136" text="Jean" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P6" start="158" end="171" text="Henry Oswaldo" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P7" start="204" end="229" text="Atmore Community Hospital" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<DATE id="P8" start="272" end="287" text="August 15, 2096" TYPE="DATE" comment=""></DATE>
-		<NAME id="P9" start="373" end="380" text="Oswaldo" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

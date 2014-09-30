@@ -153,18 +153,6 @@ Armando Brian Nettles, M.D.
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2076-06-22" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="51" end="60" text="Francesca" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P2" start="391" end="412" text="Humulin N   UNITS  SC" TYPE="ORGANIZATION/EDUCATIONAL" comment=""></LOCATION>
-		<NAME id="P3" start="546" end="554" text="PO TID x" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P4" start="732" end="758" text="Succinate Extended Release" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P5" start="768" end="774" text="TAB.SR" TYPE="URI/URL" comment=""></OTHER>
-		<NAME id="P6" start="1171" end="1175" text="abdo" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P7" start="1543" end="1554" text="Vital Signs" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P8" start="1689" end="1694" text="PERLA" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P9" start="1980" end="1984" text="Abdo" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P10" start="2131" end="2138" text="2076 NA" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P11" start="2473" end="2494" text="Armando Brian Nettles" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

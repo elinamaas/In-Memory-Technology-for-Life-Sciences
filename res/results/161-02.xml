@@ -77,22 +77,6 @@ SH/truitt		89-05167655.doc
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2070-12-03" TYPE="DATE" comment=""></DATE>
-		<DATE id="P1" start="40" end="56" text="December 3, 2070" TYPE="DATE" comment=""></DATE>
-		<NAME id="P2" start="62" end="68" text="Thomas" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P3" start="80" end="95" text="239 Gilson Road" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P4" start="105" end="113" text="ME 27525" TYPE="ADDRESS2" comment=""></LOCATION>
-		<CONTACT id="P5" start="150" end="159" text="134-43-51" TYPE="PHONE" comment=""></CONTACT>
-		<NAME id="P6" start="233" end="248" text="Jaquante Xuereb" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P7" start="317" end="337" text="Santa Rosa Infirmary" TYPE="FACILITY/BUILDGROUNDS" comment=""></OTHER>
-		<OTHER id="P8" start="1472" end="1484" text="IV Nafcillin" TYPE="PROP_MISC" comment=""></OTHER>
-		<DATE id="P9" start="1751" end="1768" text="November 29, 2070" TYPE="DATE" comment=""></DATE>
-		<NAME id="P10" start="1877" end="1883" text="Xuereb" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P11" start="2353" end="2369" text="Shane R. Herring" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P12" start="2379" end="2382" text="cc:" TYPE="NAME_DESIGNATOR" comment=""></OTHER>
-		<NAME id="P13" start="2383" end="2396" text="Dirk O. Reece" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P14" start="2404" end="2419" text="9 Church Street" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P15" start="2421" end="2435" text="Pune, ME 99597" TYPE="ADDRESS2" comment=""></LOCATION>
 
 	</TAGS>
 </deIdi2b2>

@@ -81,17 +81,6 @@ Dictated by:  HAROLD OSBORNE, M.D.       HO97
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2087-02-21" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="49" end="56" text="DAMERON" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P2" start="82" end="92" text="VALENZUELA" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P3" start="93" end="98" text="BRIAN" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P4" start="101" end="112" text="036-89-96-4" TYPE="PHONE" comment=""></CONTACT>
-		<ID id="P5" start="101" end="112" text="036-89-96-4" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P6" start="145" end="153" text="02/21/87" TYPE="DATE" comment=""></DATE>
-		<DATE id="P7" start="213" end="221" text="02/21/87" TYPE="DATE" comment=""></DATE>
-		<NAME id="P8" start="1884" end="1898" text="HAROLD OSBORNE" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P9" start="2035" end="2049" text="HAROLD OSBORNE" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P10" start="2095" end="2114" text="Attending Physician" TYPE="PROP_MISC" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

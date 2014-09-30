@@ -225,50 +225,6 @@ Signed electronically by   Frances T Potts NP  on  Dec 26, 2094
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2094-12-26" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P1" start="40" end="64" text="COQUILLE VALLEY HOSPITAL" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<DATE id="P2" start="252" end="256" text="2094" TYPE="DATE" comment=""></DATE>
-		<NAME id="P3" start="294" end="306" text="Bonnie Eaves" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P4" start="308" end="313" text="Bruce" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P5" start="627" end="633" text="Vitale" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P6" start="640" end="645" text="nl LM" TYPE="ORGANIZATION/SPORTS" comment=""></LOCATION>
-		<NAME id="P7" start="669" end="673" text="TIMI" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P8" start="749" end="754" text="Nl LV" TYPE="ORGANIZATION/SPORTS" comment=""></LOCATION>
-		<DATE id="P9" start="972" end="981" text="9/29/2094" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P10" start="1014" end="1021" text="RCA PCI" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P11" start="1241" end="1248" text="RCA PCI" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P12" start="1284" end="1291" text="Mid RCA" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P13" start="1446" end="1457" text="old PCA CVA" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P14" start="1715" end="1719" text="2093" TYPE="DATE" comment=""></DATE>
-		<DATE id="P15" start="1829" end="1833" text="2093" TYPE="DATE" comment=""></DATE>
-		<NAME id="P16" start="1919" end="1932" text="Orlando Ernst" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P17" start="1956" end="1963" text="Ratliff" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P18" start="2265" end="2272" text="sundays" TYPE="DATE" comment=""></DATE>
-		<NAME id="P19" start="2450" end="2455" text="SR po" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P20" start="2878" end="2882" text="ETOH" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P21" start="4531" end="4538" text="Rollins" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P22" start="4558" end="4563" text="Eaves" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P23" start="4567" end="4587" text="Frances Travis Potts" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P24" start="4658" end="4668" text="09/28/2094" TYPE="DATE" comment=""></DATE>
-		<DATE id="P25" start="4696" end="4706" text="09/28/2094" TYPE="DATE" comment=""></DATE>
-		<DATE id="P26" start="4738" end="4748" text="09/28/2094" TYPE="DATE" comment=""></DATE>
-		<DATE id="P27" start="4799" end="4809" text="09/28/2094" TYPE="DATE" comment=""></DATE>
-		<DATE id="P28" start="4837" end="4847" text="09/28/2094" TYPE="DATE" comment=""></DATE>
-		<NAME id="P29" start="4864" end="4870" text="SR  po" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P30" start="4882" end="4892" text="09/28/2094" TYPE="DATE" comment=""></DATE>
-		<DATE id="P31" start="4927" end="4937" text="09/28/2094" TYPE="DATE" comment=""></DATE>
-		<DATE id="P32" start="4969" end="4979" text="09/28/2094" TYPE="DATE" comment=""></DATE>
-		<DATE id="P33" start="4999" end="5006" text="sundays" TYPE="DATE" comment=""></DATE>
-		<DATE id="P34" start="5014" end="5024" text="09/28/2094" TYPE="DATE" comment=""></DATE>
-		<DATE id="P35" start="5060" end="5070" text="09/28/2094" TYPE="DATE" comment=""></DATE>
-		<DATE id="P36" start="5108" end="5118" text="09/28/2094" TYPE="DATE" comment=""></DATE>
-		<DATE id="P37" start="5148" end="5158" text="09/28/2094" TYPE="DATE" comment=""></DATE>
-		<DATE id="P38" start="5192" end="5202" text="09/28/2094" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P39" start="5227" end="5236" text="TID Start" TYPE="PROP_MISC" comment=""></OTHER>
-		<DATE id="P40" start="5238" end="5248" text="09/28/2094" TYPE="DATE" comment=""></DATE>
-		<DATE id="P41" start="5301" end="5311" text="09/28/2094" TYPE="DATE" comment=""></DATE>
-		<NAME id="P42" start="5360" end="5375" text="Frances T Potts" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P43" start="5384" end="5396" text="Dec 26, 2094" TYPE="DATE" comment=""></DATE>
 
 	</TAGS>
 </deIdi2b2>

@@ -231,25 +231,6 @@ b 28961
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2095-09-19" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="77" end="92" text="Russell P Urban" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P2" start="96" end="105" text="472 20 64" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P3" start="109" end="116" text="9/19/95" TYPE="DATE" comment=""></DATE>
-		<NAME id="P4" start="123" end="128" text="Urban" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P5" start="678" end="683" text="Urban" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P6" start="835" end="842" text="7/31/95" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P7" start="1280" end="1295" text="Medical History" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P8" start="1326" end="1330" text="2093" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P9" start="1462" end="1469" text="Borders" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P10" start="1482" end="1486" text="ETOH" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P11" start="2268" end="2278" text="regular S1" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P12" start="2962" end="2974" text="Increase ASA" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P13" start="3084" end="3091" text="RCA ISR" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P14" start="3310" end="3316" text="MI. LP" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P15" start="3341" end="3347" text="Orozco" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P16" start="3454" end="3461" text="Ness/Dr" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P17" start="3462" end="3468" text="Orozco" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P18" start="3476" end="3489" text="Rose Kang, MS" TYPE="PATIENT" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

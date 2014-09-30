@@ -128,26 +128,6 @@ OF/valle
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2089-06-27" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="101" end="107" text="George" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P2" start="109" end="115" text="Rickey" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P3" start="130" end="140" text="06/27/2089" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P4" start="278" end="291" text="West Virginia" TYPE="REGION/MAJOR" comment=""></OTHER>
-		<LOCATION id="P5" start="409" end="453" text="ONGOING MANAGEMENT/MULTIPLE MEDICAL PROBLEMS" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P6" start="544" end="549" text="Ortiz" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P7" start="1712" end="1719" text="6/19/89" TYPE="DATE" comment=""></DATE>
-		<NAME id="P8" start="1842" end="1846" text="Cook" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P9" start="2093" end="2097" text="Cook" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P10" start="2203" end="2209" text="George" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P11" start="2211" end="2217" text="Rickey" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P12" start="2263" end="2276" text="June 27, 2089" TYPE="DATE" comment=""></DATE>
-		<NAME id="P13" start="2885" end="2889" text="RICA" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P14" start="3169" end="3176" text="6/11/89" TYPE="DATE" comment=""></DATE>
-		<NAME id="P15" start="3568" end="3574" text="Robles" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P16" start="4796" end="4802" text="George" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P17" start="4804" end="4810" text="Rickey" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P18" start="4857" end="4870" text="June 27, 2089" TYPE="DATE" comment=""></DATE>
-		<NAME id="P19" start="5296" end="5307" text="Opal Fierro" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

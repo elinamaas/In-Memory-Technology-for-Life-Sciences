@@ -74,22 +74,6 @@ pager 32089
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2084-06-09" TYPE="DATE" comment=""></DATE>
-		<DATE id="P1" start="61" end="73" text="June 9, 2084" TYPE="DATE" comment=""></DATE>
-		<DATE id="P2" start="75" end="79" text="1340" TYPE="DATE" comment=""></DATE>
-		<NAME id="P3" start="155" end="160" text="Lilly" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P4" start="299" end="304" text="Lilly" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P5" start="559" end="568" text="Gillespie" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P6" start="990" end="997" text="Type II" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P7" start="1098" end="1117" text="Toprol XL 
-Elevated" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P8" start="1197" end="1204" text="3/84 CT" TYPE="CURRENCY" comment=""></OTHER>
-		<NAME id="P9" start="1344" end="1349" text="Lilly" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P10" start="1818" end="1823" text="Lilly" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P11" start="1848" end="1852" text="2050" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P12" start="2363" end="2372" text="Toprol XL" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P13" start="2536" end="2541" text="Lilly" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P14" start="2549" end="2562" text="Peter Wiggins" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

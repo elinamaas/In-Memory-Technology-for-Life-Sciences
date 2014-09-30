@@ -248,40 +248,6 @@ Pg 68283
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2078-09-26" TYPE="DATE" comment=""></DATE>
-		<DATE id="P1" start="34" end="44" text="09/26/2078" TYPE="DATE" comment=""></DATE>
-		<NAME id="P2" start="113" end="122" text="Hendricks" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P3" start="124" end="130" text="Hannah" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P4" start="137" end="145" text="75322175" TYPE="IDNUM" comment=""></ID>
-		<NAME id="P5" start="158" end="162" text="Shea" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P6" start="166" end="169" text="CC:" TYPE="NAME_DESIGNATOR" comment=""></OTHER>
-		<DATE id="P7" start="287" end="291" text="2066" TYPE="DATE" comment=""></DATE>
-		<DATE id="P8" start="319" end="329" text="April 2078" TYPE="DATE" comment=""></DATE>
-		<DATE id="P9" start="508" end="514" text="5/3/78" TYPE="DATE" comment=""></DATE>
-		<DATE id="P10" start="520" end="527" text="6/11/78" TYPE="DATE" comment=""></DATE>
-		<DATE id="P11" start="691" end="698" text="9/17/78" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P12" start="699" end="702" text="c/o" TYPE="NAME_DESIGNATOR" comment=""></OTHER>
-		<DATE id="P13" start="1283" end="1289" text="5/3/78" TYPE="DATE" comment=""></DATE>
-		<DATE id="P14" start="1317" end="1321" text="2066" TYPE="DATE" comment=""></DATE>
-		<DATE id="P15" start="1352" end="1356" text="2066" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P16" start="1736" end="1748" text="Morehead, WI" TYPE="ADDRESS2" comment=""></LOCATION>
-		<OTHER id="P17" start="1855" end="1885" text="Senior Manager of Broadcasting" TYPE="TITLE" comment=""></OTHER>
-		<CONTACT id="P18" start="1936" end="1961" text="74        136/48      
-18" TYPE="PHONE" comment=""></CONTACT>
-		<OTHER id="P19" start="2663" end="2722" text="Pop         DP                                           PT" TYPE="GEO_FEATURE/LAND" comment=""></OTHER>
-		<DATE id="P20" start="3366" end="3376" text="09/26/2078" TYPE="DATE" comment=""></DATE>
-		<DATE id="P21" start="3422" end="3430" text="09/26/78" TYPE="DATE" comment=""></DATE>
-		<DATE id="P22" start="3944" end="3952" text="09/17/78" TYPE="DATE" comment=""></DATE>
-		<DATE id="P23" start="4185" end="4193" text="06/11/78" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P24" start="4211" end="4227" text="Ultrasound Tests" TYPE="PROP_MISC" comment=""></OTHER>
-		<LOCATION id="P25" start="4877" end="4887" text="today show" TYPE="ORGANIZATION/MEDIA" comment=""></LOCATION>
-		<DATE id="P26" start="5216" end="5224" text="midnight" TYPE="DATE" comment=""></DATE>
-		<NAME id="P27" start="5341" end="5356" text="Hayden Shepherd" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P28" start="5961" end="5966" text="foley" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P29" start="5983" end="5986" text="6AM" TYPE="DATE" comment=""></DATE>
-		<NAME id="P30" start="6015" end="6019" text="Endo" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P31" start="6147" end="6153" text="Weller" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P32" start="6237" end="6251" text="Kathryn Brewer" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

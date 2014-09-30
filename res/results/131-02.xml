@@ -215,56 +215,6 @@ Disposition and Plans
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2094-07-28" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P1" start="272" end="276" text="METS" TYPE="ORGANIZATION/SPORTS" comment=""></LOCATION>
-		<NAME id="P2" start="314" end="322" text="sten, LV" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P3" start="336" end="338" text="LA" TYPE="LOCALITY" comment=""></OTHER>
-		<DATE id="P4" start="657" end="663" text="4/4/90" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P5" start="753" end="762" text="Cedars ER" TYPE="PROP_MISC" comment=""></OTHER>
-		<LOCATION id="P6" start="913" end="917" text="TCDs" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P7" start="988" end="993" text="angio" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P8" start="1067" end="1071" text="2060" TYPE="DATE" comment=""></DATE>
-		<NAME id="P9" start="1100" end="1105" text="TITUS" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P10" start="1109" end="1128" text="DARDANELLE HOSPITAL" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<DATE id="P11" start="1458" end="1465" text="5/23/86" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P12" start="1647" end="1651" text="METS" TYPE="ORGANIZATION/SPORTS" comment=""></LOCATION>
-		<LOCATION id="P13" start="1705" end="1716" text="THALLIUM NL" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<CONTACT id="P14" start="1725" end="1736" text="150/74 7/86" TYPE="PHONE" comment=""></CONTACT>
-		<CONTACT id="P15" start="1801" end="1812" text="140/78 9/86" TYPE="PHONE" comment=""></CONTACT>
-		<NAME id="P16" start="1979" end="1984" text="TITUS" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P17" start="1989" end="1995" text="8/8/87" TYPE="DATE" comment=""></DATE>
-		<DATE id="P18" start="1999" end="2010" text="28-Aug-2088" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P19" start="2180" end="2192" text="Procardia XL" TYPE="PROP_MISC" comment=""></OTHER>
-		<DATE id="P20" start="2461" end="2464" text="dec" TYPE="DATE" comment=""></DATE>
-		<DATE id="P21" start="2754" end="2760" text="3/3/82" TYPE="DATE" comment=""></DATE>
-		<DATE id="P22" start="2790" end="2797" text="4/22/83" TYPE="DATE" comment=""></DATE>
-		<CONTACT id="P23" start="2799" end="2807" text="121 4/84" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P24" start="2826" end="2833" text="9/18/84" TYPE="DATE" comment=""></DATE>
-		<DATE id="P25" start="2875" end="2882" text="9/22/84" TYPE="DATE" comment=""></DATE>
-		<CONTACT id="P26" start="2922" end="2930" text="179 5/86" TYPE="PHONE" comment=""></CONTACT>
-		<CONTACT id="P27" start="2936" end="2944" text="120 7/86" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P28" start="3217" end="3223" text="8/8/87" TYPE="DATE" comment=""></DATE>
-		<DATE id="P29" start="3424" end="3435" text="28-Aug-2088" TYPE="DATE" comment=""></DATE>
-		<CONTACT id="P30" start="3819" end="3827" text="234 1/92" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P31" start="3867" end="3871" text="1000" TYPE="DATE" comment=""></DATE>
-		<DATE id="P32" start="4040" end="4043" text="dec" TYPE="DATE" comment=""></DATE>
-		<NAME id="P33" start="4499" end="4514" text="HO UROLITHIASIS" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P34" start="4777" end="4781" text="2088" TYPE="DATE" comment=""></DATE>
-		<DATE id="P35" start="5186" end="5197" text="28-Aug-2088" TYPE="DATE" comment=""></DATE>
-		<DATE id="P36" start="5297" end="5300" text="dec" TYPE="DATE" comment=""></DATE>
-		<NAME id="P37" start="5557" end="5564" text="FONSECA" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P38" start="5712" end="5716" text="XIAN" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P39" start="5712" end="5716" text="XIAN" TYPE="LOCALITY" comment=""></OTHER>
-		<NAME id="P40" start="5859" end="5869" text="ST FRANCIS" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P41" start="5914" end="5920" text="TOMLIN" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P42" start="6024" end="6039" text="Medical History" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P43" start="6063" end="6067" text="2061" TYPE="DATE" comment=""></DATE>
-		<NAME id="P44" start="6073" end="6077" text="ETOH" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P45" start="6213" end="6220" text="S/P THR" TYPE="PROP_MISC" comment=""></OTHER>
-		<OTHER id="P46" start="6339" end="6364" text="INSURANCE CLAIMS EXAMINER" TYPE="TITLE" comment=""></OTHER>
-		<OTHER id="P47" start="6386" end="6397" text="MARLBOROUGH" TYPE="LOCALITY" comment=""></OTHER>
-		<LOCATION id="P48" start="6828" end="6839" text="Vital Signs" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<OTHER id="P49" start="7682" end="7687" text="10MEQ" TYPE="MGRS" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

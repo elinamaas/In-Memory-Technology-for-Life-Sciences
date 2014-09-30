@@ -97,20 +97,6 @@ eScription document:7-5881990 BFFocus
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2080-09-20" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="75" end="83" text="F. KELLY" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P2" start="105" end="114" text="6:40 a.m." TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P3" start="197" end="234" text="Douglas Community Hospital Department" TYPE="ORGANIZATION/GOVERNMENT" comment=""></LOCATION>
-		<LOCATION id="P4" start="2134" end="2150" text="Medicine Service" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<OTHER id="P5" start="2238" end="2244" text="FARMER" TYPE="TITLE" comment=""></OTHER>
-		<NAME id="P6" start="2246" end="2259" text="F. KELLY M.D." TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P7" start="2264" end="2272" text="09/21/80" TYPE="DATE" comment=""></DATE>
-		<DATE id="P8" start="2277" end="2285" text="09/21/80" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P9" start="2300" end="2306" text="FARMER" TYPE="TITLE" comment=""></OTHER>
-		<LOCATION id="P10" start="2308" end="2328" text="F. KELLY
-
-eScription" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<OTHER id="P11" start="2382" end="2401" text="Attending Physician" TYPE="PROP_MISC" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

@@ -68,21 +68,6 @@ DV: 03/09/80
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2080-03-09" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P1" start="33" end="56" text="Notre Dame Nursing Home" TYPE="FACILITY/BUILDGROUNDS" comment=""></OTHER>
-		<LOCATION id="P2" start="57" end="75" text="6250 Madera Circle" TYPE="ADDRESS1" comment=""></LOCATION>
-		<NAME id="P3" start="89" end="94" text="POTTS" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P4" start="96" end="103" text="WILLIAM" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P5" start="117" end="150" text="21113                    10916758" TYPE="PHONE" comment=""></CONTACT>
-		<ID id="P6" start="142" end="150" text="10916758" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P7" start="186" end="196" text="03/09/2080" TYPE="DATE" comment=""></DATE>
-		<NAME id="P8" start="234" end="239" text="Potts" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P9" start="1995" end="2010" text="Matthew H Wyatt" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P10" start="2034" end="2044" text="eScription" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<OTHER id="P11" start="2064" end="2074" text="CSSten Tel" TYPE="PROP_MISC" comment=""></OTHER>
-		<DATE id="P12" start="2085" end="2093" text="03/09/80" TYPE="DATE" comment=""></DATE>
-		<DATE id="P13" start="2098" end="2106" text="03/09/80" TYPE="DATE" comment=""></DATE>
-		<DATE id="P14" start="2111" end="2119" text="03/09/80" TYPE="DATE" comment=""></DATE>
 
 	</TAGS>
 </deIdi2b2>

@@ -219,38 +219,6 @@ DV: 10/02/83
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2083-10-01" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P1" start="30" end="57" text="Westwing Place Nursing Home" TYPE="FACILITY/BUILDGROUNDS" comment=""></OTHER>
-		<LOCATION id="P2" start="59" end="76" text="356 Chablis Court" TYPE="ADDRESS1" comment=""></LOCATION>
-		<NAME id="P3" start="112" end="118" text="GERALD" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P4" start="120" end="126" text="MARION" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P5" start="120" end="126" text="MARION" TYPE="LOCALITY" comment=""></OTHER>
-		<CONTACT id="P6" start="137" end="178" text="63216                            48967301" TYPE="PHONE" comment=""></CONTACT>
-		<ID id="P7" start="170" end="178" text="48967301" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P8" start="237" end="245" text="10/01/83" TYPE="DATE" comment=""></DATE>
-		<CONTACT id="P9" start="248" end="261" text="449) 515-0294" TYPE="PHONE" comment=""></CONTACT>
-		<NAME id="P10" start="372" end="382" text="Ms. Gerald" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P11" start="534" end="540" text="doctor" TYPE="TITLE" comment=""></OTHER>
-		<NAME id="P12" start="542" end="555" text="Yesenia Olive" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P13" start="1032" end="1040" text="09/15/83" TYPE="DATE" comment=""></DATE>
-		<NAME id="P14" start="1916" end="1921" text="Olive" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P15" start="1962" end="1970" text="12/26/79" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P16" start="2853" end="2864" text="Iowa Clinic" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<OTHER id="P17" start="2853" end="2864" text="Iowa Clinic" TYPE="FACILITY/BUILDGROUNDS" comment=""></OTHER>
-		<OTHER id="P18" start="2868" end="2883" text="Temescal Valley" TYPE="GEO_FEATURE/LAND" comment=""></OTHER>
-		<NAME id="P19" start="3884" end="3886" text="Ng" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P20" start="4469" end="4485" text="E Xochil Higgins" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P21" start="4510" end="4542" text="E Xochil Higgins
-
-
-
-
-
-eScription" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P22" start="4562" end="4573" text="EMSSten Tel" TYPE="PROP_MISC" comment=""></OTHER>
-		<DATE id="P23" start="4585" end="4593" text="10/02/83" TYPE="DATE" comment=""></DATE>
-		<DATE id="P24" start="4599" end="4607" text="10/02/83" TYPE="DATE" comment=""></DATE>
-		<DATE id="P25" start="4613" end="4621" text="10/02/83" TYPE="DATE" comment=""></DATE>
 
 	</TAGS>
 </deIdi2b2>

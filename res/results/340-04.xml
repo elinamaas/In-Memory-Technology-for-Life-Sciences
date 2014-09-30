@@ -135,13 +135,6 @@ Charles Craig Max Zavaleta, M.D.
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2078-06-22" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="101" end="105" text="JEAN" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P2" start="206" end="216" text="06/22/2078" TYPE="DATE" comment=""></DATE>
-		<DATE id="P3" start="1346" end="1354" text="11/11/76" TYPE="DATE" comment=""></DATE>
-		<NAME id="P4" start="1503" end="1509" text="osburn" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P5" start="1849" end="1860" text="Vital Signs" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P6" start="2788" end="2814" text="Charles Craig Max Zavaleta" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

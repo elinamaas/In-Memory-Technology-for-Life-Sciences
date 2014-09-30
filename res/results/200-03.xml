@@ -115,39 +115,6 @@ VoiceJob ID:  91587262
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2171-09-20" TYPE="DATE" comment=""></DATE>
-		<DATE id="P1" start="30" end="40" text="09/20/2171" TYPE="DATE" comment=""></DATE>
-		<NAME id="P2" start="51" end="66" text="Charles Calhoun" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P3" start="72" end="91" text="479 Clairmoor Drive" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P4" start="93" end="109" text="Athina, GA 39341" TYPE="ADDRESS2" comment=""></LOCATION>
-		<NAME id="P5" start="126" end="135" text="QUINTEN M" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P6" start="147" end="154" text="8059475" TYPE="PHONE" comment=""></CONTACT>
-		<ID id="P7" start="147" end="154" text="8059475" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P8" start="166" end="176" text="08/02/2095" TYPE="DATE" comment=""></DATE>
-		<NAME id="P9" start="188" end="195" text="Calhoun" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P10" start="242" end="255" text="Quinten Heath" TYPE="PATIENT" comment=""></NAME>
-		<OTHER id="P11" start="265" end="282" text="Internal Medicine" TYPE="PROP_MISC" comment=""></OTHER>
-		<NAME id="P12" start="349" end="353" text="Heat" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P13" start="443" end="447" text="2169" TYPE="DATE" comment=""></DATE>
-		<DATE id="P14" start="1179" end="1183" text="2169" TYPE="DATE" comment=""></DATE>
-		<DATE id="P15" start="1396" end="1400" text="2165" TYPE="DATE" comment=""></DATE>
-		<OTHER id="P16" start="1731" end="1747" text="Centrum Caltrate" TYPE="PROP_MISC" comment=""></OTHER>
-		<CONTACT id="P17" start="2101" end="2109" text="195-1138" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P18" start="2114" end="2124" text="09/13/2171" TYPE="DATE" comment=""></DATE>
-		<NAME id="P19" start="2230" end="2235" text="Heath" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P20" start="2799" end="2815" text="Vincent Voorhees" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P21" start="2828" end="2831" text="cc:" TYPE="NAME_DESIGNATOR" comment=""></OTHER>
-		<NAME id="P22" start="2832" end="2845" text="Quinten Heath" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P23" start="2847" end="2865" text="976 Clinton Street" TYPE="ADDRESS1" comment=""></LOCATION>
-		<NAME id="P24" start="2923" end="2926" text="Hen" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P25" start="2933" end="2943" text="09/20/2171" TYPE="DATE" comment=""></DATE>
-		<DATE id="P26" start="2948" end="2958" text="09/21/2171" TYPE="DATE" comment=""></DATE>
-		<DATE id="P27" start="2959" end="2967" text="16:37:30" TYPE="DATE" comment=""></DATE>
-		<CONTACT id="P28" start="2972" end="2979" text="8190465" TYPE="PHONE" comment=""></CONTACT>
-		<ID id="P29" start="2972" end="2979" text="8190465" TYPE="IDNUM" comment=""></ID>
-		<LOCATION id="P30" start="2993" end="3011" text="326372
-VoiceJob ID" TYPE="ADDRESS2" comment=""></LOCATION>
-		<ID id="P31" start="3014" end="3022" text="91587262" TYPE="IDNUM" comment=""></ID>
 
 	</TAGS>
 </deIdi2b2>

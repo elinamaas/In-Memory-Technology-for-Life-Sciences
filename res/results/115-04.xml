@@ -401,58 +401,6 @@ Signed electronically by Flaherty, Wanda H on May 04, 2123
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2123-05-01" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P1" start="62" end="80" text="PENDER CARE CENTER" TYPE="ORGANIZATION/OTHER" comment=""></LOCATION>
-		<OTHER id="P2" start="62" end="80" text="PENDER CARE CENTER" TYPE="FACILITY/BUILDGROUNDS" comment=""></OTHER>
-		<LOCATION id="P3" start="246" end="256" text="Polson, VA" TYPE="ADDRESS2" comment=""></LOCATION>
-		<NAME id="P4" start="264" end="276" text="David Mccall" TYPE="DOCTOR" comment=""></NAME>
-		<CONTACT id="P5" start="280" end="292" text="207-155-2827" TYPE="PHONE" comment=""></CONTACT>
-		<NAME id="P6" start="837" end="842" text="Miles" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P7" start="1108" end="1112" text="2118" TYPE="DATE" comment=""></DATE>
-		<NAME id="P8" start="1133" end="1149" text="Colleen Quinonez" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P9" start="1208" end="1213" text="brady" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P10" start="1544" end="1552" text="Whiteman" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P11" start="1852" end="1860" text="Virginia" TYPE="REGION/MAJOR" comment=""></OTHER>
-		<DATE id="P12" start="1995" end="2003" text="November" TYPE="DATE" comment=""></DATE>
-		<NAME id="P13" start="2017" end="2024" text="Nielson" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P14" start="2289" end="2306" text="Chamber Pacemaker" TYPE="PROP_MISC" comment=""></OTHER>
-		<LOCATION id="P15" start="2348" end="2370" text="5435, serial # 4712198" TYPE="ADDRESS1" comment=""></LOCATION>
-		<ID id="P16" start="2363" end="2370" text="4712198" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P17" start="2382" end="2390" text="12/27/22" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P18" start="2396" end="2423" text="5167DH/20 Serial # SQ462162" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P19" start="2468" end="2478" text="Polson, VA" TYPE="ADDRESS2" comment=""></LOCATION>
-		<NAME id="P20" start="2524" end="2535" text="Quenton Qiu" TYPE="DOCTOR" comment=""></NAME>
-		<CONTACT id="P21" start="2537" end="2549" text="203-942-9207" TYPE="PHONE" comment=""></CONTACT>
-		<DATE id="P22" start="2711" end="2717" text="August" TYPE="DATE" comment=""></DATE>
-		<DATE id="P23" start="3385" end="3389" text="5 pm" TYPE="DATE" comment=""></DATE>
-		<DATE id="P24" start="3765" end="3774" text="9/23/2120" TYPE="DATE" comment=""></DATE>
-		<DATE id="P25" start="3822" end="3831" text="9/23/2120" TYPE="DATE" comment=""></DATE>
-		<DATE id="P26" start="3893" end="3902" text="9/23/2120" TYPE="DATE" comment=""></DATE>
-		<DATE id="P27" start="3936" end="3940" text="5 pm" TYPE="DATE" comment=""></DATE>
-		<DATE id="P28" start="3980" end="3990" text="05/01/2123" TYPE="DATE" comment=""></DATE>
-		<DATE id="P29" start="4034" end="4044" text="05/01/2123" TYPE="DATE" comment=""></DATE>
-		<DATE id="P30" start="4082" end="4091" text="6/28/2122" TYPE="DATE" comment=""></DATE>
-		<DATE id="P31" start="4199" end="4208" text="6/28/2122" TYPE="DATE" comment=""></DATE>
-		<DATE id="P32" start="4240" end="4250" text="05/01/2123" TYPE="DATE" comment=""></DATE>
-		<DATE id="P33" start="4299" end="4309" text="05/01/2123" TYPE="DATE" comment=""></DATE>
-		<DATE id="P34" start="4355" end="4359" text="2115" TYPE="DATE" comment=""></DATE>
-		<NAME id="P35" start="4368" end="4372" text="ROMI" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P36" start="4374" end="4378" text="2120" TYPE="DATE" comment=""></DATE>
-		<DATE id="P37" start="4409" end="4413" text="2120" TYPE="DATE" comment=""></DATE>
-		<DATE id="P38" start="4465" end="4469" text="2064" TYPE="DATE" comment=""></DATE>
-		<DATE id="P39" start="4504" end="4508" text="2090" TYPE="DATE" comment=""></DATE>
-		<DATE id="P40" start="4513" end="4517" text="2097" TYPE="DATE" comment=""></DATE>
-		<DATE id="P41" start="4551" end="4555" text="2118" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P42" start="4825" end="4832" text="Finland" TYPE="COUNTRY" comment=""></LOCATION>
-		<LOCATION id="P43" start="4976" end="4983" text="Algeria" TYPE="COUNTRY" comment=""></LOCATION>
-		<LOCATION id="P44" start="5117" end="5127" text="Polson, VA" TYPE="ADDRESS2" comment=""></LOCATION>
-		<NAME id="P45" start="5461" end="5474" text="Norman Werner" TYPE="PATIENT" comment=""></NAME>
-		<CONTACT id="P46" start="5478" end="5490" text="515-562-2325" TYPE="PHONE" comment=""></CONTACT>
-		<NAME id="P47" start="6001" end="6006" text="Nancy" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P48" start="6906" end="6912" text="4/9/23" TYPE="DATE" comment=""></DATE>
-		<NAME id="P49" start="7242" end="7250" text="Flaherty" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P50" start="7252" end="7259" text="Wanda H" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P51" start="7263" end="7275" text="May 04, 2123" TYPE="DATE" comment=""></DATE>
 
 	</TAGS>
 </deIdi2b2>

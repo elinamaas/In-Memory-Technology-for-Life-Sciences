@@ -93,14 +93,6 @@ Regular      8 Units                  Blood Sugar under 101
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2134-01-05" TYPE="DATE" comment=""></DATE>
-		<CONTACT id="P1" start="134" end="143" text="698-77-76" TYPE="PHONE" comment=""></CONTACT>
-		<NAME id="P2" start="247" end="252" text="Mckee" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P3" start="254" end="259" text="Norma" TYPE="PATIENT" comment=""></NAME>
-		<DATE id="P4" start="263" end="278" text="January 5, 2134" TYPE="DATE" comment=""></DATE>
-		<NAME id="P5" start="322" end="331" text="Ms. Mckee" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P6" start="745" end="759" text="Robert Xenakis" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P7" start="2389" end="2398" text="Elliot N." TYPE="PATIENT" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

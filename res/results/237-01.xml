@@ -196,35 +196,6 @@ Document Status: Final
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2091-07-02" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P1" start="47" end="75" text="BEAUREGARD MEMORIAL HOSPITAL" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
-		<NAME id="P2" start="81" end="104" text="Nathan J Fernandes M.D." TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P3" start="109" end="134" text="College Station, NC 22169" TYPE="ADDRESS2" comment=""></LOCATION>
-		<NAME id="P4" start="147" end="156" text="Fernandes" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P5" start="167" end="172" text="Nunes" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P6" start="221" end="237" text="Christian Mullen" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P7" start="478" end="484" text="Mullen" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P8" start="741" end="754" text="November 2088" TYPE="DATE" comment=""></DATE>
-		<DATE id="P9" start="852" end="865" text="February 2089" TYPE="DATE" comment=""></DATE>
-		<DATE id="P10" start="1011" end="1024" text="November 2089" TYPE="DATE" comment=""></DATE>
-		<NAME id="P11" start="1868" end="1874" text="Mullen" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P12" start="2676" end="2682" text="Mullen" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P13" start="3402" end="3406" text="2082" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P14" start="3421" end="3444" text="C6-C7 disk surgery 2079" TYPE="ADDRESS1" comment=""></LOCATION>
-		<NAME id="P15" start="3513" end="3529" text="Christian Mullen" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P16" start="3845" end="3851" text="Mullen" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P17" start="4082" end="4086" text="2088" TYPE="DATE" comment=""></DATE>
-		<DATE id="P18" start="4091" end="4095" text="2089" TYPE="DATE" comment=""></DATE>
-		<NAME id="P19" start="4231" end="4237" text="Mullen" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P20" start="4625" end="4631" text="Mullen" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P21" start="4885" end="4891" text="Mullen" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P22" start="5055" end="5061" text="Mullen" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P23" start="5703" end="5712" text="Paramount" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P24" start="6406" end="6420" text="Sharon Oglesby" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P25" start="7183" end="7197" text="Guy Nunes M.D." TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P26" start="7209" end="7214" text="Nunes" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P27" start="7262" end="7276" text="Sharon Oglesby" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P28" start="7282" end="7294" text="Guyton Nunes" TYPE="DOCTOR" comment=""></NAME>
 
 	</TAGS>
 </deIdi2b2>

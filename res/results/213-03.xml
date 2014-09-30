@@ -117,17 +117,6 @@ Dictated by:  LARRY INOUE, M.D.  LI12
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2065-10-12" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="78" end="84" text="WAGNER" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P2" start="85" end="91" text="LONNIE" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P3" start="94" end="105" text="097-87-37-2" TYPE="IDNUM" comment=""></ID>
-		<CONTACT id="P4" start="94" end="105" text="097-87-37-2" TYPE="PHONE" comment=""></CONTACT>
-		<LOCATION id="P5" start="1266" end="1277" text="VITAL SIGNS" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P6" start="2214" end="2231" text="12th of September" TYPE="DATE" comment=""></DATE>
-		<DATE id="P7" start="2242" end="2250" text="August 1" TYPE="DATE" comment=""></DATE>
-		<NAME id="P8" start="2916" end="2927" text="LARRY INOUE" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P9" start="3062" end="3073" text="LARRY INOUE" TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P10" start="3114" end="3133" text="Attending Physician" TYPE="PROP_MISC" comment=""></OTHER>
 
 	</TAGS>
 </deIdi2b2>

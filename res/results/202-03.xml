@@ -178,42 +178,6 @@ DV: 06/03/61
 
 
 ]]></TEXT><TAGS>
-		<DATE id="P0" start="16" end="26" text="2161-06-03" TYPE="DATE" comment=""></DATE>
-		<NAME id="P1" start="35" end="42" text="DEJESUS" TYPE="PATIENT" comment=""></NAME>
-		<NAME id="P2" start="44" end="50" text="JAROME" TYPE="PATIENT" comment=""></NAME>
-		<ID id="P3" start="52" end="60" text="28044071" TYPE="IDNUM" comment=""></ID>
-		<DATE id="P4" start="62" end="72" text="06/03/2161" TYPE="DATE" comment=""></DATE>
-		<NAME id="P5" start="78" end="92" text="Isaiah Y. Dill" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P6" start="100" end="140" text="Southwest Colorado Medical Health Center" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<LOCATION id="P7" start="142" end="163" text="607 Batchelder Street" TYPE="ADDRESS1" comment=""></LOCATION>
-		<LOCATION id="P8" start="186" end="195" text="NE  29768" TYPE="ADDRESS2" comment=""></LOCATION>
-		<NAME id="P9" start="210" end="214" text="Dill" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P10" start="225" end="235" text="10/11/2082" TYPE="DATE" comment=""></DATE>
-		<NAME id="P11" start="267" end="274" text="Dejesus" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P12" start="282" end="312" text="Erie County Arrhythmia Service" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P13" start="460" end="467" text="Dejesus" TYPE="DOCTOR" comment=""></NAME>
-		<DATE id="P14" start="1521" end="1531" text="03/19/2161" TYPE="DATE" comment=""></DATE>
-		<DATE id="P15" start="1588" end="1596" text="February" TYPE="DATE" comment=""></DATE>
-		<DATE id="P16" start="1821" end="1831" text="01/18/2161" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P17" start="2473" end="2488" text="Medical History" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P18" start="2531" end="2535" text="2155" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P19" start="2868" end="2879" text="RCA mid PDA" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P20" start="3170" end="3180" text="03/06/2161" TYPE="DATE" comment=""></DATE>
-		<LOCATION id="P21" start="3540" end="3549" text="BLANK AAA" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<DATE id="P22" start="3749" end="3754" text="April" TYPE="DATE" comment=""></DATE>
-		<DATE id="P23" start="5200" end="5210" text="05/28/2161" TYPE="DATE" comment=""></DATE>
-		<NAME id="P24" start="5520" end="5527" text="Dejesus" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P25" start="6065" end="6072" text="Dejesus" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P26" start="6969" end="6976" text="Dejesus" TYPE="DOCTOR" comment=""></NAME>
-		<NAME id="P27" start="7137" end="7149" text="Oscar U Rice" TYPE="DOCTOR" comment=""></NAME>
-		<LOCATION id="P28" start="7167" end="7177" text="eScription" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
-		<NAME id="P29" start="7227" end="7237" text="Paige M.D." TYPE="DOCTOR" comment=""></NAME>
-		<OTHER id="P30" start="7239" end="7267" text="Koenen Collins County Clinic" TYPE="FACILITY/BUILDGROUNDS" comment=""></OTHER>
-		<NAME id="P31" start="7273" end="7287" text="Paxton Terrace" TYPE="PATIENT" comment=""></NAME>
-		<LOCATION id="P32" start="7299" end="7308" text="NE, 54583" TYPE="ADDRESS2" comment=""></LOCATION>
-		<DATE id="P33" start="7336" end="7344" text="06/03/61" TYPE="DATE" comment=""></DATE>
-		<DATE id="P34" start="7350" end="7358" text="06/04/61" TYPE="DATE" comment=""></DATE>
-		<DATE id="P35" start="7364" end="7372" text="06/03/61" TYPE="DATE" comment=""></DATE>
 
 	</TAGS>
 </deIdi2b2>
