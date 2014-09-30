@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<deIdi2b2><TEXT><![CDATA[
+
+
+Record date: 2117-08-26
+
+ Usrey, Anthony
+MRN: 6444877
+DOB:  8/11/2062
+August 26, 2117
+
+Sisters Of Providence Hospital
+
+CC: f/u pancreatitis
+
+HPI:  55 y.o. male Columbian speaking (hospital interpreter present) presents for follow up.  He was admitted to PNC on 7/12/17 for further management of his pancreatitis secondary to an ERCP/spincterotomy that was preformed at an outside hospital.  He had a prolonged stay that included NPO, IVF, antibiotics, and TPN.  Further management included management of pulmonary edema and anticoagulation as the patient is on Coumadin at baseline secondary to a heart valve.  He was eventually transitioned to a diet and the TPN stopped.  He represents today for follow up c/o epigastric pain "nails" intermittently at night.  Pain noted on going to sleep but does not stop sleep and he does not awaken in the night from it.  He continues on his antibiotic and will complete its course.
+
+ROS:  no fever/chills, no nausea/vomiting, taking in good oral solids/liquids, occ abdominal pain at present none, no change in bowel or urinary habits.
+
+Exam:  
+Temp: 98.2F
+Abdo: slightly round, soft, nondistended, minimal tenderness LUQ, no masses, +BS
+
+Plan:
+1.  continue oral antibiotics til course is complete
+2.  return in 1-2 weeks for follow 
+3.  return sooner fever/chills, n/v, abdominal pain
+
+Case discussed with and seen by Dr Hugh Delarosa
+
+
+
+Helen Ochs NP
+
+
+
+]]></TEXT><TAGS>
+		<DATE id="P0" start="16" end="26" text="2117-08-26" TYPE="DATE" comment=""></DATE>
+		<NAME id="P1" start="29" end="34" text="Usrey" TYPE="PATIENT" comment=""></NAME>
+		<NAME id="P2" start="36" end="43" text="Anthony" TYPE="PATIENT" comment=""></NAME>
+		<CONTACT id="P3" start="49" end="56" text="6444877" TYPE="PHONE" comment=""></CONTACT>
+		<ID id="P4" start="49" end="56" text="6444877" TYPE="IDNUM" comment=""></ID>
+		<DATE id="P5" start="63" end="72" text="8/11/2062" TYPE="DATE" comment=""></DATE>
+		<DATE id="P6" start="73" end="88" text="August 26, 2117" TYPE="DATE" comment=""></DATE>
+		<LOCATION id="P7" start="101" end="120" text="Providence Hospital" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
+		<DATE id="P8" start="264" end="271" text="7/12/17" TYPE="DATE" comment=""></DATE>
+		<NAME id="P9" start="1100" end="1104" text="Abdo" TYPE="PATIENT" comment=""></NAME>
+		<NAME id="P10" start="1365" end="1378" text="Hugh Delarosa" TYPE="DOCTOR" comment=""></NAME>
+		<NAME id="P11" start="1382" end="1392" text="Helen Ochs" TYPE="PATIENT" comment=""></NAME>
+
+	</TAGS>
+</deIdi2b2>

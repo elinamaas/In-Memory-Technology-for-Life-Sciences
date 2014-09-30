@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<deIdi2b2><TEXT><![CDATA[
+
+
+Record date: 2114-03-12
+
+CARDIOLOGY
+
+SAN ANTONIO HOSPITAL
+
+
+
+Narrative Note:
+
+
+
+			
+
+INITIAL CARDIAC CONSULT 
+
+
+
+
+
+Name: Quinten Dawson                                                                                                                 Date: 03/12/14                                         SAH#: 469-27-58                       Age: 73
+
+
+
+Problem List:  Diabetes.  Hypertension.  Hyperlipidemia.  Sleep apnea. 2/1/11 stroke 4/4/12 exercise sestamibi-SAH: Small posterolateral scar and ischemia  2/21/14 exercise sestamibi-SAH: Moderate-severe anterior apical and inferior ischemia.
+
+
+
+Medications: Glucophage 850 mg t.i.d., glipizide 10 mg b.i.d., Cozaar 50 mg, Zocor 20 mg, Detrol 2 mg, Colace, aspirin 81, isosorbide 40 mg q.a.m., multivitamin, glucosamine and chondroitin b.i.d., Naprosyn 220-2 pills b.i.d., Celexa 20 mg. BiPAP
+
+
+
+			
+
+Reactions to Medicines: None
+
+
+
+			
+
+Chief Complaint: Shortness of breath which is, in fact, chest tightness
+
+
+
+History of Present Illness: This 73 year-old hypertensive hyperlipidemic diabetic had a previous stroke on 2/1/11 and a recent exercise test that showed extensive ischemia as noted above.  He has noted shortness or breath for the last three months.  In fact the shortness of breath is exertional chest tightness which comes on with exertion and is relieved by rest.  He is sent by Dr. Everhart for consideration for coronary angiogram.  On 1/08/14 his cholesterol was 165, triglyceride 109, HDL 54 and LDL 89.  He does get some lightheadedness if he has a high sugar.  He's had no rapid heart action or sudden dizzy spells.
+
+
+
+ROS:Const.-Negative
+
+Eyes -Negative
+
+ENMT: Bilateral hearing loss
+
+CV: See above
+
+Respiratory: Sleep apnea
+
+GI -.  Recent constipation  
+
+GU -Impotence.  Urgency and incontinence  
+
+MS -  arthritis of both knees and hands.  Considering knee replacement
+
+Skin - Negative
+
+Neuro -CVA in past.  Mild residual left facial drooping and occasional trouble finding words.
+
+Psych - Depression well controlled on Celexa
+
+Endocrine -  Diabetes
+
+Heme-No blood problems
+
+Allergies - No drug allergies and no allergies to dye
+
+
+
+Past History:  T & A, laparoscopic cholecystectomy.  He has no other major illnesses.  He does not smoke and drinks about one glass of wine per day.
+
+
+
+Family History: His father died at 83 of a stroke, cancer and diabetes.  Mother died at 73 of heart disease, diabetes and cancer.  Two sisters are living without diabetes.
+
+
+
+Social History:  He a mapping technologist and is actively working.  He is divorced and has two children and one grandchild.  His significant other works as an optician.  She is divorced and has three children and one grandchild.
+
+
+
+Complete Cardiovascular Exam:. BP 100 50/65.  His jugular venous pressure is seven and he has no carotid bruits.  He has no rales.  He has a 1/6 aortic ejection murmur, a 2/6 MR murmur at the apex with a normal S2 and no S3.  He has no enlargement of the liver and no edema.
+
+
+
+EKG:   NSR 59, LAE, NSTTWA
+
+
+
+Assessment: I agree he clearly needs a coronary angiogram as well as a left ventricular angiogram to assess MR.  He should also have a left right heart catheter because of the aortic ejection murmur.  In the meantime I will ask into double his isosorbide to 40 mg in the morning and again at 3 p.m. to give him better protection throughout the day.  I will ask him to increase his aspirin to 325 mg a day.  I will also add fish oil 1000 mg a day which is been shown to reduce the risk of sudden death.  Finally we will double his Zocor to 40 mg to try to reach the new goal of an LDL of less than 70.  I explained the rationale for proceeding on with the catheterization and the probability that we will find multivessel disease that will not be suitable for PCI but rather for continued medicine or possible surgery.  Of course the catheterization will determine that.  He should not consider any total knee operation until the cardiac status is clarified.
+
+
+
+
+
+Quentin T. Edward, Jr., M.D.
+
+
+
+CC: Mr. Quinten Dawson, 653 Wildwood Lane, New Ashford, VA 67999
+
+       Dr. Xavier Everhart, Internal Medicine, SAH
+
+
+
+
+
+Signed electronically by   Quentin T Edward MD  on  Mar 12, 2114     
+
+
+
+]]></TEXT><TAGS>
+		<DATE id="P0" start="16" end="26" text="2114-03-12" TYPE="DATE" comment=""></DATE>
+		<LOCATION id="P1" start="40" end="60" text="SAN ANTONIO HOSPITAL" TYPE="ORGANIZATION/MEDICALSCIENCE" comment=""></LOCATION>
+		<NAME id="P2" start="124" end="255" text="Quinten Dawson                                                                                                                 Date" TYPE="PATIENT" comment=""></NAME>
+		<DATE id="P3" start="257" end="265" text="03/12/14" TYPE="DATE" comment=""></DATE>
+		<CONTACT id="P4" start="312" end="321" text="469-27-58" TYPE="PHONE" comment=""></CONTACT>
+		<DATE id="P5" start="426" end="432" text="2/1/11" TYPE="DATE" comment=""></DATE>
+		<DATE id="P6" start="440" end="446" text="4/4/12" TYPE="DATE" comment=""></DATE>
+		<DATE id="P7" start="511" end="518" text="2/21/14" TYPE="DATE" comment=""></DATE>
+		<OTHER id="P8" start="979" end="994" text="Present Illness" TYPE="PROP_MISC" comment=""></OTHER>
+		<DATE id="P9" start="1075" end="1081" text="2/1/11" TYPE="DATE" comment=""></DATE>
+		<NAME id="P10" start="1353" end="1361" text="Everhart" TYPE="DOCTOR" comment=""></NAME>
+		<DATE id="P11" start="1408" end="1415" text="1/08/14" TYPE="DATE" comment=""></DATE>
+		<CONTACT id="P12" start="2705" end="2714" text="100 50/65" TYPE="PHONE" comment=""></CONTACT>
+		<DATE id="P13" start="3271" end="3277" text="3 p.m." TYPE="DATE" comment=""></DATE>
+		<NAME id="P14" start="3942" end="3964" text="Quentin T. Edward, Jr." TYPE="PATIENT" comment=""></NAME>
+		<OTHER id="P15" start="3974" end="3977" text="CC:" TYPE="NAME_DESIGNATOR" comment=""></OTHER>
+		<NAME id="P16" start="3982" end="3996" text="Quinten Dawson" TYPE="DOCTOR" comment=""></NAME>
+		<LOCATION id="P17" start="3998" end="4015" text="653 Wildwood Lane" TYPE="ADDRESS1" comment=""></LOCATION>
+		<NAME id="P18" start="4021" end="4028" text="Ashford" TYPE="PATIENT" comment=""></NAME>
+		<LOCATION id="P19" start="4030" end="4038" text="VA 67999" TYPE="ADDRESS2" comment=""></LOCATION>
+		<NAME id="P20" start="4051" end="4066" text="Xavier Everhart" TYPE="DOCTOR" comment=""></NAME>
+		<NAME id="P21" start="4123" end="4142" text="Quentin T Edward MD" TYPE="DOCTOR" comment=""></NAME>
+		<DATE id="P22" start="4148" end="4160" text="Mar 12, 2114" TYPE="DATE" comment=""></DATE>
+
+	</TAGS>
+</deIdi2b2>

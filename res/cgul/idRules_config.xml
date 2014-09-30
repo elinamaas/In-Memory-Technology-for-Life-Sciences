@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tasdk-configuration xmlns="http://www.sap.com/ta/config/4.0">
+  <configuration name="SAP.TextAnalysis.AnalysisModel.AggregateAnalyzer.Aggregator">
+    <property name="Analyzers" type="string-list">
+      <string-list-value>SAP.TextAnalysis.DocumentAnalysis.FormatConversion.FormatConversionAnalyzer.FC</string-list-value>
+      <string-list-value>SAP.TextAnalysis.DocumentAnalysis.StructureAnalysis.StructureAnalyzer.SA</string-list-value>
+      <string-list-value>SAP.TextAnalysis.DocumentAnalysis.LinguisticAnalysis.LinguisticAnalyzer.LX</string-list-value>
+      <string-list-value>SAP.TextAnalysis.DocumentAnalysis.Extraction.ExtractionAnalyzer.TF</string-list-value>
+    </property>
+  </configuration>
+  <!-- share LanguageDir among all analyzers that require it -->
+  <configuration name="CommonSettings">
+    <property name="LanguageDir" type="string">
+      <string-value>
+        <!-- /usr/sap/HDB/sys/global/hdb/custom/config/lexicon/lang -->
+      </string-value>
+    </property>
+  </configuration>
+  <configuration name="SAP.TextAnalysis.DocumentAnalysis.FormatConversion.FormatConversionAnalyzer.FC" based-on="CommonSettings">
+  </configuration>
+  <configuration name="SAP.TextAnalysis.DocumentAnalysis.StructureAnalysis.StructureAnalyzer.SA" based-on="CommonSettings">
+  </configuration>
+  <configuration name="SAP.TextAnalysis.DocumentAnalysis.LinguisticAnalysis.LinguisticAnalyzer.LX" based-on="CommonSettings">
+    <!-- Return multi-word tokens?  (default is 'false') -->
+    <property name="FindMultiWordTokens" type="boolean">
+      <boolean-value>false</boolean-value>
+    </property>
+    <!-- Determine the stems (base forms) for each token?  (default is 'true') -->
+    <property name="GetTokenStem" type="boolean">
+      <boolean-value>true</boolean-value>
+    </property>
+    <!-- In case of ambiguous stems, choose the most probable one based on the context?  (default is 'false') -->
+    <property name="DisambiguateStem" type="boolean">
+      <boolean-value>false</boolean-value>
+    </property>
+    <!-- Guess stems for tokens not found in a lexicon?  (default is 'false') -->
+    <property name="EnableStemGuesser" type="boolean">
+      <boolean-value>false</boolean-value>
+    </property>
+    <!-- Determine the part of speech for each token?  (default is 'true') -->
+    <property name="GetTokenPartOfSpeech" type="boolean">
+      <boolean-value>true</boolean-value>
+    </property>
+    <!-- In case of ambiguous POS tags, choose the most probable one based on the context?  (default is 'true') -->
+    <property name="DisambiguatePartOfSpeech" type="boolean">
+      <boolean-value>true</boolean-value>
+    </property>
+    <!-- Use custom linguistic dictionaries?  (default is 'false') -->
+    <property name="EnableCustomDictionaries" type="boolean">
+      <boolean-value>true</boolean-value>
+    </property>
+  </configuration>
+  <configuration name="SAP.TextAnalysis.DocumentAnalysis.Extraction.ExtractionAnalyzer.TF" based-on="CommonSettings">
+    <property name="ExtractionRules" type="string-list">
+      <string-list-value>phi_idRules.fsm</string-list-value>
+    </property>
+  </configuration>
+</tasdk-configuration>

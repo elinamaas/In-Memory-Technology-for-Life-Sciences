@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<deIdi2b2><TEXT><![CDATA[
+
+
+Record date: 2122-04-23
+
+                                                       Patient Name: VALLE,ISABELLA [ MRN: 4698877KMC ]
+
+                                                         Date of Visit: 4/23/2122, 10:45 p
+
+
+
+Neurosurgery H & P:
+
+
+
+CC/HPI: 54 yo F w/ h/o PCKD and HTN presents w/ worst H/A of her life.  The patient over-slept this morning because of a severe H/A and "groginess."  She awoke at 10 am by her Husband who was calling to check on her (given she usually awakens by 6 am).  She called 911 and was transferred to us for further care.  We were consulted at 10:40 pm for Head CT showing SAH.  She now only c/o mild H/A w/o any vertigo, tinnitus, weakness, nor numbness.
+
+
+
+PMH: 	Polycystic kidney disease:
+
+		- renal failure
+
+		- s/p renal transplant in '13 
+
+		- s/p nephrectomy in '18 
+
+		- now on peritoneal dialysis
+
+
+
+	Secondary Hyperparathyroidism
+
+		- has had spont fractures
+
+		- s/p semi total parathyroidectomy in 2112
+
+
+
+	HTN
+
+	Hypercholesteremia
+
+	IDDM
+
+
+
+PSH:	' 09 TAH-BSO
+
+	' 10 parathyroidectomy
+
+	' 18 left nephrectomy
+
+	AV fistulas x2
+
+
+
+Meds: 	Lasix 40 mg
+
+	Norvasc 10 mg po qd
+
+	Lipitor 40 mg po qd,
+
+	prednisone 10 mg,
+
+	Epogen 10kU 4x/week 
+
+	Insulin NPH 38 units plus regular 8 units in a.m.
+
+
+
+NKDA 
+
+
+
+SH: non-contributory.
+
+
+
+FH: Mother died of an aneurysm at KMC
+
+
+
+PE: Afebrile, BP 160/80, P 80, R 16
+
+
+
+Neuro:	AA & Ox3, speech clear
+
+	PRL (L6 to 5, R 5 to 4), FOV full grossly, EOMI, FS, TML, SCM/TPZ 5/5 B
+
+	MAE @ 5/5, mild RUE drift
+
+	No gross sensory deficit
+
+	DTR: 1+ B Bicep/BR/Patella
+
+	NEG Babinski's
+
+	No cerebellar signs
+
+
+
+Head CTA: Fischer grade 1 SAH in B sylvian fissures.  Small amount of paramesencephalic SAH in the Right.  A 6 mm L MCA bifurcation aneurysm pointing latero-superiorly is seen.
+
+
+
+LABS: Normal CBC,lytes, and coags except WBC = 12.6, K = 5.3, BUN/CR = 48 / 9.6, Trop = 0.25
+
+
+
+A/P: 54 yo F w/ PCDK & HTN p/w Hunt Hess grade 2, Fischer grade 1 SAH from L MCA aneurysm. D/W Drs. Ashley & Dang:
+
+	- D/W Dr. Uren and Dr. Quenton Vanburen who related that CTA and Angio could both be done for this patient safely.  A dialysis RN will be by soon to dialyse the patient.  CTA done.
+
+	- Booked for OR Waitlist in AM
+
+	- Pre-op labs done
+
+	- EKG shows no ischemia w/ LVH
+
+	- Vanc/Gent for open Peritoneal catheter noted on exam
+
+
+
+
+
+
+
+
+
+______________________________                              
+
+Michael Tomlinson, M.D.
+
+
+
+]]></TEXT><TAGS>
+		<DATE id="P0" start="16" end="26" text="2122-04-23" TYPE="DATE" comment=""></DATE>
+		<NAME id="P1" start="97" end="102" text="VALLE" TYPE="PATIENT" comment=""></NAME>
+		<NAME id="P2" start="103" end="111" text="ISABELLA" TYPE="PATIENT" comment=""></NAME>
+		<DATE id="P3" start="205" end="214" text="4/23/2122" TYPE="DATE" comment=""></DATE>
+		<DATE id="P4" start="216" end="221" text="10:45" TYPE="DATE" comment=""></DATE>
+		<NAME id="P5" start="261" end="265" text="yo F" TYPE="PATIENT" comment=""></NAME>
+		<DATE id="P6" start="413" end="418" text="10 am" TYPE="DATE" comment=""></DATE>
+		<DATE id="P7" start="496" end="500" text="6 am" TYPE="DATE" comment=""></DATE>
+		<CONTACT id="P8" start="515" end="518" text="911" TYPE="PHONE" comment=""></CONTACT>
+		<DATE id="P9" start="585" end="593" text="10:40 pm" TYPE="DATE" comment=""></DATE>
+		<DATE id="P10" start="951" end="955" text="2112" TYPE="DATE" comment=""></DATE>
+		<NAME id="P11" start="1598" end="1605" text="Fischer" TYPE="PATIENT" comment=""></NAME>
+		<NAME id="P12" start="1872" end="1876" text="yo F" TYPE="PATIENT" comment=""></NAME>
+		<NAME id="P13" start="1895" end="1904" text="Hunt Hess" TYPE="PATIENT" comment=""></NAME>
+		<NAME id="P14" start="1914" end="1921" text="Fischer" TYPE="PATIENT" comment=""></NAME>
+		<NAME id="P15" start="1964" end="1970" text="Ashley" TYPE="PATIENT" comment=""></NAME>
+		<NAME id="P16" start="1973" end="1977" text="Dang" TYPE="PATIENT" comment=""></NAME>
+		<NAME id="P17" start="2012" end="2020" text="Uren and" TYPE="DOCTOR" comment=""></NAME>
+		<NAME id="P18" start="2046" end="2051" text="Angio" TYPE="PATIENT" comment=""></NAME>
+		<NAME id="P19" start="2377" end="2394" text="Michael Tomlinson" TYPE="DOCTOR" comment=""></NAME>
+
+	</TAGS>
+</deIdi2b2>

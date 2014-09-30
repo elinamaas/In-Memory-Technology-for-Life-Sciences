@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<deIdi2b2><TEXT><![CDATA[
+
+
+Record date: 2092-08-30
+
+
+
+
+
+NAME:     Yager, Becky
+
+MRN:      0887181
+
+
+
+Becka returns for follow-up of painful neuropathy. She showed me a foot ulcer
+
+that she has had since early August. In fact, this was debrided on August 9 by Dr.
+
+Noyes and was found to contain Staph aureus sensitive to oxacillin and Bactrim.
+
+She was treated with Augmentin for 2 weeks with little improvement. She has not
+
+had any fever. She continues on her chronic pain medications and Percocet. 
+
+
+
+On exam, the second toe on the right foot is severely swollen and red. There is an
+
+ulcer which looks quite deep on the medial aspect of the toe. I had Dr. Drew
+
+take a look at her foot who agreed that she should be seen in the emergency room. 
+
+
+
+IMPRESSION:  Cellulitis/right toe ulcer - Persistent infection and unresponsiveness
+
+to 2-week course of Augmentin raise concern of underlying osteomyelitis. Rebecca
+
+was referred into the emergency room for further evaluation. She also was given a
+
+new prescription for her Percocet #100. I will see her in follow-up in 1 month. 
+
+
+
+Rowena Xanders, M.D.
+
+
+
+RX/mcbride/richardson
+
+
+
+cc:  Georgia Xing, M.D. 
+
+
+
+
+
+
+
+
+
+]]></TEXT><TAGS>
+		<DATE id="P0" start="16" end="26" text="2092-08-30" TYPE="DATE" comment=""></DATE>
+		<NAME id="P1" start="49" end="54" text="Becky" TYPE="PATIENT" comment=""></NAME>
+		<ID id="P2" start="66" end="73" text="0887181" TYPE="IDNUM" comment=""></ID>
+		<CONTACT id="P3" start="66" end="73" text="0887181" TYPE="PHONE" comment=""></CONTACT>
+		<NAME id="P4" start="77" end="82" text="Becka" TYPE="PATIENT" comment=""></NAME>
+		<DATE id="P5" start="185" end="191" text="August" TYPE="DATE" comment=""></DATE>
+		<DATE id="P6" start="223" end="231" text="August 9" TYPE="DATE" comment=""></DATE>
+		<NAME id="P7" start="240" end="245" text="Noyes" TYPE="PATIENT" comment=""></NAME>
+		<NAME id="P8" start="641" end="641" text="" TYPE="DOCTOR" comment=""></NAME>
+		<NAME id="P9" start="887" end="894" text="Rebecca" TYPE="PATIENT" comment=""></NAME>
+		<NAME id="P10" start="1063" end="1077" text="Rowena Xanders" TYPE="DOCTOR" comment=""></NAME>
+		<OTHER id="P11" start="1112" end="1115" text="cc:" TYPE="NAME_DESIGNATOR" comment=""></OTHER>
+		<NAME id="P12" start="1117" end="1129" text="Georgia Xing" TYPE="DOCTOR" comment=""></NAME>
+
+	</TAGS>
+</deIdi2b2>

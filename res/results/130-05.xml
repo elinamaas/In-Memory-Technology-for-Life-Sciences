@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<deIdi2b2><TEXT><![CDATA[
+
+
+Record date: 2090-04-30
+
+EDVISIT^83288425^PAUL, MAE^04/30/90^CORTES, ODESSA
+
+The patient was seen in conjunction with resident, Dr. Peacock. 
+
+Resident's note was reviewed.  The patient was seen and examined
+
+by me.  Please see the resident's note for details of the
+
+patient's past medical, social, family history, review of
+
+systems, and physical exam.
+
+CHIEF COMPLAINT:  Bleeding fistula.
+
+HISTORY OF PRESENT ILLNESS:  This is a 78-year-old woman with
+
+end-stage renal disease, on hemodialysis, who is here with
+
+bleeding of her left upper arm AV fistula that she uses for
+
+dialysis that started today at dialysis.  When the patient pulled
+
+up her sleeve, she scratched herself and it began to bleed. 
+
+Blood pressure is 112/60.  The bleeding can be controlled with
+
+compression and so she presented to the Emergency Department
+
+where she was seen by the Internal Medicine for repair.
+
+PAST MEDICAL HISTORY:  The patient has a history of severe aortic
+
+stenosis with 0.7 cm greater diameter, mitral regurg and
+
+tricuspid regurg, end-stage renal disease on hemodialysis, PVD,
+
+foot drop, anemia, sciatica, left thigh pain, hyperlipidemia,
+
+secondary hyperparathyroidism, hemorrhoids, coronary artery
+
+disease status post non-ST elevation MI, CHF with an EF of
+
+35-40%.
+
+PAST SURGICAL HISTORY:  Includes a TAH, appendectomy, cataract
+
+surgery, ovarian cyst removal.
+
+SOCIAL HISTORY:  Never smoked, does not drink or use drugs.  She
+
+is retired, lives with her daughter who is a surgeon.
+
+FAMILY HISTORY:  Shows an extensive vascular history.
+
+REVIEW OF SYSTEMS:  Otherwise, negative.
+
+PHYSICAL EXAMINATION:  She is afebrile, normal and stable vital
+
+signs.  She has bilaterally faintly scattered rales on chest
+
+examination and she has a small laceration on the left arm over
+
+the fistula with an excoriation and this squirting blood would
+
+not controlled with pressure.
+
+LABORATORY DATA:  CBC is normal with a hematocrit of 43.  Chem-7
+
+is otherwise normal.  Coags reveal an INR of 1.4.  Chest x-ray
+
+shows no acute disease.
+
+EMERGENCY DEPARTMENT COURSE:  She was seen by surgery who repair
+
+her fistula.  She is due to go to dialysis now and due to sickle
+
+nature of her disease, I think it is best that she keep her
+
+dialysis appointment and so she is transferred from here with her
+
+daughter to the EHCC Dialysis Unit to undergo full dialysis.
+
+PRIMARY DIAGNOSES:  Bleeding aVF and end-stage renal disease.
+
+DISPOSITION:  She is discharged in satisfactory condition.
+
+______________________________
+
+CORTES, ODESSA M.D.
+
+D: 04/30/90
+
+T: 04/30/90
+
+Dictated By: CORTES, ODESSA
+
+eScription document:5-52221754 FVQtwry
+
+ ******** Not reviewed by Attending Physician ********
+
+
+
+
+
+]]></TEXT><TAGS>
+		<DATE id="P0" start="16" end="26" text="2090-04-30" TYPE="DATE" comment=""></DATE>
+		<NAME id="P1" start="72" end="78" text="ODESSA" TYPE="PATIENT" comment=""></NAME>
+		<OTHER id="P2" start="72" end="78" text="ODESSA" TYPE="LOCALITY" comment=""></OTHER>
+		<NAME id="P3" start="135" end="142" text="Peacock" TYPE="DOCTOR" comment=""></NAME>
+		<LOCATION id="P4" start="813" end="833" text="Emergency Department" TYPE="ORGANIZATION/GOVERNMENT" comment=""></LOCATION>
+		<OTHER id="P5" start="861" end="878" text="Internal Medicine" TYPE="PROP_MISC" comment=""></OTHER>
+		<LOCATION id="P6" start="2031" end="2051" text="EMERGENCY DEPARTMENT" TYPE="ORGANIZATION/GOVERNMENT" comment=""></LOCATION>
+		<LOCATION id="P7" start="2031" end="2051" text="EMERGENCY DEPARTMENT" TYPE="ORGANIZATION/EDUCATIONAL" comment=""></LOCATION>
+		<OTHER id="P8" start="2307" end="2325" text="EHCC Dialysis Unit" TYPE="PROP_MISC" comment=""></OTHER>
+		<NAME id="P9" start="2508" end="2514" text="CORTES" TYPE="PATIENT" comment=""></NAME>
+		<NAME id="P10" start="2516" end="2527" text="ODESSA M.D." TYPE="DOCTOR" comment=""></NAME>
+		<DATE id="P11" start="2532" end="2540" text="04/30/90" TYPE="DATE" comment=""></DATE>
+		<DATE id="P12" start="2545" end="2553" text="04/30/90" TYPE="DATE" comment=""></DATE>
+		<NAME id="P13" start="2568" end="2574" text="CORTES" TYPE="PATIENT" comment=""></NAME>
+		<NAME id="P14" start="2576" end="2582" text="ODESSA" TYPE="PATIENT" comment=""></NAME>
+		<OTHER id="P15" start="2576" end="2582" text="ODESSA" TYPE="LOCALITY" comment=""></OTHER>
+		<LOCATION id="P16" start="2584" end="2594" text="eScription" TYPE="ORGANIZATION/COMMERCIAL" comment=""></LOCATION>
+		<OTHER id="P17" start="2650" end="2669" text="Attending Physician" TYPE="PROP_MISC" comment=""></OTHER>
+
+	</TAGS>
+</deIdi2b2>
